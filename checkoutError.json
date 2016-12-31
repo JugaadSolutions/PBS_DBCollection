@@ -1,0 +1,4251 @@
+{ 
+    "_id" : ObjectId("5862022bba2be95d532c6e5a"), 
+    "lastModifiedAt" : ISODate("2016-12-27T05:54:51.655+0000"), 
+    "createdAt" : ISODate("2016-12-27T05:54:51.655+0000"), 
+    "user" : "3", 
+    "vehicleId" : "5849224d577e7e6f43b7732a", 
+    "fromPort" : "", 
+    "checkOutTime" : "12/27/2016, 11:22:15 AM", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": No port found by this id", 
+    "duration" : NumberInt(0), 
+    "status" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586202a4ba2be95d532c701c"), 
+    "lastModifiedAt" : ISODate("2016-12-27T05:56:52.129+0000"), 
+    "createdAt" : ISODate("2016-12-27T05:56:52.129+0000"), 
+    "user" : "3", 
+    "vehicleId" : "5849224d577e7e6f43b7732a", 
+    "fromPort" : "", 
+    "checkOutTime" : "12/27/2016, 11:26:15 AM", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": No port found by this id", 
+    "duration" : NumberInt(0), 
+    "status" : "", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58625fc4ba2be95d532c7255"), 
+    "lastModifiedAt" : ISODate("2016-12-27T12:34:12.666+0000"), 
+    "createdAt" : ISODate("2016-12-27T12:34:12.666+0000"), 
+    "vehicleId" : "5851347ece292302627f4afe", 
+    "fromPort" : "584922ef577e7e6f43b77352", 
+    "checkOutTime" : "2016-12-27T12:35:58.409Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "duration" : NumberInt(0), 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58625fc7ba2be95d532c7260"), 
+    "lastModifiedAt" : ISODate("2016-12-27T12:34:15.636+0000"), 
+    "createdAt" : ISODate("2016-12-27T12:34:15.636+0000"), 
+    "vehicleId" : "585134fbce292302627f4c66", 
+    "fromPort" : "584922ef577e7e6f43b77354", 
+    "checkOutTime" : "2016-12-27T12:36:01.926Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "duration" : NumberInt(0), 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58625fc8ba2be95d532c7263"), 
+    "lastModifiedAt" : ISODate("2016-12-27T12:34:16.745+0000"), 
+    "createdAt" : ISODate("2016-12-27T12:34:16.745+0000"), 
+    "vehicleId" : "585134fbce292302627f4c66", 
+    "fromPort" : "584922ef577e7e6f43b77354", 
+    "checkOutTime" : "2016-12-27T12:36:01.926Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "duration" : NumberInt(0), 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58626c07de5e6661014425ca"), 
+    "lastModifiedAt" : ISODate("2016-12-27T13:26:31.409+0000"), 
+    "createdAt" : ISODate("2016-12-27T13:26:31.409+0000"), 
+    "vehicleId" : "58513404ce292302627f4965", 
+    "fromPort" : "5849213dd51ad2238a1af693", 
+    "checkOutTime" : "2016-12-27T13:09:49.991Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "duration" : NumberInt(0), 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58626c07de5e6661014425d2"), 
+    "lastModifiedAt" : ISODate("2016-12-27T13:26:31.873+0000"), 
+    "createdAt" : ISODate("2016-12-27T13:26:31.873+0000"), 
+    "vehicleId" : "5854fe335cf63b2045060fac", 
+    "fromPort" : "5849213dd51ad2238a1af695", 
+    "checkOutTime" : "2016-12-27T13:09:33.361Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "duration" : NumberInt(0), 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58626c07de5e6661014425d3"), 
+    "lastModifiedAt" : ISODate("2016-12-27T13:26:31.875+0000"), 
+    "createdAt" : ISODate("2016-12-27T13:26:31.875+0000"), 
+    "vehicleId" : "58513404ce292302627f4965", 
+    "fromPort" : "5849213dd51ad2238a1af693", 
+    "checkOutTime" : "2016-12-27T13:09:49.991Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "duration" : NumberInt(0), 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58626c07de5e6661014425d4"), 
+    "lastModifiedAt" : ISODate("2016-12-27T13:26:31.875+0000"), 
+    "createdAt" : ISODate("2016-12-27T13:26:31.875+0000"), 
+    "vehicleId" : "585134abce292302627f4b76", 
+    "fromPort" : "5849213dd51ad2238a1af698", 
+    "checkOutTime" : "2016-12-27T13:10:30.654Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "duration" : NumberInt(0), 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586272d8de5e6661014425f9"), 
+    "lastModifiedAt" : ISODate("2016-12-27T13:55:36.574+0000"), 
+    "createdAt" : ISODate("2016-12-27T13:55:36.574+0000"), 
+    "vehicleId" : "585134c8ce292302627f4bee", 
+    "fromPort" : "58492195d51ad2238a1af6bb", 
+    "checkOutTime" : "2016-12-27T13:58:18.409Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "duration" : NumberInt(0), 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863380bde5e666101442633"), 
+    "lastModifiedAt" : ISODate("2016-12-28T03:56:59.590+0000"), 
+    "createdAt" : ISODate("2016-12-28T03:56:59.590+0000"), 
+    "vehicleId" : "585134fbce292302627f4c66", 
+    "fromPort" : "584922ef577e7e6f43b77356", 
+    "checkOutTime" : "2016-12-28T03:58:53.223Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "duration" : NumberInt(0), 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58633838de5e66610144264c"), 
+    "lastModifiedAt" : ISODate("2016-12-28T03:57:44.862+0000"), 
+    "createdAt" : ISODate("2016-12-28T03:57:44.862+0000"), 
+    "vehicleId" : "5851345cce292302627f4a70", 
+    "fromPort" : "584922ef577e7e6f43b7735a", 
+    "checkOutTime" : "2016-12-28T03:59:36.944Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "duration" : NumberInt(0), 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863387fde5e666101442671"), 
+    "lastModifiedAt" : ISODate("2016-12-28T03:58:55.916+0000"), 
+    "createdAt" : ISODate("2016-12-28T03:58:55.916+0000"), 
+    "vehicleId" : "585134fbce292302627f4c66", 
+    "fromPort" : "584922ef577e7e6f43b77356", 
+    "checkOutTime" : "2016-12-28T04:00:48.701Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "duration" : NumberInt(0), 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a217a7770f2681a7a4ee"), 
+    "lastModifiedAt" : ISODate("2016-12-28T11:29:27.870+0000"), 
+    "createdAt" : ISODate("2016-12-28T11:29:27.870+0000"), 
+    "vehicleId" : "5851345cce292302627f4a70", 
+    "fromPort" : "584922ef577e7e6f43b7735a", 
+    "checkOutTime" : "2016-12-28T11:31:23.892Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a218a7770f2681a7a4f1"), 
+    "lastModifiedAt" : ISODate("2016-12-28T11:29:28.785+0000"), 
+    "createdAt" : ISODate("2016-12-28T11:29:28.785+0000"), 
+    "vehicleId" : "5851345cce292302627f4a70", 
+    "fromPort" : "584922ef577e7e6f43b7735a", 
+    "checkOutTime" : "2016-12-28T11:31:23.892Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a221a7770f2681a7a4fd"), 
+    "lastModifiedAt" : ISODate("2016-12-28T11:29:37.686+0000"), 
+    "createdAt" : ISODate("2016-12-28T11:29:37.686+0000"), 
+    "vehicleId" : "585134fbce292302627f4c66", 
+    "fromPort" : "584922ef577e7e6f43b77356", 
+    "checkOutTime" : "2016-12-28T11:31:33.629Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a22aa7770f2681a7a50a"), 
+    "lastModifiedAt" : ISODate("2016-12-28T11:29:46.619+0000"), 
+    "createdAt" : ISODate("2016-12-28T11:29:46.619+0000"), 
+    "vehicleId" : "585111e53bbb1512b286fa2a", 
+    "fromPort" : "584922ef577e7e6f43b77350", 
+    "checkOutTime" : "2016-12-28T11:31:43.062Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a53ea7770f2681a7a579"), 
+    "lastModifiedAt" : ISODate("2016-12-28T11:42:54.739+0000"), 
+    "createdAt" : ISODate("2016-12-28T11:42:54.739+0000"), 
+    "vehicleId" : "5851347ece292302627f4afe", 
+    "fromPort" : "5849235cc31f7c020a0f6cbb", 
+    "checkOutTime" : "2016-12-28T11:45:15.705Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a566a7770f2681a7a5af"), 
+    "lastModifiedAt" : ISODate("2016-12-28T11:43:34.236+0000"), 
+    "createdAt" : ISODate("2016-12-28T11:43:34.236+0000"), 
+    "vehicleId" : "5851347ece292302627f4afe", 
+    "fromPort" : "5849235cc31f7c020a0f6cbb", 
+    "checkOutTime" : "2016-12-28T11:45:53.972Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a566a7770f2681a7a5b2"), 
+    "lastModifiedAt" : ISODate("2016-12-28T11:43:34.584+0000"), 
+    "createdAt" : ISODate("2016-12-28T11:43:34.584+0000"), 
+    "vehicleId" : "5851347ece292302627f4afe", 
+    "fromPort" : "5849235cc31f7c020a0f6cbb", 
+    "checkOutTime" : "2016-12-28T11:45:53.972Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a567a7770f2681a7a5b5"), 
+    "lastModifiedAt" : ISODate("2016-12-28T11:43:35.406+0000"), 
+    "createdAt" : ISODate("2016-12-28T11:43:35.406+0000"), 
+    "vehicleId" : "5851347ece292302627f4afe", 
+    "fromPort" : "5849235cc31f7c020a0f6cbb", 
+    "checkOutTime" : "2016-12-28T11:45:53.972Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a7f4a7770f2681a7a62c"), 
+    "lastModifiedAt" : ISODate("2016-12-28T11:54:28.995+0000"), 
+    "createdAt" : ISODate("2016-12-28T11:54:28.995+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "5849235cc31f7c020a0f6cb9", 
+    "checkOutTime" : "2016-12-28T11:56:49.039Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a7f5a7770f2681a7a62f"), 
+    "lastModifiedAt" : ISODate("2016-12-28T11:54:29.669+0000"), 
+    "createdAt" : ISODate("2016-12-28T11:54:29.668+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "5849235cc31f7c020a0f6cb9", 
+    "checkOutTime" : "2016-12-28T11:56:49.039Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a805a7770f2681a7a63b"), 
+    "lastModifiedAt" : ISODate("2016-12-28T11:54:45.045+0000"), 
+    "createdAt" : ISODate("2016-12-28T11:54:45.045+0000"), 
+    "vehicleId" : "584a4dcc2e7b846da3b0af8d", 
+    "fromPort" : "5849235cc31f7c020a0f6cbd", 
+    "checkOutTime" : "2016-12-28T11:57:04.235Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a805a7770f2681a7a63e"), 
+    "lastModifiedAt" : ISODate("2016-12-28T11:54:45.857+0000"), 
+    "createdAt" : ISODate("2016-12-28T11:54:45.857+0000"), 
+    "vehicleId" : "584a4dcc2e7b846da3b0af8d", 
+    "fromPort" : "5849235cc31f7c020a0f6cbd", 
+    "checkOutTime" : "2016-12-28T11:57:04.235Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a84da7770f2681a7a661"), 
+    "lastModifiedAt" : ISODate("2016-12-28T11:55:57.618+0000"), 
+    "createdAt" : ISODate("2016-12-28T11:55:57.618+0000"), 
+    "vehicleId" : "584a4dcc2e7b846da3b0af8d", 
+    "fromPort" : "5849235cc31f7c020a0f6cbf", 
+    "checkOutTime" : "2016-12-28T11:58:17.684Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a84ea7770f2681a7a664"), 
+    "lastModifiedAt" : ISODate("2016-12-28T11:55:58.240+0000"), 
+    "createdAt" : ISODate("2016-12-28T11:55:58.240+0000"), 
+    "vehicleId" : "584a4dcc2e7b846da3b0af8d", 
+    "fromPort" : "5849235cc31f7c020a0f6cbf", 
+    "checkOutTime" : "2016-12-28T11:58:17.684Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a854a7770f2681a7a670"), 
+    "lastModifiedAt" : ISODate("2016-12-28T11:56:04.293+0000"), 
+    "createdAt" : ISODate("2016-12-28T11:56:04.293+0000"), 
+    "vehicleId" : "584a4dcc2e7b846da3b0af8d", 
+    "fromPort" : "5849235cc31f7c020a0f6cbf", 
+    "checkOutTime" : "2016-12-28T11:58:25.407Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a855a7770f2681a7a673"), 
+    "lastModifiedAt" : ISODate("2016-12-28T11:56:05.259+0000"), 
+    "createdAt" : ISODate("2016-12-28T11:56:05.259+0000"), 
+    "vehicleId" : "584a4dcc2e7b846da3b0af8d", 
+    "fromPort" : "5849235cc31f7c020a0f6cbf", 
+    "checkOutTime" : "2016-12-28T11:58:25.407Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a875a7770f2681a7a695"), 
+    "lastModifiedAt" : ISODate("2016-12-28T11:56:37.043+0000"), 
+    "createdAt" : ISODate("2016-12-28T11:56:37.043+0000"), 
+    "vehicleId" : "585111e53bbb1512b286fa2a", 
+    "fromPort" : "584922ef577e7e6f43b77352", 
+    "checkOutTime" : "2016-12-28T11:58:33.391Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a87fa7770f2681a7a69b"), 
+    "lastModifiedAt" : ISODate("2016-12-28T11:56:47.126+0000"), 
+    "createdAt" : ISODate("2016-12-28T11:56:47.126+0000"), 
+    "vehicleId" : "585134fbce292302627f4c66", 
+    "fromPort" : "584922ef577e7e6f43b77354", 
+    "checkOutTime" : "2016-12-28T11:58:42.446Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a87fa7770f2681a7a69e"), 
+    "lastModifiedAt" : ISODate("2016-12-28T11:56:47.244+0000"), 
+    "createdAt" : ISODate("2016-12-28T11:56:47.244+0000"), 
+    "vehicleId" : "585134fbce292302627f4c66", 
+    "fromPort" : "584922ef577e7e6f43b77354", 
+    "checkOutTime" : "2016-12-28T11:58:42.446Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a87fa7770f2681a7a6a7"), 
+    "lastModifiedAt" : ISODate("2016-12-28T11:56:47.762+0000"), 
+    "createdAt" : ISODate("2016-12-28T11:56:47.762+0000"), 
+    "vehicleId" : "585134fbce292302627f4c66", 
+    "fromPort" : "584922ef577e7e6f43b77354", 
+    "checkOutTime" : "2016-12-28T11:58:42.446Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a8a5a7770f2681a7a6de"), 
+    "lastModifiedAt" : ISODate("2016-12-28T11:57:25.983+0000"), 
+    "createdAt" : ISODate("2016-12-28T11:57:25.983+0000"), 
+    "vehicleId" : "584a4dcc2e7b846da3b0af8d", 
+    "fromPort" : "5849235cc31f7c020a0f6cbe", 
+    "checkOutTime" : "2016-12-28T11:59:47.176Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a8a7a7770f2681a7a6e1"), 
+    "lastModifiedAt" : ISODate("2016-12-28T11:57:27.055+0000"), 
+    "createdAt" : ISODate("2016-12-28T11:57:27.055+0000"), 
+    "vehicleId" : "584a4dcc2e7b846da3b0af8d", 
+    "fromPort" : "5849235cc31f7c020a0f6cbe", 
+    "checkOutTime" : "2016-12-28T11:59:47.176Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a8bca7770f2681a7a6ed"), 
+    "lastModifiedAt" : ISODate("2016-12-28T11:57:48.839+0000"), 
+    "createdAt" : ISODate("2016-12-28T11:57:48.839+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "5849235cc31f7c020a0f6cb9", 
+    "checkOutTime" : "2016-12-28T12:00:09.874Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a8c5a7770f2681a7a70e"), 
+    "lastModifiedAt" : ISODate("2016-12-28T11:57:57.787+0000"), 
+    "createdAt" : ISODate("2016-12-28T11:57:57.787+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "5849235cc31f7c020a0f6cc3", 
+    "checkOutTime" : "2016-12-28T12:00:18.981Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a8cca7770f2681a7a745"), 
+    "lastModifiedAt" : ISODate("2016-12-28T11:58:04.817+0000"), 
+    "createdAt" : ISODate("2016-12-28T11:58:04.817+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "5849235cc31f7c020a0f6cc6", 
+    "checkOutTime" : "2016-12-28T12:00:25.814Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a8fba7770f2681a7a78b"), 
+    "lastModifiedAt" : ISODate("2016-12-28T11:58:51.004+0000"), 
+    "createdAt" : ISODate("2016-12-28T11:58:51.004+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "5849235cc31f7c020a0f6cc5", 
+    "checkOutTime" : "2016-12-28T12:01:11.822Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a8fba7770f2681a7a78e"), 
+    "lastModifiedAt" : ISODate("2016-12-28T11:58:51.997+0000"), 
+    "createdAt" : ISODate("2016-12-28T11:58:51.997+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "5849235cc31f7c020a0f6cc5", 
+    "checkOutTime" : "2016-12-28T12:01:11.822Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a910a7770f2681a7a7b1"), 
+    "lastModifiedAt" : ISODate("2016-12-28T11:59:12.720+0000"), 
+    "createdAt" : ISODate("2016-12-28T11:59:12.720+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "5849235cc31f7c020a0f6cc2", 
+    "checkOutTime" : "2016-12-28T12:01:33.478Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a911a7770f2681a7a7b4"), 
+    "lastModifiedAt" : ISODate("2016-12-28T11:59:13.542+0000"), 
+    "createdAt" : ISODate("2016-12-28T11:59:13.542+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "5849235cc31f7c020a0f6cc2", 
+    "checkOutTime" : "2016-12-28T12:01:33.478Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a91aa7770f2681a7a7d6"), 
+    "lastModifiedAt" : ISODate("2016-12-28T11:59:22.990+0000"), 
+    "createdAt" : ISODate("2016-12-28T11:59:22.990+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "5849235cc31f7c020a0f6cbc", 
+    "checkOutTime" : "2016-12-28T12:01:43.180Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a91ba7770f2681a7a7d9"), 
+    "lastModifiedAt" : ISODate("2016-12-28T11:59:23.578+0000"), 
+    "createdAt" : ISODate("2016-12-28T11:59:23.578+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "5849235cc31f7c020a0f6cbc", 
+    "checkOutTime" : "2016-12-28T12:01:43.180Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a921a7770f2681a7a7f5"), 
+    "lastModifiedAt" : ISODate("2016-12-28T11:59:29.403+0000"), 
+    "createdAt" : ISODate("2016-12-28T11:59:29.403+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "5849235cc31f7c020a0f6cc1", 
+    "checkOutTime" : "2016-12-28T12:01:50.647Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a922a7770f2681a7a7fe"), 
+    "lastModifiedAt" : ISODate("2016-12-28T11:59:30.587+0000"), 
+    "createdAt" : ISODate("2016-12-28T11:59:30.587+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "5849235cc31f7c020a0f6cc1", 
+    "checkOutTime" : "2016-12-28T12:01:50.647Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a92fa7770f2681a7a849"), 
+    "lastModifiedAt" : ISODate("2016-12-28T11:59:43.914+0000"), 
+    "createdAt" : ISODate("2016-12-28T11:59:43.914+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "5849235cc31f7c020a0f6cbb", 
+    "checkOutTime" : "2016-12-28T12:02:03.843Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a92fa7770f2681a7a84a"), 
+    "lastModifiedAt" : ISODate("2016-12-28T11:59:43.915+0000"), 
+    "createdAt" : ISODate("2016-12-28T11:59:43.915+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "5849235cc31f7c020a0f6cbb", 
+    "checkOutTime" : "2016-12-28T12:02:03.843Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a938a7770f2681a7a86a"), 
+    "lastModifiedAt" : ISODate("2016-12-28T11:59:52.006+0000"), 
+    "createdAt" : ISODate("2016-12-28T11:59:52.006+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "5849235cc31f7c020a0f6cc3", 
+    "checkOutTime" : "2016-12-28T12:02:12.809Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a948a7770f2681a7a8a3"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:00:08.549+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:00:08.549+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "5849235cc31f7c020a0f6cc4", 
+    "checkOutTime" : "2016-12-28T12:02:29.330Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a949a7770f2681a7a8a6"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:00:09.603+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:00:09.603+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "5849235cc31f7c020a0f6cc4", 
+    "checkOutTime" : "2016-12-28T12:02:29.330Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a953a7770f2681a7a8b4"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:00:19.889+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:00:19.889+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "5849235cc31f7c020a0f6cbd", 
+    "checkOutTime" : "2016-12-28T12:02:41.004Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a95ca7770f2681a7a8c2"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:00:28.166+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:00:28.166+0000"), 
+    "vehicleId" : "585111e53bbb1512b286fa2a", 
+    "fromPort" : "584922ef577e7e6f43b7735a", 
+    "checkOutTime" : "2016-12-28T12:02:24.732Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a96ea7770f2681a7a8fa"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:00:46.468+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:00:46.468+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "5849235cc31f7c020a0f6cbc", 
+    "checkOutTime" : "2016-12-28T12:03:07.685Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a96fa7770f2681a7a8fd"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:00:47.029+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:00:47.029+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "5849235cc31f7c020a0f6cbc", 
+    "checkOutTime" : "2016-12-28T12:03:07.685Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a976a7770f2681a7a92d"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:00:54.084+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:00:54.084+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "5849235cc31f7c020a0f6cbe", 
+    "checkOutTime" : "2016-12-28T12:03:15.723Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a982a7770f2681a7a94e"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:01:06.189+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:01:06.189+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "5849235cc31f7c020a0f6cbb", 
+    "checkOutTime" : "2016-12-28T12:03:26.369Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a982a7770f2681a7a951"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:01:06.781+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:01:06.781+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "5849235cc31f7c020a0f6cbb", 
+    "checkOutTime" : "2016-12-28T12:03:26.369Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a98aa7770f2681a7a984"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:01:14.481+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:01:14.481+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "5849235cc31f7c020a0f6cbf", 
+    "checkOutTime" : "2016-12-28T12:03:33.749Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a98ba7770f2681a7a987"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:01:15.154+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:01:15.154+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "5849235cc31f7c020a0f6cbf", 
+    "checkOutTime" : "2016-12-28T12:03:33.749Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a9a7a7770f2681a7a9aa"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:01:43.361+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:01:43.361+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "5849235cc31f7c020a0f6cb9", 
+    "checkOutTime" : "2016-12-28T12:04:04.152Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a9a8a7770f2681a7a9ad"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:01:44.002+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:01:44.002+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "5849235cc31f7c020a0f6cb9", 
+    "checkOutTime" : "2016-12-28T12:04:04.152Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a9aca7770f2681a7a9cd"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:01:48.530+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:01:48.530+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "5849235cc31f7c020a0f6cbb", 
+    "checkOutTime" : "2016-12-28T12:04:10.120Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a9bea7770f2681a7a9f0"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:02:06.616+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:02:06.616+0000"), 
+    "vehicleId" : "584a4dcc2e7b846da3b0af8d", 
+    "fromPort" : "5849235cc31f7c020a0f6cc8", 
+    "checkOutTime" : "2016-12-28T12:04:27.646Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a9e0a7770f2681a7aa3e"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:02:40.550+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:02:40.550+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "5849235cc31f7c020a0f6cc8", 
+    "checkOutTime" : "2016-12-28T12:05:01.372Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a9e1a7770f2681a7aa41"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:02:41.768+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:02:41.768+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "5849235cc31f7c020a0f6cc8", 
+    "checkOutTime" : "2016-12-28T12:05:01.372Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a9f2a7770f2681a7aa65"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:02:58.143+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:02:58.143+0000"), 
+    "vehicleId" : "5851345cce292302627f4a70", 
+    "fromPort" : "584922ef577e7e6f43b77353", 
+    "checkOutTime" : "2016-12-28T12:04:54.442Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863a9faa7770f2681a7aa71"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:03:06.754+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:03:06.754+0000"), 
+    "vehicleId" : "585134fbce292302627f4c66", 
+    "fromPort" : "584922ef577e7e6f43b77355", 
+    "checkOutTime" : "2016-12-28T12:05:02.577Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863aa03a7770f2681a7aa7d"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:03:15.181+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:03:15.181+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "5849235cc31f7c020a0f6cc7", 
+    "checkOutTime" : "2016-12-28T12:05:35.304Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863aa07a7770f2681a7aa8a"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:03:19.591+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:03:19.591+0000"), 
+    "vehicleId" : "585111e53bbb1512b286fa2a", 
+    "fromPort" : "584922ef577e7e6f43b7735c", 
+    "checkOutTime" : "2016-12-28T12:05:15.380Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863aa0ea7770f2681a7aa96"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:03:26.925+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:03:26.925+0000"), 
+    "vehicleId" : "584a4dcc2e7b846da3b0af8d", 
+    "fromPort" : "5849235cc31f7c020a0f6cc4", 
+    "checkOutTime" : "2016-12-28T12:05:48.009Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863aa0fa7770f2681a7aa99"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:03:27.849+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:03:27.849+0000"), 
+    "vehicleId" : "584a4dcc2e7b846da3b0af8d", 
+    "fromPort" : "5849235cc31f7c020a0f6cc4", 
+    "checkOutTime" : "2016-12-28T12:05:48.009Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863aa37a7770f2681a7aacc"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:04:07.214+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:04:07.214+0000"), 
+    "vehicleId" : "584a4dcc2e7b846da3b0af8d", 
+    "fromPort" : "5849235cc31f7c020a0f6cc3", 
+    "checkOutTime" : "2016-12-28T12:06:27.878Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863aa53a7770f2681a7ab01"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:04:35.576+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:04:35.576+0000"), 
+    "vehicleId" : "584a4dcc2e7b846da3b0af8d", 
+    "fromPort" : "5849235cc31f7c020a0f6cc2", 
+    "checkOutTime" : "2016-12-28T12:06:55.066Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863aa53a7770f2681a7ab04"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:04:35.657+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:04:35.657+0000"), 
+    "vehicleId" : "584a4dcc2e7b846da3b0af8d", 
+    "fromPort" : "5849235cc31f7c020a0f6cc2", 
+    "checkOutTime" : "2016-12-28T12:06:55.066Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863aa88a7770f2681a7ab29"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:05:28.820+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:05:28.820+0000"), 
+    "vehicleId" : "585111e53bbb1512b286fa2a", 
+    "fromPort" : "584922ef577e7e6f43b7735c", 
+    "checkOutTime" : "2016-12-28T12:07:25.086Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863aabea7770f2681a7ab75"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:06:22.634+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:06:22.634+0000"), 
+    "vehicleId" : "585111e53bbb1512b286fa2a", 
+    "fromPort" : "584922ef577e7e6f43b7735f", 
+    "checkOutTime" : "2016-12-28T12:08:18.265Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863aabfa7770f2681a7ab81"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:06:23.504+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:06:23.504+0000"), 
+    "vehicleId" : "585111e53bbb1512b286fa2a", 
+    "fromPort" : "584922ef577e7e6f43b7735f", 
+    "checkOutTime" : "2016-12-28T12:08:18.265Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863aac0a7770f2681a7ab84"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:06:24.114+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:06:24.114+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "5849235cc31f7c020a0f6cc7", 
+    "checkOutTime" : "2016-12-28T12:08:44.898Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863aac1a7770f2681a7ab87"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:06:25.135+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:06:25.134+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "5849235cc31f7c020a0f6cc7", 
+    "checkOutTime" : "2016-12-28T12:08:44.898Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863aacfa7770f2681a7ab8f"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:06:39.179+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:06:39.179+0000"), 
+    "vehicleId" : "585134fbce292302627f4c66", 
+    "fromPort" : "584922ef577e7e6f43b77359", 
+    "checkOutTime" : "2016-12-28T12:08:35.625Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863aad0a7770f2681a7abab"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:06:40.035+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:06:40.035+0000"), 
+    "vehicleId" : "585134fbce292302627f4c66", 
+    "fromPort" : "584922ef577e7e6f43b77359", 
+    "checkOutTime" : "2016-12-28T12:08:35.625Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863aad7a7770f2681a7abb1"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:06:47.347+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:06:47.347+0000"), 
+    "vehicleId" : "5851345cce292302627f4a70", 
+    "fromPort" : "584922ef577e7e6f43b77351", 
+    "checkOutTime" : "2016-12-28T12:08:43.427Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863aae3a7770f2681a7abd4"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:06:59.253+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:06:59.253+0000"), 
+    "vehicleId" : "585111e53bbb1512b286fa2a", 
+    "fromPort" : "584922ef577e7e6f43b77357", 
+    "checkOutTime" : "2016-12-28T12:08:55.596Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863aae6a7770f2681a7abf9"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:07:02.631+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:07:02.631+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "5849235cc31f7c020a0f6cc5", 
+    "checkOutTime" : "2016-12-28T12:09:23.427Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863aae7a7770f2681a7abfc"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:07:03.372+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:07:03.372+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "5849235cc31f7c020a0f6cc5", 
+    "checkOutTime" : "2016-12-28T12:09:23.427Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863aae8a7770f2681a7ac02"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:07:04.295+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:07:04.295+0000"), 
+    "vehicleId" : "585134fbce292302627f4c66", 
+    "fromPort" : "584922ef577e7e6f43b7735b", 
+    "checkOutTime" : "2016-12-28T12:09:00.539Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863aafda7770f2681a7ac3d"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:07:25.559+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:07:25.559+0000"), 
+    "vehicleId" : "585111e53bbb1512b286fa2a", 
+    "fromPort" : "584922ef577e7e6f43b77355", 
+    "checkOutTime" : "2016-12-28T12:09:21.330Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ab11a7770f2681a7ac69"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:07:45.905+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:07:45.905+0000"), 
+    "vehicleId" : "585111e53bbb1512b286fa2a", 
+    "fromPort" : "584922ef577e7e6f43b77354", 
+    "checkOutTime" : "2016-12-28T12:09:41.599Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ab11a7770f2681a7ac6a"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:07:45.906+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:07:45.906+0000"), 
+    "vehicleId" : "585134fbce292302627f4c66", 
+    "fromPort" : "584922ef577e7e6f43b77359", 
+    "checkOutTime" : "2016-12-28T12:09:42.327Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ab16a7770f2681a7ac80"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:07:50.564+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:07:50.564+0000"), 
+    "vehicleId" : "584a4dcc2e7b846da3b0af8d", 
+    "fromPort" : "5849235cc31f7c020a0f6cc1", 
+    "checkOutTime" : "2016-12-28T12:10:11.627Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ab16a7770f2681a7ac83"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:07:50.721+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:07:50.721+0000"), 
+    "vehicleId" : "5851345cce292302627f4a70", 
+    "fromPort" : "584922ef577e7e6f43b7735d", 
+    "checkOutTime" : "2016-12-28T12:09:46.497Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ab17a7770f2681a7ac86"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:07:51.237+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:07:51.237+0000"), 
+    "vehicleId" : "584a4dcc2e7b846da3b0af8d", 
+    "fromPort" : "5849235cc31f7c020a0f6cc1", 
+    "checkOutTime" : "2016-12-28T12:10:11.627Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ab17a7770f2681a7ac89"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:07:51.588+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:07:51.588+0000"), 
+    "vehicleId" : "5851345cce292302627f4a70", 
+    "fromPort" : "584922ef577e7e6f43b7735d", 
+    "checkOutTime" : "2016-12-28T12:09:46.497Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ab1da7770f2681a7acce"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:07:57.633+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:07:57.633+0000"), 
+    "vehicleId" : "584a4dcc2e7b846da3b0af8d", 
+    "fromPort" : "5849235cc31f7c020a0f6cc1", 
+    "checkOutTime" : "2016-12-28T12:10:19.106Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ab23a7770f2681a7acef"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:08:03.342+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:08:03.342+0000"), 
+    "vehicleId" : "585111e53bbb1512b286fa2a", 
+    "fromPort" : "584922ef577e7e6f43b77356", 
+    "checkOutTime" : "2016-12-28T12:09:59.494Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ab24a7770f2681a7acf4"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:08:04.320+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:08:04.320+0000"), 
+    "vehicleId" : "585111e53bbb1512b286fa2a", 
+    "fromPort" : "584922ef577e7e6f43b77356", 
+    "checkOutTime" : "2016-12-28T12:09:59.494Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ab26a7770f2681a7ad12"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:08:06.557+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:08:06.557+0000"), 
+    "vehicleId" : "585134fbce292302627f4c66", 
+    "fromPort" : "584922ef577e7e6f43b7735a", 
+    "checkOutTime" : "2016-12-28T12:10:03.530Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ab2ba7770f2681a7ad1f"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:08:11.742+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:08:11.742+0000"), 
+    "vehicleId" : "5851345cce292302627f4a70", 
+    "fromPort" : "584922ef577e7e6f43b7735c", 
+    "checkOutTime" : "2016-12-28T12:10:08.623Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ab3fa7770f2681a7ad6d"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:08:31.062+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:08:31.062+0000"), 
+    "vehicleId" : "585134fbce292302627f4c66", 
+    "fromPort" : "584922ef577e7e6f43b77354", 
+    "checkOutTime" : "2016-12-28T12:10:27.251Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ab41a7770f2681a7ad73"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:08:33.209+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:08:33.209+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "5849235cc31f7c020a0f6cc6", 
+    "checkOutTime" : "2016-12-28T12:10:52.664Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ab41a7770f2681a7ad7c"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:08:33.612+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:08:33.612+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "5849235cc31f7c020a0f6cc6", 
+    "checkOutTime" : "2016-12-28T12:10:52.664Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ab42a7770f2681a7ad82"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:08:34.043+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:08:34.043+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "5849235cc31f7c020a0f6cc6", 
+    "checkOutTime" : "2016-12-28T12:10:52.664Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ab42a7770f2681a7ad8b"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:08:34.876+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:08:34.876+0000"), 
+    "vehicleId" : "585111e53bbb1512b286fa2a", 
+    "fromPort" : "584922ef577e7e6f43b77356", 
+    "checkOutTime" : "2016-12-28T12:10:31.409Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ab52a7770f2681a7adcd"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:08:50.785+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:08:50.785+0000"), 
+    "vehicleId" : "5851345cce292302627f4a70", 
+    "fromPort" : "584922ef577e7e6f43b7735e", 
+    "checkOutTime" : "2016-12-28T12:10:46.436Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ab52a7770f2681a7adce"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:08:50.785+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:08:50.785+0000"), 
+    "vehicleId" : "585134fbce292302627f4c66", 
+    "fromPort" : "584922ef577e7e6f43b77355", 
+    "checkOutTime" : "2016-12-28T12:10:46.506Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ab53a7770f2681a7add1"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:08:51.980+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:08:51.980+0000"), 
+    "vehicleId" : "5851345cce292302627f4a70", 
+    "fromPort" : "584922ef577e7e6f43b7735e", 
+    "checkOutTime" : "2016-12-28T12:10:46.436Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ab53a7770f2681a7add4"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:08:51.985+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:08:51.985+0000"), 
+    "vehicleId" : "585134fbce292302627f4c66", 
+    "fromPort" : "584922ef577e7e6f43b77355", 
+    "checkOutTime" : "2016-12-28T12:10:46.506Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ab5fa7770f2681a7adf0"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:09:03.358+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:09:03.358+0000"), 
+    "vehicleId" : "585111e53bbb1512b286fa2a", 
+    "fromPort" : "584922ef577e7e6f43b77353", 
+    "checkOutTime" : "2016-12-28T12:10:59.278Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ab60a7770f2681a7ae0c"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:09:04.122+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:09:04.122+0000"), 
+    "vehicleId" : "585111e53bbb1512b286fa2a", 
+    "fromPort" : "584922ef577e7e6f43b77353", 
+    "checkOutTime" : "2016-12-28T12:10:59.278Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ab70a7770f2681a7ae43"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:09:20.333+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:09:20.333+0000"), 
+    "vehicleId" : "5851345cce292302627f4a70", 
+    "fromPort" : "584922ef577e7e6f43b7735b", 
+    "checkOutTime" : "2016-12-28T12:11:17.046Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ab73a7770f2681a7ae49"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:09:23.488+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:09:23.488+0000"), 
+    "vehicleId" : "585134fbce292302627f4c66", 
+    "fromPort" : "584922ef577e7e6f43b77357", 
+    "checkOutTime" : "2016-12-28T12:11:19.199Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ab85a7770f2681a7ae70"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:09:41.782+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:09:41.781+0000"), 
+    "vehicleId" : "585111e53bbb1512b286fa2a", 
+    "fromPort" : "584922ef577e7e6f43b77352", 
+    "checkOutTime" : "2016-12-28T12:11:37.555Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ab8aa7770f2681a7ae87"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:09:46.964+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:09:46.964+0000"), 
+    "vehicleId" : "5851345cce292302627f4a70", 
+    "fromPort" : "584922ef577e7e6f43b77359", 
+    "checkOutTime" : "2016-12-28T12:11:42.064Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ab8ba7770f2681a7ae8a"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:09:47.854+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:09:47.854+0000"), 
+    "vehicleId" : "5851345cce292302627f4a70", 
+    "fromPort" : "584922ef577e7e6f43b77359", 
+    "checkOutTime" : "2016-12-28T12:11:42.064Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ab9aa7770f2681a7aeab"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:10:02.209+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:10:02.209+0000"), 
+    "vehicleId" : "585111e53bbb1512b286fa2a", 
+    "fromPort" : "584922ef577e7e6f43b77351", 
+    "checkOutTime" : "2016-12-28T12:11:58.100Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ab9ba7770f2681a7aeb0"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:10:03.513+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:10:03.513+0000"), 
+    "vehicleId" : "585111e53bbb1512b286fa2a", 
+    "fromPort" : "584922ef577e7e6f43b77351", 
+    "checkOutTime" : "2016-12-28T12:11:58.100Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863abc2a7770f2681a7af07"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:10:42.336+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:10:42.336+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "5849235cc31f7c020a0f6cb9", 
+    "checkOutTime" : "2016-12-28T12:13:02.761Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863abc3a7770f2681a7af0a"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:10:43.166+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:10:43.166+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "5849235cc31f7c020a0f6cb9", 
+    "checkOutTime" : "2016-12-28T12:13:02.761Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863abeea7770f2681a7af25"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:11:26.210+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:11:26.210+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "5849235cc31f7c020a0f6cbc", 
+    "checkOutTime" : "2016-12-28T12:13:47.417Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863abefa7770f2681a7af2e"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:11:27.112+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:11:27.112+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "5849235cc31f7c020a0f6cbc", 
+    "checkOutTime" : "2016-12-28T12:13:47.417Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863abf2a7770f2681a7af3a"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:11:30.690+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:11:30.690+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "5849235cc31f7c020a0f6cbd", 
+    "checkOutTime" : "2016-12-28T12:13:51.705Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863acaca7770f2681a7af5a"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:14:36.038+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:14:36.038+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "5849235cc31f7c020a0f6cbd", 
+    "checkOutTime" : "2016-12-28T12:16:56.469Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863acd7a7770f2681a7afa1"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:15:19.752+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:15:19.752+0000"), 
+    "vehicleId" : "5851347ece292302627f4afe", 
+    "fromPort" : "5849235cc31f7c020a0f6cc8", 
+    "checkOutTime" : "2016-12-28T12:17:40.212Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863acd8a7770f2681a7afa4"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:15:20.503+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:15:20.503+0000"), 
+    "vehicleId" : "5851347ece292302627f4afe", 
+    "fromPort" : "5849235cc31f7c020a0f6cc8", 
+    "checkOutTime" : "2016-12-28T12:17:40.212Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ad3ca7770f2681a7afd5"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:17:00.966+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:17:00.966+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "5849235cc31f7c020a0f6cbe", 
+    "checkOutTime" : "2016-12-28T12:19:22.505Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ad4ba7770f2681a7afe1"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:17:15.313+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:17:15.313+0000"), 
+    "vehicleId" : "585134fbce292302627f4c66", 
+    "fromPort" : "584922ef577e7e6f43b77356", 
+    "checkOutTime" : "2016-12-28T12:19:11.048Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ad57a7770f2681a7b001"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:17:27.331+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:17:27.331+0000"), 
+    "vehicleId" : "5851347ece292302627f4afe", 
+    "fromPort" : "5849235cc31f7c020a0f6cc8", 
+    "checkOutTime" : "2016-12-28T12:19:46.948Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ad57a7770f2681a7b004"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:17:27.471+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:17:27.471+0000"), 
+    "vehicleId" : "5851347ece292302627f4afe", 
+    "fromPort" : "5849235cc31f7c020a0f6cc8", 
+    "checkOutTime" : "2016-12-28T12:19:46.948Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ad5ca7770f2681a7b024"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:17:32.853+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:17:32.853+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "5849235cc31f7c020a0f6cc3", 
+    "checkOutTime" : "2016-12-28T12:19:54.519Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ad64a7770f2681a7b06f"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:17:40.417+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:17:40.417+0000"), 
+    "vehicleId" : "5851345cce292302627f4a70", 
+    "fromPort" : "584922ef577e7e6f43b7735d", 
+    "checkOutTime" : "2016-12-28T12:19:35.992Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ad65a7770f2681a7b072"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:17:41.098+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:17:41.098+0000"), 
+    "vehicleId" : "5851345cce292302627f4a70", 
+    "fromPort" : "584922ef577e7e6f43b7735d", 
+    "checkOutTime" : "2016-12-28T12:19:35.992Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ad66a7770f2681a7b087"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:17:42.891+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:17:42.891+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "5849235cc31f7c020a0f6cc3", 
+    "checkOutTime" : "2016-12-28T12:20:04.068Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ad6aa7770f2681a7b099"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:17:46.851+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:17:46.851+0000"), 
+    "vehicleId" : "584a4dcc2e7b846da3b0af8d", 
+    "fromPort" : "5849235cc31f7c020a0f6cb9", 
+    "checkOutTime" : "2016-12-28T12:20:08.235Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ad6fa7770f2681a7b09f"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:17:51.948+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:17:51.948+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "5849235cc31f7c020a0f6cc0", 
+    "checkOutTime" : "2016-12-28T12:20:13.600Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ad79a7770f2681a7b0c4"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:18:01.517+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:18:01.517+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "5849235cc31f7c020a0f6cc3", 
+    "checkOutTime" : "2016-12-28T12:20:22.862Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ad82a7770f2681a7b0fa"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:18:10.284+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:18:10.284+0000"), 
+    "vehicleId" : "5851347ece292302627f4afe", 
+    "fromPort" : "5849235cc31f7c020a0f6cc7", 
+    "checkOutTime" : "2016-12-28T12:20:31.807Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ad85a7770f2681a7b106"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:18:13.933+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:18:13.933+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "5849235cc31f7c020a0f6cbf", 
+    "checkOutTime" : "2016-12-28T12:20:34.489Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ad86a7770f2681a7b10b"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:18:14.622+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:18:14.622+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "5849235cc31f7c020a0f6cbf", 
+    "checkOutTime" : "2016-12-28T12:20:34.489Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ad87a7770f2681a7b115"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:18:15.399+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:18:15.399+0000"), 
+    "vehicleId" : "584a4dcc2e7b846da3b0af8d", 
+    "fromPort" : "5849235cc31f7c020a0f6cbb", 
+    "checkOutTime" : "2016-12-28T12:20:36.915Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ad88a7770f2681a7b11a"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:18:16.593+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:18:16.593+0000"), 
+    "vehicleId" : "584a4dcc2e7b846da3b0af8d", 
+    "fromPort" : "5849235cc31f7c020a0f6cbb", 
+    "checkOutTime" : "2016-12-28T12:20:36.915Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ad94a7770f2681a7b183"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:18:28.921+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:18:28.921+0000"), 
+    "vehicleId" : "584a4dcc2e7b846da3b0af8d", 
+    "fromPort" : "5849235cc31f7c020a0f6cbc", 
+    "checkOutTime" : "2016-12-28T12:20:50.168Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ad95a7770f2681a7b18e"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:18:29.624+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:18:29.623+0000"), 
+    "vehicleId" : "584a4dcc2e7b846da3b0af8d", 
+    "fromPort" : "5849235cc31f7c020a0f6cbc", 
+    "checkOutTime" : "2016-12-28T12:20:50.168Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ad96a7770f2681a7b198"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:18:30.220+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:18:30.220+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "5849235cc31f7c020a0f6cc2", 
+    "checkOutTime" : "2016-12-28T12:20:51.649Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ad9da7770f2681a7b1a4"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:18:37.562+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:18:37.562+0000"), 
+    "vehicleId" : "584a4dcc2e7b846da3b0af8d", 
+    "fromPort" : "5849235cc31f7c020a0f6cbc", 
+    "checkOutTime" : "2016-12-28T12:20:58.669Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ada0a7770f2681a7b1b0"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:18:40.119+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:18:40.119+0000"), 
+    "vehicleId" : "5851347ece292302627f4afe", 
+    "fromPort" : "5849235cc31f7c020a0f6cc6", 
+    "checkOutTime" : "2016-12-28T12:21:01.297Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ada0a7770f2681a7b1b3"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:18:40.669+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:18:40.669+0000"), 
+    "vehicleId" : "5851347ece292302627f4afe", 
+    "fromPort" : "5849235cc31f7c020a0f6cc6", 
+    "checkOutTime" : "2016-12-28T12:21:01.297Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863adb3a7770f2681a7b1b9"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:18:59.028+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:18:59.028+0000"), 
+    "vehicleId" : "585111e53bbb1512b286fa2a", 
+    "fromPort" : "584922ef577e7e6f43b77350", 
+    "checkOutTime" : "2016-12-28T12:20:55.133Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863adb3a7770f2681a7b1c2"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:18:59.883+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:18:59.883+0000"), 
+    "vehicleId" : "585111e53bbb1512b286fa2a", 
+    "fromPort" : "584922ef577e7e6f43b77350", 
+    "checkOutTime" : "2016-12-28T12:20:55.133Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863adbea7770f2681a7b1cf"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:19:10.162+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:19:10.162+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "5849235cc31f7c020a0f6cbe", 
+    "checkOutTime" : "2016-12-28T12:21:31.088Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863adbea7770f2681a7b1d2"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:19:10.604+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:19:10.604+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "5849235cc31f7c020a0f6cbe", 
+    "checkOutTime" : "2016-12-28T12:21:31.088Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ade3a7770f2681a7b211"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:19:47.023+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:19:47.023+0000"), 
+    "vehicleId" : "5851345cce292302627f4a70", 
+    "fromPort" : "584922ef577e7e6f43b7735c", 
+    "checkOutTime" : "2016-12-28T12:21:42.813Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863adf7a7770f2681a7b237"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:20:07.006+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:20:07.006+0000"), 
+    "vehicleId" : "5851345cce292302627f4a70", 
+    "fromPort" : "584922ef577e7e6f43b7735d", 
+    "checkOutTime" : "2016-12-28T12:22:03.682Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ae0aa7770f2681a7b257"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:20:26.596+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:20:26.596+0000"), 
+    "vehicleId" : "5851345cce292302627f4a70", 
+    "fromPort" : "584922ef577e7e6f43b7735e", 
+    "checkOutTime" : "2016-12-28T12:22:22.131Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ae1ca7770f2681a7b277"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:20:44.333+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:20:44.333+0000"), 
+    "vehicleId" : "5851345cce292302627f4a70", 
+    "fromPort" : "584922ef577e7e6f43b7735f", 
+    "checkOutTime" : "2016-12-28T12:22:40.153Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ae2ea7770f2681a7b297"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:21:02.034+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:21:02.034+0000"), 
+    "vehicleId" : "5851345cce292302627f4a70", 
+    "fromPort" : "584922ef577e7e6f43b7735b", 
+    "checkOutTime" : "2016-12-28T12:22:58.028Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ae3ea7770f2681a7b2b7"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:21:18.026+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:21:18.026+0000"), 
+    "vehicleId" : "5851345cce292302627f4a70", 
+    "fromPort" : "584922ef577e7e6f43b7735a", 
+    "checkOutTime" : "2016-12-28T12:23:14.170Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ae4ea7770f2681a7b2d1"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:21:34.865+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:21:34.865+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "5849235cc31f7c020a0f6cbd", 
+    "checkOutTime" : "2016-12-28T12:23:56.280Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ae4fa7770f2681a7b2db"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:21:35.821+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:21:35.821+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "5849235cc31f7c020a0f6cbd", 
+    "checkOutTime" : "2016-12-28T12:23:56.280Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ae54a7770f2681a7b2e7"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:21:40.378+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:21:40.378+0000"), 
+    "vehicleId" : "5851345cce292302627f4a70", 
+    "fromPort" : "584922ef577e7e6f43b77359", 
+    "checkOutTime" : "2016-12-28T12:23:36.707Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ae60a7770f2681a7b300"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:21:52.990+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:21:52.990+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "5849235cc31f7c020a0f6cbd", 
+    "checkOutTime" : "2016-12-28T12:24:13.849Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ae66a7770f2681a7b326"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:21:58.060+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:21:58.060+0000"), 
+    "vehicleId" : "5851345cce292302627f4a70", 
+    "fromPort" : "584922ef577e7e6f43b77358", 
+    "checkOutTime" : "2016-12-28T12:23:54.113Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ae7ea7770f2681a7b347"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:22:22.646+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:22:22.646+0000"), 
+    "vehicleId" : "5851345cce292302627f4a70", 
+    "fromPort" : "584922ef577e7e6f43b77357", 
+    "checkOutTime" : "2016-12-28T12:24:19.251Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ae83a7770f2681a7b364"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:22:27.215+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:22:27.215+0000"), 
+    "vehicleId" : "585111e53bbb1512b286fa2a", 
+    "fromPort" : "584922ef577e7e6f43b77351", 
+    "checkOutTime" : "2016-12-28T12:24:23.287Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ae91a7770f2681a7b39c"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:22:41.398+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:22:41.398+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "5849235cc31f7c020a0f6cbd", 
+    "checkOutTime" : "2016-12-28T12:25:02.518Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ae93a7770f2681a7b3a8"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:22:43.385+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:22:43.385+0000"), 
+    "vehicleId" : "5851345cce292302627f4a70", 
+    "fromPort" : "584922ef577e7e6f43b77356", 
+    "checkOutTime" : "2016-12-28T12:24:39.787Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ae96a7770f2681a7b3b4"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:22:46.486+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:22:46.486+0000"), 
+    "vehicleId" : "585111e53bbb1512b286fa2a", 
+    "fromPort" : "584922ef577e7e6f43b77352", 
+    "checkOutTime" : "2016-12-28T12:24:43.012Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863ae97a7770f2681a7b3b7"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:22:47.272+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:22:47.272+0000"), 
+    "vehicleId" : "585111e53bbb1512b286fa2a", 
+    "fromPort" : "584922ef577e7e6f43b77352", 
+    "checkOutTime" : "2016-12-28T12:24:43.012Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863aea0a7770f2681a7b3d5"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:22:56.529+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:22:56.529+0000"), 
+    "vehicleId" : "5851345cce292302627f4a70", 
+    "fromPort" : "584922ef577e7e6f43b77354", 
+    "checkOutTime" : "2016-12-28T12:24:53.084Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863aea1a7770f2681a7b3d8"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:22:57.119+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:22:57.119+0000"), 
+    "vehicleId" : "5851345cce292302627f4a70", 
+    "fromPort" : "584922ef577e7e6f43b77354", 
+    "checkOutTime" : "2016-12-28T12:24:53.084Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863aeaba7770f2681a7b409"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:23:07.641+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:23:07.641+0000"), 
+    "vehicleId" : "585111e53bbb1512b286fa2a", 
+    "fromPort" : "584922ef577e7e6f43b77357", 
+    "checkOutTime" : "2016-12-28T12:25:03.769Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863aeaca7770f2681a7b40c"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:23:08.416+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:23:08.416+0000"), 
+    "vehicleId" : "585111e53bbb1512b286fa2a", 
+    "fromPort" : "584922ef577e7e6f43b77357", 
+    "checkOutTime" : "2016-12-28T12:25:03.769Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863aed1a7770f2681a7b42b"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:23:45.895+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:23:45.895+0000"), 
+    "vehicleId" : "5851345cce292302627f4a70", 
+    "fromPort" : "584922ef577e7e6f43b77355", 
+    "checkOutTime" : "2016-12-28T12:25:42.216Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863aed7a7770f2681a7b437"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:23:51.456+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:23:51.456+0000"), 
+    "vehicleId" : "585111e53bbb1512b286fa2a", 
+    "fromPort" : "584922ef577e7e6f43b77356", 
+    "checkOutTime" : "2016-12-28T12:25:47.379Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863aed8a7770f2681a7b43a"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:23:52.419+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:23:52.419+0000"), 
+    "vehicleId" : "585111e53bbb1512b286fa2a", 
+    "fromPort" : "584922ef577e7e6f43b77356", 
+    "checkOutTime" : "2016-12-28T12:25:47.379Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863af26a7770f2681a7b46b"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:25:10.292+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:25:10.292+0000"), 
+    "vehicleId" : "585111e53bbb1512b286fa2a", 
+    "fromPort" : "584922ef577e7e6f43b77354", 
+    "checkOutTime" : "2016-12-28T12:27:06.760Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863af70a7770f2681a7b477"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:26:24.208+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:26:24.208+0000"), 
+    "vehicleId" : "585134fbce292302627f4c66", 
+    "fromPort" : "584922ef577e7e6f43b77353", 
+    "checkOutTime" : "2016-12-28T12:28:19.940Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863afb4a7770f2681a7b495"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:27:32.519+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:27:32.519+0000"), 
+    "vehicleId" : "5851345cce292302627f4a70", 
+    "fromPort" : "584922ef577e7e6f43b77350", 
+    "checkOutTime" : "2016-12-28T12:29:28.870Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863afbaa7770f2681a7b4a2"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:27:38.942+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:27:38.942+0000"), 
+    "vehicleId" : "585134fbce292302627f4c66", 
+    "fromPort" : "584922ef577e7e6f43b77352", 
+    "checkOutTime" : "2016-12-28T12:29:34.878Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863afdaa7770f2681a7b4d1"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:28:10.173+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:28:10.173+0000"), 
+    "vehicleId" : "585111e53bbb1512b286fa2a", 
+    "fromPort" : "584922ef577e7e6f43b77354", 
+    "checkOutTime" : "2016-12-28T12:30:05.646Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863afdba7770f2681a7b4d4"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:28:11.246+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:28:11.246+0000"), 
+    "vehicleId" : "585111e53bbb1512b286fa2a", 
+    "fromPort" : "584922ef577e7e6f43b77354", 
+    "checkOutTime" : "2016-12-28T12:30:05.646Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863affba7770f2681a7b505"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:28:43.240+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:28:43.240+0000"), 
+    "vehicleId" : "5851345cce292302627f4a70", 
+    "fromPort" : "584922ef577e7e6f43b77351", 
+    "checkOutTime" : "2016-12-28T12:30:38.877Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863affba7770f2681a7b508"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:28:43.771+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:28:43.771+0000"), 
+    "vehicleId" : "5851345cce292302627f4a70", 
+    "fromPort" : "584922ef577e7e6f43b77351", 
+    "checkOutTime" : "2016-12-28T12:30:38.877Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863b030a7770f2681a7b527"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:29:36.918+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:29:36.918+0000"), 
+    "vehicleId" : "5851345cce292302627f4a70", 
+    "fromPort" : "584922ef577e7e6f43b77352", 
+    "checkOutTime" : "2016-12-28T12:31:32.524Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863b05ca7770f2681a7b533"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:30:20.741+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:30:20.741+0000"), 
+    "vehicleId" : "585111e53bbb1512b286fa2a", 
+    "fromPort" : "584922ef577e7e6f43b77356", 
+    "checkOutTime" : "2016-12-28T12:32:17.100Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863b070a7770f2681a7b564"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:30:40.909+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:30:40.908+0000"), 
+    "vehicleId" : "5851345cce292302627f4a70", 
+    "fromPort" : "584922ef577e7e6f43b77352", 
+    "checkOutTime" : "2016-12-28T12:32:37.127Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863b071a7770f2681a7b567"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:30:41.680+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:30:41.680+0000"), 
+    "vehicleId" : "5851345cce292302627f4a70", 
+    "fromPort" : "584922ef577e7e6f43b77352", 
+    "checkOutTime" : "2016-12-28T12:32:37.127Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863b082a7770f2681a7b59a"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:30:58.411+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:30:58.411+0000"), 
+    "vehicleId" : "585111e53bbb1512b286fa2a", 
+    "fromPort" : "584922ef577e7e6f43b77354", 
+    "checkOutTime" : "2016-12-28T12:32:54.319Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863b083a7770f2681a7b59d"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:30:59.494+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:30:59.494+0000"), 
+    "vehicleId" : "585111e53bbb1512b286fa2a", 
+    "fromPort" : "584922ef577e7e6f43b77354", 
+    "checkOutTime" : "2016-12-28T12:32:54.319Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863b087a7770f2681a7b5a9"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:31:03.673+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:31:03.673+0000"), 
+    "vehicleId" : "5851345cce292302627f4a70", 
+    "fromPort" : "584922ef577e7e6f43b77351", 
+    "checkOutTime" : "2016-12-28T12:32:59.153Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863b0b9a7770f2681a7b5c8"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:31:53.509+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:31:53.509+0000"), 
+    "vehicleId" : "584a4dcc2e7b846da3b0af8d", 
+    "fromPort" : "5849235cc31f7c020a0f6cbf", 
+    "checkOutTime" : "2016-12-28T12:34:14.303Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863b0baa7770f2681a7b5cb"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:31:54.142+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:31:54.142+0000"), 
+    "vehicleId" : "584a4dcc2e7b846da3b0af8d", 
+    "fromPort" : "5849235cc31f7c020a0f6cbf", 
+    "checkOutTime" : "2016-12-28T12:34:14.303Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863b0c1a7770f2681a7b5e2"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:32:01.452+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:32:01.452+0000"), 
+    "vehicleId" : "5851347ece292302627f4afe", 
+    "fromPort" : "5849235cc31f7c020a0f6cbe", 
+    "checkOutTime" : "2016-12-28T12:34:21.804Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863b0c1a7770f2681a7b5e5"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:32:01.458+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:32:01.458+0000"), 
+    "vehicleId" : "584a4dcc2e7b846da3b0af8d", 
+    "fromPort" : "5849235cc31f7c020a0f6cbf", 
+    "checkOutTime" : "2016-12-28T12:34:22.007Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863b109a7770f2681a7b5f2"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:33:13.608+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:33:13.608+0000"), 
+    "vehicleId" : "585134fbce292302627f4c66", 
+    "fromPort" : "584922ef577e7e6f43b77353", 
+    "checkOutTime" : "2016-12-28T12:35:09.022Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5863b10aa7770f2681a7b5f5"), 
+    "lastModifiedAt" : ISODate("2016-12-28T12:33:14.405+0000"), 
+    "createdAt" : ISODate("2016-12-28T12:33:14.405+0000"), 
+    "vehicleId" : "585134fbce292302627f4c66", 
+    "fromPort" : "584922ef577e7e6f43b77353", 
+    "checkOutTime" : "2016-12-28T12:35:09.022Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58648a8fa7770f2681a7b662"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:01:19.930+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:01:19.930+0000"), 
+    "vehicleId" : "58492903c31f7c020a0f6e10", 
+    "fromPort" : "584922ef577e7e6f43b77358", 
+    "checkOutTime" : "2016-12-29T04:03:23.274Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58648c84a7770f2681a7b68e"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:09:40.545+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:09:40.545+0000"), 
+    "vehicleId" : "5851345cce292302627f4a70", 
+    "fromPort" : "584922ef577e7e6f43b7735d", 
+    "checkOutTime" : "2016-12-29T04:11:43.293Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58648d4ca7770f2681a7b6a4"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:13:00.128+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:13:00.128+0000"), 
+    "vehicleId" : "585134fbce292302627f4c66", 
+    "fromPort" : "584922ef577e7e6f43b77354", 
+    "checkOutTime" : "2016-12-29T04:15:02.086Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58648da7a7770f2681a7b707"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:14:31.684+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:14:31.684+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "584922ef577e7e6f43b77350", 
+    "checkOutTime" : "2016-12-29T04:16:34.355Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58648dc7a7770f2681a7b726"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:15:03.743+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:15:03.743+0000"), 
+    "vehicleId" : "5851345cce292302627f4a70", 
+    "fromPort" : "584922ef577e7e6f43b7735d", 
+    "checkOutTime" : "2016-12-29T04:17:07.015Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58648ea9a7770f2681a7b73f"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:18:49.891+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:18:49.891+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "584922ef577e7e6f43b77351", 
+    "checkOutTime" : "2016-12-29T04:20:52.465Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58648eaaa7770f2681a7b748"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:18:50.613+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:18:50.613+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "584922ef577e7e6f43b77351", 
+    "checkOutTime" : "2016-12-29T04:20:52.465Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58648f4fa7770f2681a7b7a7"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:21:35.465+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:21:35.465+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "584922ef577e7e6f43b7735d", 
+    "checkOutTime" : "2016-12-29T04:23:38.739Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58648f5da7770f2681a7b7ad"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:21:49.014+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:21:49.014+0000"), 
+    "vehicleId" : "584a4dcc2e7b846da3b0af8d", 
+    "fromPort" : "584922ef577e7e6f43b77358", 
+    "checkOutTime" : "2016-12-29T04:23:52.199Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58648f5ea7770f2681a7b7b6"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:21:50.004+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:21:50.004+0000"), 
+    "vehicleId" : "584a4dcc2e7b846da3b0af8d", 
+    "fromPort" : "584922ef577e7e6f43b77358", 
+    "checkOutTime" : "2016-12-29T04:23:52.199Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58648ff2a7770f2681a7b7ed"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:24:18.972+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:24:18.972+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "584922ef577e7e6f43b77357", 
+    "checkOutTime" : "2016-12-29T04:26:21.612Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58648ffda7770f2681a7b7f3"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:24:29.472+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:24:29.472+0000"), 
+    "vehicleId" : "585134fbce292302627f4c66", 
+    "fromPort" : "584922ef577e7e6f43b77356", 
+    "checkOutTime" : "2016-12-29T04:26:32.682Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5864900fa7770f2681a7b830"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:24:47.134+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:24:47.134+0000"), 
+    "vehicleId" : "5851347ece292302627f4afe", 
+    "fromPort" : "584922ef577e7e6f43b77354", 
+    "checkOutTime" : "2016-12-29T04:26:50.418Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58649013a7770f2681a7b83c"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:24:51.117+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:24:51.117+0000"), 
+    "vehicleId" : "585134fbce292302627f4c66", 
+    "fromPort" : "584922ef577e7e6f43b77357", 
+    "checkOutTime" : "2016-12-29T04:26:54.262Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58649015a7770f2681a7b848"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:24:53.879+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:24:53.879+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "584922ef577e7e6f43b7735d", 
+    "checkOutTime" : "2016-12-29T04:26:56.978Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58649022a7770f2681a7b87d"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:25:06.150+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:25:06.150+0000"), 
+    "vehicleId" : "5851345cce292302627f4a70", 
+    "fromPort" : "584922ef577e7e6f43b7735e", 
+    "checkOutTime" : "2016-12-29T04:27:09.394Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58649029a7770f2681a7b8a0"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:25:13.580+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:25:13.580+0000"), 
+    "vehicleId" : "5851347ece292302627f4afe", 
+    "fromPort" : "584922ef577e7e6f43b77356", 
+    "checkOutTime" : "2016-12-29T04:27:16.825Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5864902fa7770f2681a7b8bf"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:25:19.849+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:25:19.849+0000"), 
+    "vehicleId" : "585134fbce292302627f4c66", 
+    "fromPort" : "584922ef577e7e6f43b77354", 
+    "checkOutTime" : "2016-12-29T04:27:23.599Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58649039a7770f2681a7b8cb"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:25:29.605+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:25:29.605+0000"), 
+    "vehicleId" : "585111e53bbb1512b286fa2a", 
+    "fromPort" : "584922ef577e7e6f43b7735b", 
+    "checkOutTime" : "2016-12-29T04:27:32.944Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5864903da7770f2681a7b8eb"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:25:33.775+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:25:33.775+0000"), 
+    "vehicleId" : "584a4dcc2e7b846da3b0af8d", 
+    "fromPort" : "584922ef577e7e6f43b7735a", 
+    "checkOutTime" : "2016-12-29T04:27:37.223Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58649048a7770f2681a7b8f7"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:25:44.998+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:25:44.998+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "584922ef577e7e6f43b77357", 
+    "checkOutTime" : "2016-12-29T04:27:48.054Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5864904aa7770f2681a7b903"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:25:46.816+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:25:46.816+0000"), 
+    "vehicleId" : "585134fbce292302627f4c66", 
+    "fromPort" : "584922ef577e7e6f43b77356", 
+    "checkOutTime" : "2016-12-29T04:27:50.545Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586490a3a7770f2681a7b973"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:27:15.050+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:27:15.050+0000"), 
+    "vehicleId" : "5851347ece292302627f4afe", 
+    "fromPort" : "584922ef577e7e6f43b7735f", 
+    "checkOutTime" : "2016-12-29T04:29:18.141Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586490a3a7770f2681a7b976"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:27:15.547+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:27:15.547+0000"), 
+    "vehicleId" : "5851347ece292302627f4afe", 
+    "fromPort" : "584922ef577e7e6f43b7735f", 
+    "checkOutTime" : "2016-12-29T04:29:18.141Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586490b2a7770f2681a7b998"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:27:30.232+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:27:30.232+0000"), 
+    "vehicleId" : "5851347ece292302627f4afe", 
+    "fromPort" : "584922ef577e7e6f43b7735b", 
+    "checkOutTime" : "2016-12-29T04:29:33.594Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586490bda7770f2681a7b9d1"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:27:41.584+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:27:41.584+0000"), 
+    "vehicleId" : "5851347ece292302627f4afe", 
+    "fromPort" : "584922ef577e7e6f43b7735a", 
+    "checkOutTime" : "2016-12-29T04:29:44.809Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586490c9a7770f2681a7b9f4"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:27:53.225+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:27:53.225+0000"), 
+    "vehicleId" : "5851347ece292302627f4afe", 
+    "fromPort" : "584922ef577e7e6f43b77359", 
+    "checkOutTime" : "2016-12-29T04:29:56.720Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586490d5a7770f2681a7ba17"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:28:05.911+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:28:05.911+0000"), 
+    "vehicleId" : "5851347ece292302627f4afe", 
+    "fromPort" : "584922ef577e7e6f43b77358", 
+    "checkOutTime" : "2016-12-29T04:30:09.738Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586490e3a7770f2681a7ba23"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:28:19.570+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:28:19.570+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "584922ef577e7e6f43b7735e", 
+    "checkOutTime" : "2016-12-29T04:30:23.080Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58649164a7770f2681a7ba45"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:30:28.314+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:30:28.313+0000"), 
+    "vehicleId" : "58492903c31f7c020a0f6e10", 
+    "fromPort" : "584922ef577e7e6f43b77356", 
+    "checkOutTime" : "2016-12-29T04:32:32.251Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58649167a7770f2681a7ba51"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:30:31.979+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:30:31.979+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "584922ef577e7e6f43b7735f", 
+    "checkOutTime" : "2016-12-29T04:32:34.900Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58649169a7770f2681a7ba5d"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:30:33.043+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:30:33.043+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "584922ef577e7e6f43b77352", 
+    "checkOutTime" : "2016-12-29T04:32:35.455Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5864916ca7770f2681a7ba69"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:30:36.265+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:30:36.265+0000"), 
+    "vehicleId" : "585111e53bbb1512b286fa2a", 
+    "fromPort" : "584922ef577e7e6f43b77354", 
+    "checkOutTime" : "2016-12-29T04:32:38.871Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5864916ea7770f2681a7ba75"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:30:38.996+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:30:38.996+0000"), 
+    "vehicleId" : "584a4dcc2e7b846da3b0af8d", 
+    "fromPort" : "584922ef577e7e6f43b77351", 
+    "checkOutTime" : "2016-12-29T04:32:42.186Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58649170a7770f2681a7ba78"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:30:40.166+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:30:40.166+0000"), 
+    "vehicleId" : "584a4dcc2e7b846da3b0af8d", 
+    "fromPort" : "584922ef577e7e6f43b77351", 
+    "checkOutTime" : "2016-12-29T04:32:42.186Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58649179a7770f2681a7ba84"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:30:49.033+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:30:49.033+0000"), 
+    "vehicleId" : "5851345cce292302627f4a70", 
+    "fromPort" : "584922ef577e7e6f43b7735d", 
+    "checkOutTime" : "2016-12-29T04:32:51.548Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58649183a7770f2681a7ba91"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:30:59.042+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:30:59.042+0000"), 
+    "vehicleId" : "585134fbce292302627f4c66", 
+    "fromPort" : "584922ef577e7e6f43b7735c", 
+    "checkOutTime" : "2016-12-29T04:33:01.636Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58649398a7770f2681a7bb7c"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:39:52.610+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:39:52.610+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "58492195d51ad2238a1af6b2", 
+    "checkOutTime" : "2016-12-29T04:42:47.389Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5864940da7770f2681a7bbe1"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:41:49.459+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:41:49.459+0000"), 
+    "vehicleId" : "5851347ece292302627f4afe", 
+    "fromPort" : "58492195d51ad2238a1af6bb", 
+    "checkOutTime" : "2016-12-29T04:44:44.202Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58649426a7770f2681a7bc0c"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:42:14.281+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:42:14.281+0000"), 
+    "vehicleId" : "5851345cce292302627f4a70", 
+    "fromPort" : "58492195d51ad2238a1af6bd", 
+    "checkOutTime" : "2016-12-29T04:45:09.132Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58649432a7770f2681a7bc44"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:42:26.189+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:42:26.189+0000"), 
+    "vehicleId" : "584a4dcc2e7b846da3b0af8d", 
+    "fromPort" : "58492195d51ad2238a1af6b4", 
+    "checkOutTime" : "2016-12-29T04:45:20.225Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58649438a7770f2681a7bc50"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:42:32.439+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:42:32.439+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "58492195d51ad2238a1af6b7", 
+    "checkOutTime" : "2016-12-29T04:45:26.189Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5864943aa7770f2681a7bc56"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:42:34.576+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:42:34.576+0000"), 
+    "vehicleId" : "5851347ece292302627f4afe", 
+    "fromPort" : "58492195d51ad2238a1af6bd", 
+    "checkOutTime" : "2016-12-29T04:45:28.058Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5864943ba7770f2681a7bc5f"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:42:35.302+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:42:35.302+0000"), 
+    "vehicleId" : "5851347ece292302627f4afe", 
+    "fromPort" : "58492195d51ad2238a1af6bd", 
+    "checkOutTime" : "2016-12-29T04:45:28.058Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58649446a7770f2681a7bc94"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:42:46.063+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:42:46.063+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "58492195d51ad2238a1af6b3", 
+    "checkOutTime" : "2016-12-29T04:45:40.326Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5864944aa7770f2681a7bc9a"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:42:50.368+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:42:50.368+0000"), 
+    "vehicleId" : "584a4dcc2e7b846da3b0af8d", 
+    "fromPort" : "58492195d51ad2238a1af6b5", 
+    "checkOutTime" : "2016-12-29T04:45:45.227Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58649451a7770f2681a7bcc0"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:42:57.805+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:42:57.805+0000"), 
+    "vehicleId" : "5851347ece292302627f4afe", 
+    "fromPort" : "58492195d51ad2238a1af6be", 
+    "checkOutTime" : "2016-12-29T04:45:52.140Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5864945ca7770f2681a7bcf5"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:43:08.750+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:43:08.750+0000"), 
+    "vehicleId" : "5851347ece292302627f4afe", 
+    "fromPort" : "58492195d51ad2238a1af6bf", 
+    "checkOutTime" : "2016-12-29T04:46:03.251Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58649463a7770f2681a7bd1f"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:43:15.993+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:43:15.993+0000"), 
+    "vehicleId" : "584a4dcc2e7b846da3b0af8d", 
+    "fromPort" : "58492195d51ad2238a1af6b9", 
+    "checkOutTime" : "2016-12-29T04:46:11.109Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58649468a7770f2681a7bd2a"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:43:20.428+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:43:20.428+0000"), 
+    "vehicleId" : "585134fbce292302627f4c66", 
+    "fromPort" : "58492195d51ad2238a1af6c0", 
+    "checkOutTime" : "2016-12-29T04:46:15.230Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58649468a7770f2681a7bd2b"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:43:20.429+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:43:20.429+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "58492195d51ad2238a1af6b4", 
+    "checkOutTime" : "2016-12-29T04:46:15.972Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5864947ca7770f2681a7bd6a"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:43:40.999+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:43:40.999+0000"), 
+    "vehicleId" : "584a4dcc2e7b846da3b0af8d", 
+    "fromPort" : "58492195d51ad2238a1af6b7", 
+    "checkOutTime" : "2016-12-29T04:46:34.867Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5864947ea7770f2681a7bd7e"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:43:42.020+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:43:42.020+0000"), 
+    "vehicleId" : "584a4dcc2e7b846da3b0af8d", 
+    "fromPort" : "58492195d51ad2238a1af6b7", 
+    "checkOutTime" : "2016-12-29T04:46:34.867Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58649488a7770f2681a7bdaf"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:43:52.895+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:43:52.895+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "58492195d51ad2238a1af6b5", 
+    "checkOutTime" : "2016-12-29T04:46:47.846Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5864949aa7770f2681a7bdd7"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:44:10.561+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:44:10.561+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "58492195d51ad2238a1af6b8", 
+    "checkOutTime" : "2016-12-29T04:47:04.152Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5864949ca7770f2681a7bdeb"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:44:12.164+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:44:12.164+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "58492195d51ad2238a1af6b8", 
+    "checkOutTime" : "2016-12-29T04:47:04.152Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5864949da7770f2681a7bdf9"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:44:13.764+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:44:13.764+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "58492195d51ad2238a1af6bb", 
+    "checkOutTime" : "2016-12-29T04:47:08.094Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5864949ea7770f2681a7bdff"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:44:14.391+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:44:14.391+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "58492195d51ad2238a1af6bb", 
+    "checkOutTime" : "2016-12-29T04:47:08.094Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5864949ea7770f2681a7be00"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:44:14.394+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:44:14.394+0000"), 
+    "vehicleId" : "5851347ece292302627f4afe", 
+    "fromPort" : "58492195d51ad2238a1af6b5", 
+    "checkOutTime" : "2016-12-29T04:47:09.608Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586494aaa7770f2681a7be4b"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:44:26.961+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:44:26.960+0000"), 
+    "vehicleId" : "584a4dcc2e7b846da3b0af8d", 
+    "fromPort" : "58492195d51ad2238a1af6b4", 
+    "checkOutTime" : "2016-12-29T04:47:21.559Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586494aea7770f2681a7be6d"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:44:30.518+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:44:30.518+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "58492195d51ad2238a1af6ba", 
+    "checkOutTime" : "2016-12-29T04:47:24.099Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586494afa7770f2681a7be77"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:44:31.653+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:44:31.653+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "58492195d51ad2238a1af6b9", 
+    "checkOutTime" : "2016-12-29T04:47:25.656Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586494b0a7770f2681a7be7a"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:44:32.600+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:44:32.600+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "58492195d51ad2238a1af6b9", 
+    "checkOutTime" : "2016-12-29T04:47:25.656Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586494b1a7770f2681a7be86"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:44:33.562+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:44:33.562+0000"), 
+    "vehicleId" : "5851347ece292302627f4afe", 
+    "fromPort" : "58492195d51ad2238a1af6b3", 
+    "checkOutTime" : "2016-12-29T04:47:26.076Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586494b2a7770f2681a7be89"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:44:34.014+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:44:34.014+0000"), 
+    "vehicleId" : "5851347ece292302627f4afe", 
+    "fromPort" : "58492195d51ad2238a1af6b3", 
+    "checkOutTime" : "2016-12-29T04:47:26.076Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586494b2a7770f2681a7be8c"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:44:34.089+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:44:34.089+0000"), 
+    "vehicleId" : "5851347ece292302627f4afe", 
+    "fromPort" : "58492195d51ad2238a1af6b3", 
+    "checkOutTime" : "2016-12-29T04:47:26.076Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586494b8a7770f2681a7beac"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:44:40.403+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:44:40.403+0000"), 
+    "vehicleId" : "584a4dcc2e7b846da3b0af8d", 
+    "fromPort" : "58492195d51ad2238a1af6b2", 
+    "checkOutTime" : "2016-12-29T04:47:34.019Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586494b9a7770f2681a7beaf"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:44:41.134+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:44:41.134+0000"), 
+    "vehicleId" : "584a4dcc2e7b846da3b0af8d", 
+    "fromPort" : "58492195d51ad2238a1af6b2", 
+    "checkOutTime" : "2016-12-29T04:47:34.019Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586494bba7770f2681a7becd"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:44:43.791+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:44:43.791+0000"), 
+    "vehicleId" : "5851347ece292302627f4afe", 
+    "fromPort" : "58492195d51ad2238a1af6b4", 
+    "checkOutTime" : "2016-12-29T04:47:38.090Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586494bda7770f2681a7beeb"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:44:45.958+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:44:45.958+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "58492195d51ad2238a1af6bc", 
+    "checkOutTime" : "2016-12-29T04:47:40.206Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586494c8a7770f2681a7bf46"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:44:56.587+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:44:56.587+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "58492195d51ad2238a1af6ba", 
+    "checkOutTime" : "2016-12-29T04:47:50.025Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586494c8a7770f2681a7bf4a"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:44:56.596+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:44:56.596+0000"), 
+    "vehicleId" : "584a4dcc2e7b846da3b0af8d", 
+    "fromPort" : "58492195d51ad2238a1af6bb", 
+    "checkOutTime" : "2016-12-29T04:47:50.095Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586494c9a7770f2681a7bf57"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:44:57.545+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:44:57.545+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "58492195d51ad2238a1af6ba", 
+    "checkOutTime" : "2016-12-29T04:47:50.025Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586494c9a7770f2681a7bf5a"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:44:57.660+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:44:57.660+0000"), 
+    "vehicleId" : "584a4dcc2e7b846da3b0af8d", 
+    "fromPort" : "58492195d51ad2238a1af6bb", 
+    "checkOutTime" : "2016-12-29T04:47:50.095Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586494c9a7770f2681a7bf5d"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:44:57.681+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:44:57.681+0000"), 
+    "vehicleId" : "5851347ece292302627f4afe", 
+    "fromPort" : "58492195d51ad2238a1af6b2", 
+    "checkOutTime" : "2016-12-29T04:47:51.809Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586494caa7770f2681a7bf60"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:44:58.375+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:44:58.375+0000"), 
+    "vehicleId" : "5851347ece292302627f4afe", 
+    "fromPort" : "58492195d51ad2238a1af6b2", 
+    "checkOutTime" : "2016-12-29T04:47:51.809Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586494cda7770f2681a7bf6c"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:45:01.234+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:45:01.234+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "58492195d51ad2238a1af6bd", 
+    "checkOutTime" : "2016-12-29T04:47:55.288Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586494cea7770f2681a7bf6f"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:45:02.327+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:45:02.327+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "58492195d51ad2238a1af6bd", 
+    "checkOutTime" : "2016-12-29T04:47:55.288Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586494d9a7770f2681a7bfa4"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:45:13.471+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:45:13.471+0000"), 
+    "vehicleId" : "5851347ece292302627f4afe", 
+    "fromPort" : "58492195d51ad2238a1af6b6", 
+    "checkOutTime" : "2016-12-29T04:48:09.021Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586494dda7770f2681a7bfd6"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:45:17.884+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:45:17.884+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "58492195d51ad2238a1af6bb", 
+    "checkOutTime" : "2016-12-29T04:48:12.193Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586494e6a7770f2681a7bff6"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:45:26.137+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:45:26.137+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "58492195d51ad2238a1af6b5", 
+    "checkOutTime" : "2016-12-29T04:48:20.317Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586494f3a7770f2681a7c016"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:45:39.089+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:45:39.089+0000"), 
+    "vehicleId" : "5851347ece292302627f4afe", 
+    "fromPort" : "58492195d51ad2238a1af6b7", 
+    "checkOutTime" : "2016-12-29T04:48:33.575Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586494f7a7770f2681a7c05a"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:45:43.869+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:45:43.869+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "58492195d51ad2238a1af6b4", 
+    "checkOutTime" : "2016-12-29T04:48:38.701Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58649505a7770f2681a7c086"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:45:57.602+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:45:57.602+0000"), 
+    "vehicleId" : "5851347ece292302627f4afe", 
+    "fromPort" : "58492195d51ad2238a1af6b8", 
+    "checkOutTime" : "2016-12-29T04:48:51.775Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58649505a7770f2681a7c087"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:45:57.603+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:45:57.603+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "58492195d51ad2238a1af6b2", 
+    "checkOutTime" : "2016-12-29T04:48:51.968Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58649511a7770f2681a7c0ba"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:46:09.540+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:46:09.540+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "58492195d51ad2238a1af6b3", 
+    "checkOutTime" : "2016-12-29T04:49:03.635Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58649515a7770f2681a7c0c6"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:46:13.045+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:46:13.045+0000"), 
+    "vehicleId" : "5851347ece292302627f4afe", 
+    "fromPort" : "58492195d51ad2238a1af6b9", 
+    "checkOutTime" : "2016-12-29T04:49:07.350Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58649515a7770f2681a7c0c9"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:46:13.517+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:46:13.517+0000"), 
+    "vehicleId" : "5851347ece292302627f4afe", 
+    "fromPort" : "58492195d51ad2238a1af6b9", 
+    "checkOutTime" : "2016-12-29T04:49:07.350Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5864951da7770f2681a7c0e4"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:46:21.570+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:46:21.570+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "58492195d51ad2238a1af6b4", 
+    "checkOutTime" : "2016-12-29T04:49:16.217Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5864951ea7770f2681a7c0ed"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:46:22.699+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:46:22.699+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "58492195d51ad2238a1af6b4", 
+    "checkOutTime" : "2016-12-29T04:49:16.217Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58649521a7770f2681a7c10a"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:46:25.157+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:46:25.157+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "58492195d51ad2238a1af6b2", 
+    "checkOutTime" : "2016-12-29T04:49:19.576Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58649522a7770f2681a7c10d"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:46:26.073+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:46:26.073+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "58492195d51ad2238a1af6b2", 
+    "checkOutTime" : "2016-12-29T04:49:19.576Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58649533a7770f2681a7c140"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:46:43.196+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:46:43.196+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "58492195d51ad2238a1af6b6", 
+    "checkOutTime" : "2016-12-29T04:49:37.684Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58649534a7770f2681a7c143"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:46:44.684+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:46:44.684+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "58492195d51ad2238a1af6b6", 
+    "checkOutTime" : "2016-12-29T04:49:37.684Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58649545a7770f2681a7c163"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:47:01.223+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:47:01.223+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "58492195d51ad2238a1af6b7", 
+    "checkOutTime" : "2016-12-29T04:49:55.100Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5864955fa7770f2681a7c183"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:47:27.411+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:47:27.411+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "58492195d51ad2238a1af6b8", 
+    "checkOutTime" : "2016-12-29T04:50:21.453Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5864958aa7770f2681a7c18f"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:48:10.891+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:48:10.891+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "58492195d51ad2238a1af6b5", 
+    "checkOutTime" : "2016-12-29T04:51:05.023Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5864958ba7770f2681a7c192"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:48:11.586+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:48:11.586+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "58492195d51ad2238a1af6b5", 
+    "checkOutTime" : "2016-12-29T04:51:05.023Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58649598a7770f2681a7c1c6"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:48:24.521+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:48:24.521+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "58492195d51ad2238a1af6bb", 
+    "checkOutTime" : "2016-12-29T04:51:18.249Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5864959aa7770f2681a7c1c9"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:48:26.145+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:48:26.145+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "58492195d51ad2238a1af6bb", 
+    "checkOutTime" : "2016-12-29T04:51:18.249Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586495dda7770f2681a7c223"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:49:33.486+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:49:33.486+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "58492195d51ad2238a1af6ba", 
+    "checkOutTime" : "2016-12-29T04:52:27.361Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586495dea7770f2681a7c22c"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:49:34.095+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:49:34.095+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "58492195d51ad2238a1af6ba", 
+    "checkOutTime" : "2016-12-29T04:52:27.361Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58649683a7770f2681a7c24d"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:52:19.143+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:52:19.143+0000"), 
+    "vehicleId" : "584a4dcc2e7b846da3b0af8d", 
+    "fromPort" : "58492195d51ad2238a1af6bc", 
+    "checkOutTime" : "2016-12-29T04:55:12.767Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58649684a7770f2681a7c252"), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:52:20.065+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:52:20.065+0000"), 
+    "vehicleId" : "584a4dcc2e7b846da3b0af8d", 
+    "fromPort" : "58492195d51ad2238a1af6bc", 
+    "checkOutTime" : "2016-12-29T04:55:12.767Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586499b573d5bd3aff0859b2"), 
+    "lastModifiedAt" : ISODate("2016-12-29T05:05:57.467+0000"), 
+    "createdAt" : ISODate("2016-12-29T05:05:57.467+0000"), 
+    "vehicleId" : "585133d7ce292302627f48e6", 
+    "fromPort" : "58492195d51ad2238a1af6c0", 
+    "checkOutTime" : "2016-12-29T05:08:51.542Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586499b673d5bd3aff0859b5"), 
+    "lastModifiedAt" : ISODate("2016-12-29T05:05:58.355+0000"), 
+    "createdAt" : ISODate("2016-12-29T05:05:58.355+0000"), 
+    "vehicleId" : "585133d7ce292302627f48e6", 
+    "fromPort" : "58492195d51ad2238a1af6c0", 
+    "checkOutTime" : "2016-12-29T05:08:51.542Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586499b873d5bd3aff0859e5"), 
+    "lastModifiedAt" : ISODate("2016-12-29T05:06:00.655+0000"), 
+    "createdAt" : ISODate("2016-12-29T05:06:00.655+0000"), 
+    "vehicleId" : "585134fbce292302627f4c66", 
+    "fromPort" : "58492195d51ad2238a1af6bf", 
+    "checkOutTime" : "2016-12-29T05:08:54.379Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586499b973d5bd3aff0859e8"), 
+    "lastModifiedAt" : ISODate("2016-12-29T05:06:01.548+0000"), 
+    "createdAt" : ISODate("2016-12-29T05:06:01.548+0000"), 
+    "vehicleId" : "585134fbce292302627f4c66", 
+    "fromPort" : "58492195d51ad2238a1af6bf", 
+    "checkOutTime" : "2016-12-29T05:08:54.379Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586499bf73d5bd3aff085a05"), 
+    "lastModifiedAt" : ISODate("2016-12-29T05:06:07.262+0000"), 
+    "createdAt" : ISODate("2016-12-29T05:06:07.262+0000"), 
+    "vehicleId" : "584a4dcc2e7b846da3b0af8d", 
+    "fromPort" : "58492195d51ad2238a1af6bc", 
+    "checkOutTime" : "2016-12-29T05:09:01.288Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586499bf73d5bd3aff085a08"), 
+    "lastModifiedAt" : ISODate("2016-12-29T05:06:07.272+0000"), 
+    "createdAt" : ISODate("2016-12-29T05:06:07.272+0000"), 
+    "vehicleId" : "585111e53bbb1512b286fa2a", 
+    "fromPort" : "58492195d51ad2238a1af6c1", 
+    "checkOutTime" : "2016-12-29T05:09:01.463Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586499c973d5bd3aff085a15"), 
+    "lastModifiedAt" : ISODate("2016-12-29T05:06:17.706+0000"), 
+    "createdAt" : ISODate("2016-12-29T05:06:17.706+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "58492195d51ad2238a1af6ba", 
+    "checkOutTime" : "2016-12-29T05:09:11.338Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586499cb73d5bd3aff085a21"), 
+    "lastModifiedAt" : ISODate("2016-12-29T05:06:19.922+0000"), 
+    "createdAt" : ISODate("2016-12-29T05:06:19.922+0000"), 
+    "vehicleId" : "5851345cce292302627f4a70", 
+    "fromPort" : "58492195d51ad2238a1af6b4", 
+    "checkOutTime" : "2016-12-29T05:09:13.982Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586499cc73d5bd3aff085a26"), 
+    "lastModifiedAt" : ISODate("2016-12-29T05:06:20.769+0000"), 
+    "createdAt" : ISODate("2016-12-29T05:06:20.769+0000"), 
+    "vehicleId" : "5851345cce292302627f4a70", 
+    "fromPort" : "58492195d51ad2238a1af6b4", 
+    "checkOutTime" : "2016-12-29T05:09:13.982Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586499cd73d5bd3aff085a30"), 
+    "lastModifiedAt" : ISODate("2016-12-29T05:06:21.401+0000"), 
+    "createdAt" : ISODate("2016-12-29T05:06:21.401+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "58492195d51ad2238a1af6b3", 
+    "checkOutTime" : "2016-12-29T05:09:15.466Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586499ce73d5bd3aff085a35"), 
+    "lastModifiedAt" : ISODate("2016-12-29T05:06:22.458+0000"), 
+    "createdAt" : ISODate("2016-12-29T05:06:22.458+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "58492195d51ad2238a1af6b3", 
+    "checkOutTime" : "2016-12-29T05:09:15.466Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586499cf73d5bd3aff085a40"), 
+    "lastModifiedAt" : ISODate("2016-12-29T05:06:23.575+0000"), 
+    "createdAt" : ISODate("2016-12-29T05:06:23.575+0000"), 
+    "vehicleId" : "5851347ece292302627f4afe", 
+    "fromPort" : "58492195d51ad2238a1af6b9", 
+    "checkOutTime" : "2016-12-29T05:09:17.331Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58649a6d20a79e3c19100edc"), 
+    "lastModifiedAt" : ISODate("2016-12-29T05:09:01.732+0000"), 
+    "createdAt" : ISODate("2016-12-29T05:09:01.732+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "58492195d51ad2238a1af6b3", 
+    "checkOutTime" : "2016-12-29T05:11:56.216Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58649af220a79e3c19100f8f"), 
+    "lastModifiedAt" : ISODate("2016-12-29T05:11:14.146+0000"), 
+    "createdAt" : ISODate("2016-12-29T05:11:14.146+0000"), 
+    "vehicleId" : "584a4dcc2e7b846da3b0af8d", 
+    "fromPort" : "58492195d51ad2238a1af6bc", 
+    "checkOutTime" : "2016-12-29T05:14:08.427Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58649af320a79e3c19100f92"), 
+    "lastModifiedAt" : ISODate("2016-12-29T05:11:15.005+0000"), 
+    "createdAt" : ISODate("2016-12-29T05:11:15.005+0000"), 
+    "vehicleId" : "584a4dcc2e7b846da3b0af8d", 
+    "fromPort" : "58492195d51ad2238a1af6bc", 
+    "checkOutTime" : "2016-12-29T05:14:08.427Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58649b4e20a79e3c19100f9e"), 
+    "lastModifiedAt" : ISODate("2016-12-29T05:12:46.694+0000"), 
+    "createdAt" : ISODate("2016-12-29T05:12:46.694+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "58492195d51ad2238a1af6b2", 
+    "checkOutTime" : "2016-12-29T05:15:41.430Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58649b6820a79e3c19100fed"), 
+    "lastModifiedAt" : ISODate("2016-12-29T05:13:12.361+0000"), 
+    "createdAt" : ISODate("2016-12-29T05:13:12.361+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "58492195d51ad2238a1af6ba", 
+    "checkOutTime" : "2016-12-29T05:16:06.528Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58649b6920a79e3c19100ff0"), 
+    "lastModifiedAt" : ISODate("2016-12-29T05:13:13.163+0000"), 
+    "createdAt" : ISODate("2016-12-29T05:13:13.163+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "58492195d51ad2238a1af6ba", 
+    "checkOutTime" : "2016-12-29T05:16:06.528Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58649b9a20a79e3c1910105d"), 
+    "lastModifiedAt" : ISODate("2016-12-29T05:14:02.919+0000"), 
+    "createdAt" : ISODate("2016-12-29T05:14:02.919+0000"), 
+    "vehicleId" : "584a4dcc2e7b846da3b0af8d", 
+    "fromPort" : "58492195d51ad2238a1af6bc", 
+    "checkOutTime" : "2016-12-29T05:16:58.242Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58649c5620a79e3c19101082"), 
+    "lastModifiedAt" : ISODate("2016-12-29T05:17:10.282+0000"), 
+    "createdAt" : ISODate("2016-12-29T05:17:10.282+0000"), 
+    "vehicleId" : "5851345cce292302627f4a70", 
+    "fromPort" : "58492195d51ad2238a1af6b5", 
+    "checkOutTime" : "2016-12-29T05:20:05.063Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58649c8520a79e3c191010a7"), 
+    "lastModifiedAt" : ISODate("2016-12-29T05:17:57.705+0000"), 
+    "createdAt" : ISODate("2016-12-29T05:17:57.705+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "58492195d51ad2238a1af6bb", 
+    "checkOutTime" : "2016-12-29T05:20:51.401Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5864a267786e6943211b24a2"), 
+    "lastModifiedAt" : ISODate("2016-12-29T05:43:03.964+0000"), 
+    "createdAt" : ISODate("2016-12-29T05:43:03.964+0000"), 
+    "vehicleId" : "585133d7ce292302627f48e6", 
+    "fromPort" : "58492195d51ad2238a1af6c1", 
+    "checkOutTime" : "2016-12-29T05:45:58.666Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5864d608786e6943211b25e5"), 
+    "lastModifiedAt" : ISODate("2016-12-29T09:23:20.651+0000"), 
+    "createdAt" : ISODate("2016-12-29T09:23:20.651+0000"), 
+    "vehicleId" : "58492903c31f7c020a0f6e10", 
+    "fromPort" : "584922ef577e7e6f43b7735c", 
+    "checkOutTime" : "2016-12-29T09:25:25.696Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5864d622786e6943211b260b"), 
+    "lastModifiedAt" : ISODate("2016-12-29T09:23:46.359+0000"), 
+    "createdAt" : ISODate("2016-12-29T09:23:46.359+0000"), 
+    "vehicleId" : "58492903c31f7c020a0f6e10", 
+    "fromPort" : "584922ef577e7e6f43b7735d", 
+    "checkOutTime" : "2016-12-29T09:25:50.783Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5864d623786e6943211b260e"), 
+    "lastModifiedAt" : ISODate("2016-12-29T09:23:47.181+0000"), 
+    "createdAt" : ISODate("2016-12-29T09:23:47.180+0000"), 
+    "vehicleId" : "58492903c31f7c020a0f6e10", 
+    "fromPort" : "584922ef577e7e6f43b7735d", 
+    "checkOutTime" : "2016-12-29T09:25:50.783Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5864d64d786e6943211b2657"), 
+    "lastModifiedAt" : ISODate("2016-12-29T09:24:29.372+0000"), 
+    "createdAt" : ISODate("2016-12-29T09:24:29.372+0000"), 
+    "vehicleId" : "58492903c31f7c020a0f6e10", 
+    "fromPort" : "584922ef577e7e6f43b7735f", 
+    "checkOutTime" : "2016-12-29T09:26:35.633Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5864d664786e6943211b2676"), 
+    "lastModifiedAt" : ISODate("2016-12-29T09:24:52.390+0000"), 
+    "createdAt" : ISODate("2016-12-29T09:24:52.390+0000"), 
+    "vehicleId" : "58492903c31f7c020a0f6e10", 
+    "fromPort" : "584922ef577e7e6f43b7735b", 
+    "checkOutTime" : "2016-12-29T09:26:58.093Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5864d67f786e6943211b26c6"), 
+    "lastModifiedAt" : ISODate("2016-12-29T09:25:19.785+0000"), 
+    "createdAt" : ISODate("2016-12-29T09:25:19.785+0000"), 
+    "vehicleId" : "58492903c31f7c020a0f6e10", 
+    "fromPort" : "584922ef577e7e6f43b77359", 
+    "checkOutTime" : "2016-12-29T09:27:26.159Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5864d68f786e6943211b26ec"), 
+    "lastModifiedAt" : ISODate("2016-12-29T09:25:35.005+0000"), 
+    "createdAt" : ISODate("2016-12-29T09:25:35.005+0000"), 
+    "vehicleId" : "58492903c31f7c020a0f6e10", 
+    "fromPort" : "584922ef577e7e6f43b77358", 
+    "checkOutTime" : "2016-12-29T09:27:40.222Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5864d6a0786e6943211b2712"), 
+    "lastModifiedAt" : ISODate("2016-12-29T09:25:52.562+0000"), 
+    "createdAt" : ISODate("2016-12-29T09:25:52.562+0000"), 
+    "vehicleId" : "58492903c31f7c020a0f6e10", 
+    "fromPort" : "584922ef577e7e6f43b77354", 
+    "checkOutTime" : "2016-12-29T09:27:57.026Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5864d6a1786e6943211b2715"), 
+    "lastModifiedAt" : ISODate("2016-12-29T09:25:53.086+0000"), 
+    "createdAt" : ISODate("2016-12-29T09:25:53.086+0000"), 
+    "vehicleId" : "58492903c31f7c020a0f6e10", 
+    "fromPort" : "584922ef577e7e6f43b77354", 
+    "checkOutTime" : "2016-12-29T09:27:57.026Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5864d6ae786e6943211b273b"), 
+    "lastModifiedAt" : ISODate("2016-12-29T09:26:06.552+0000"), 
+    "createdAt" : ISODate("2016-12-29T09:26:06.552+0000"), 
+    "vehicleId" : "58492903c31f7c020a0f6e10", 
+    "fromPort" : "584922ef577e7e6f43b77355", 
+    "checkOutTime" : "2016-12-29T09:28:11.061Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5864d6af786e6943211b273e"), 
+    "lastModifiedAt" : ISODate("2016-12-29T09:26:07.235+0000"), 
+    "createdAt" : ISODate("2016-12-29T09:26:07.235+0000"), 
+    "vehicleId" : "58492903c31f7c020a0f6e10", 
+    "fromPort" : "584922ef577e7e6f43b77355", 
+    "checkOutTime" : "2016-12-29T09:28:11.061Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5864d6ba786e6943211b2764"), 
+    "lastModifiedAt" : ISODate("2016-12-29T09:26:18.863+0000"), 
+    "createdAt" : ISODate("2016-12-29T09:26:18.863+0000"), 
+    "vehicleId" : "58492903c31f7c020a0f6e10", 
+    "fromPort" : "584922ef577e7e6f43b77356", 
+    "checkOutTime" : "2016-12-29T09:28:23.777Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5864d6c9786e6943211b278a"), 
+    "lastModifiedAt" : ISODate("2016-12-29T09:26:33.793+0000"), 
+    "createdAt" : ISODate("2016-12-29T09:26:33.793+0000"), 
+    "vehicleId" : "58492903c31f7c020a0f6e10", 
+    "fromPort" : "584922ef577e7e6f43b77357", 
+    "checkOutTime" : "2016-12-29T09:28:37.849Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5864d6ca786e6943211b278d"), 
+    "lastModifiedAt" : ISODate("2016-12-29T09:26:34.860+0000"), 
+    "createdAt" : ISODate("2016-12-29T09:26:34.860+0000"), 
+    "vehicleId" : "58492903c31f7c020a0f6e10", 
+    "fromPort" : "584922ef577e7e6f43b77357", 
+    "checkOutTime" : "2016-12-29T09:28:37.849Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5864d6db786e6943211b27b3"), 
+    "lastModifiedAt" : ISODate("2016-12-29T09:26:51.646+0000"), 
+    "createdAt" : ISODate("2016-12-29T09:26:51.646+0000"), 
+    "vehicleId" : "58492903c31f7c020a0f6e10", 
+    "fromPort" : "584922ef577e7e6f43b77353", 
+    "checkOutTime" : "2016-12-29T09:28:56.098Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5864d6dc786e6943211b27b6"), 
+    "lastModifiedAt" : ISODate("2016-12-29T09:26:52.642+0000"), 
+    "createdAt" : ISODate("2016-12-29T09:26:52.642+0000"), 
+    "vehicleId" : "58492903c31f7c020a0f6e10", 
+    "fromPort" : "584922ef577e7e6f43b77353", 
+    "checkOutTime" : "2016-12-29T09:28:56.098Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5864d6e8786e6943211b27dc"), 
+    "lastModifiedAt" : ISODate("2016-12-29T09:27:04.859+0000"), 
+    "createdAt" : ISODate("2016-12-29T09:27:04.859+0000"), 
+    "vehicleId" : "58492903c31f7c020a0f6e10", 
+    "fromPort" : "584922ef577e7e6f43b77352", 
+    "checkOutTime" : "2016-12-29T09:29:08.064Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5864d6e9786e6943211b27df"), 
+    "lastModifiedAt" : ISODate("2016-12-29T09:27:05.373+0000"), 
+    "createdAt" : ISODate("2016-12-29T09:27:05.373+0000"), 
+    "vehicleId" : "58492903c31f7c020a0f6e10", 
+    "fromPort" : "584922ef577e7e6f43b77352", 
+    "checkOutTime" : "2016-12-29T09:29:08.064Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5864d6e9786e6943211b27e2"), 
+    "lastModifiedAt" : ISODate("2016-12-29T09:27:05.509+0000"), 
+    "createdAt" : ISODate("2016-12-29T09:27:05.509+0000"), 
+    "vehicleId" : "58492903c31f7c020a0f6e10", 
+    "fromPort" : "584922ef577e7e6f43b77352", 
+    "checkOutTime" : "2016-12-29T09:29:08.064Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5864d6f2786e6943211b2808"), 
+    "lastModifiedAt" : ISODate("2016-12-29T09:27:14.824+0000"), 
+    "createdAt" : ISODate("2016-12-29T09:27:14.824+0000"), 
+    "vehicleId" : "58492903c31f7c020a0f6e10", 
+    "fromPort" : "584922ef577e7e6f43b77351", 
+    "checkOutTime" : "2016-12-29T09:29:19.856Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5864d6f3786e6943211b280b"), 
+    "lastModifiedAt" : ISODate("2016-12-29T09:27:15.773+0000"), 
+    "createdAt" : ISODate("2016-12-29T09:27:15.773+0000"), 
+    "vehicleId" : "58492903c31f7c020a0f6e10", 
+    "fromPort" : "584922ef577e7e6f43b77351", 
+    "checkOutTime" : "2016-12-29T09:29:19.856Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5864d6fe786e6943211b2831"), 
+    "lastModifiedAt" : ISODate("2016-12-29T09:27:26.190+0000"), 
+    "createdAt" : ISODate("2016-12-29T09:27:26.190+0000"), 
+    "vehicleId" : "58492903c31f7c020a0f6e10", 
+    "fromPort" : "584922ef577e7e6f43b77350", 
+    "checkOutTime" : "2016-12-29T09:29:31.945Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586507136a436f3b6fd12c7e"), 
+    "lastModifiedAt" : ISODate("2016-12-29T12:52:35.476+0000"), 
+    "createdAt" : ISODate("2016-12-29T12:52:35.476+0000"), 
+    "vehicleId" : "585111e53bbb1512b286fa2a", 
+    "fromPort" : "58492195d51ad2238a1af6c0", 
+    "checkOutTime" : "2016-12-29T11:54:07.731Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586507136a436f3b6fd12c8b"), 
+    "lastModifiedAt" : ISODate("2016-12-29T12:52:35.511+0000"), 
+    "createdAt" : ISODate("2016-12-29T12:52:35.511+0000"), 
+    "vehicleId" : "584a4dcc2e7b846da3b0af8d", 
+    "fromPort" : "58492195d51ad2238a1af6bc", 
+    "checkOutTime" : "2016-12-29T11:54:52.287Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586507136a436f3b6fd12c8c"), 
+    "lastModifiedAt" : ISODate("2016-12-29T12:52:35.512+0000"), 
+    "createdAt" : ISODate("2016-12-29T12:52:35.512+0000"), 
+    "vehicleId" : "584a4dfe2e7b846da3b0aff0", 
+    "fromPort" : "58492195d51ad2238a1af6be", 
+    "checkOutTime" : "2016-12-29T11:54:29.330Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586507136a436f3b6fd12c8d"), 
+    "lastModifiedAt" : ISODate("2016-12-29T12:52:35.512+0000"), 
+    "createdAt" : ISODate("2016-12-29T12:52:35.512+0000"), 
+    "vehicleId" : "585111b23bbb1512b286f942", 
+    "fromPort" : "58492195d51ad2238a1af6b3", 
+    "checkOutTime" : "2016-12-29T11:55:10.914Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586507136a436f3b6fd12c8e"), 
+    "lastModifiedAt" : ISODate("2016-12-29T12:52:35.513+0000"), 
+    "createdAt" : ISODate("2016-12-29T12:52:35.513+0000"), 
+    "vehicleId" : "585134fbce292302627f4c66", 
+    "fromPort" : "58492195d51ad2238a1af6bf", 
+    "checkOutTime" : "2016-12-29T11:54:16.683Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586507136a436f3b6fd12c94"), 
+    "lastModifiedAt" : ISODate("2016-12-29T12:52:35.524+0000"), 
+    "createdAt" : ISODate("2016-12-29T12:52:35.524+0000"), 
+    "vehicleId" : "5851345cce292302627f4a70", 
+    "fromPort" : "58492195d51ad2238a1af6b5", 
+    "checkOutTime" : "2016-12-29T11:55:27.344Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586507136a436f3b6fd12c93"), 
+    "lastModifiedAt" : ISODate("2016-12-29T12:52:35.523+0000"), 
+    "createdAt" : ISODate("2016-12-29T12:52:35.523+0000"), 
+    "vehicleId" : "584a4e592e7b846da3b0b0b6", 
+    "fromPort" : "58492195d51ad2238a1af6b4", 
+    "checkOutTime" : "2016-12-29T11:55:18.867Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586507136a436f3b6fd12c95"), 
+    "lastModifiedAt" : ISODate("2016-12-29T12:52:35.525+0000"), 
+    "createdAt" : ISODate("2016-12-29T12:52:35.525+0000"), 
+    "vehicleId" : "585134abce292302627f4b76", 
+    "fromPort" : "58492195d51ad2238a1af6b8", 
+    "checkOutTime" : "2016-12-29T11:55:50.898Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586507136a436f3b6fd12c96"), 
+    "lastModifiedAt" : ISODate("2016-12-29T12:52:35.527+0000"), 
+    "createdAt" : ISODate("2016-12-29T12:52:35.527+0000"), 
+    "vehicleId" : "5851347ece292302627f4afe", 
+    "fromPort" : "58492195d51ad2238a1af6b9", 
+    "checkOutTime" : "2016-12-29T11:55:39.782Z", 
+    "errorStatus" : "1", 
+    "errorMsg" : ": Duplicate record", 
+    "status" : "Open", 
+    "__v" : NumberInt(0)
+}

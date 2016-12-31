@@ -1,0 +1,70 @@
+{ 
+    "_id" : ObjectId("58492eaec31f7c020a0f6e88"), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:58:06.953+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:58:06.953+0000"), 
+    "subscriptionType" : "One Year", 
+    "validity" : NumberInt(365), 
+    "userFees" : NumberInt(1000), 
+    "securityDeposit" : NumberInt(250), 
+    "smartCardFees" : NumberInt(100), 
+    "processingFees" : NumberInt(0), 
+    "farePlan" : ObjectId("58492da1c31f7c020a0f6e75"), 
+    "status" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58492eecc31f7c020a0f6e89"), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:59:08.671+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:59:08.671+0000"), 
+    "subscriptionType" : "Three Months", 
+    "validity" : NumberInt(90), 
+    "userFees" : NumberInt(400), 
+    "securityDeposit" : NumberInt(250), 
+    "smartCardFees" : NumberInt(100), 
+    "processingFees" : NumberInt(0), 
+    "farePlan" : ObjectId("58492da1c31f7c020a0f6e75"), 
+    "status" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58492f1fc31f7c020a0f6e8a"), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:59:59.046+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:59:59.046+0000"), 
+    "subscriptionType" : "One Month", 
+    "validity" : NumberInt(30), 
+    "userFees" : NumberInt(200), 
+    "securityDeposit" : NumberInt(250), 
+    "smartCardFees" : NumberInt(100), 
+    "processingFees" : NumberInt(0), 
+    "farePlan" : ObjectId("58492da1c31f7c020a0f6e75"), 
+    "status" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58492fdfc31f7c020a0f6e8d"), 
+    "lastModifiedAt" : ISODate("2016-12-08T10:03:11.709+0000"), 
+    "createdAt" : ISODate("2016-12-08T10:03:11.709+0000"), 
+    "subscriptionType" : "Casual Member", 
+    "validity" : NumberInt(7), 
+    "userFees" : NumberInt(40), 
+    "securityDeposit" : NumberInt(250), 
+    "smartCardFees" : NumberInt(0), 
+    "processingFees" : NumberInt(10), 
+    "farePlan" : ObjectId("58492e23c31f7c020a0f6e7f"), 
+    "status" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5853bb175cf63b204505d8e0"), 
+    "lastModifiedAt" : ISODate("2016-12-16T09:59:51.786+0000"), 
+    "createdAt" : ISODate("2016-12-16T09:59:51.786+0000"), 
+    "subscriptionType" : "THREE MONTH PLAN", 
+    "validity" : NumberInt(81), 
+    "userFees" : NumberInt(750), 
+    "securityDeposit" : NumberInt(250), 
+    "smartCardFees" : NumberInt(100), 
+    "processingFees" : NumberInt(100), 
+    "farePlan" : ObjectId("58492da1c31f7c020a0f6e75"), 
+    "status" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}

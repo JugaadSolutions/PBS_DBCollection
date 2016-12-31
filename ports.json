@@ -1,0 +1,1852 @@
+{ 
+    "_id" : ObjectId("58491323d51ad2238a1af660"), 
+    "PortID" : NumberInt(5), 
+    "lastModifiedAt" : ISODate("2016-12-08T08:00:35.220+0000"), 
+    "createdAt" : ISODate("2016-12-08T08:00:35.220+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("58491323d51ad2238a1af65b"), 
+    "FPGA" : NumberInt(4), 
+    "ePortNumber" : NumberInt(1), 
+    "Name" : "MCC-ZONE-2Unit-4 PORT -1", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58491323d51ad2238a1af665"), 
+    "PortID" : NumberInt(10), 
+    "lastModifiedAt" : ISODate("2016-12-08T08:00:35.221+0000"), 
+    "createdAt" : ISODate("2016-12-08T08:00:35.221+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("58491323d51ad2238a1af65b"), 
+    "FPGA" : NumberInt(5), 
+    "ePortNumber" : NumberInt(2), 
+    "Name" : "MCC-ZONE-2Unit-5 PORT -2", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58491323d51ad2238a1af65c"), 
+    "PortID" : NumberInt(1), 
+    "lastModifiedAt" : ISODate("2016-12-08T08:00:35.219+0000"), 
+    "createdAt" : ISODate("2016-12-08T08:00:35.219+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("58491323d51ad2238a1af65b"), 
+    "FPGA" : NumberInt(3), 
+    "ePortNumber" : NumberInt(1), 
+    "Name" : "MCC-ZONE-2Unit-3 PORT -1", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58491323d51ad2238a1af661"), 
+    "PortID" : NumberInt(6), 
+    "lastModifiedAt" : ISODate("2016-12-08T08:00:35.220+0000"), 
+    "createdAt" : ISODate("2016-12-08T08:00:35.220+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("58491323d51ad2238a1af65b"), 
+    "FPGA" : NumberInt(4), 
+    "ePortNumber" : NumberInt(2), 
+    "Name" : "MCC-ZONE-2Unit-4 PORT -2", 
+    "vehicleId" : [
+        {
+            "vehicleid" : ObjectId("5851352cce292302627f4cde"), 
+            "vehicleUid" : NumberInt(19), 
+            "_id" : ObjectId("586792996a436f3b6fd12f07")
+        }
+    ], 
+    "portStatus" : NumberInt(1), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58491323d51ad2238a1af666"), 
+    "PortID" : NumberInt(11), 
+    "lastModifiedAt" : ISODate("2016-12-08T08:00:35.221+0000"), 
+    "createdAt" : ISODate("2016-12-08T08:00:35.221+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("58491323d51ad2238a1af65b"), 
+    "FPGA" : NumberInt(5), 
+    "ePortNumber" : NumberInt(3), 
+    "Name" : "MCC-ZONE-2Unit-5 PORT -3", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58491323d51ad2238a1af66b"), 
+    "PortID" : NumberInt(16), 
+    "lastModifiedAt" : ISODate("2016-12-08T08:00:35.222+0000"), 
+    "createdAt" : ISODate("2016-12-08T08:00:35.222+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("58491323d51ad2238a1af65b"), 
+    "FPGA" : NumberInt(6), 
+    "ePortNumber" : NumberInt(4), 
+    "Name" : "MCC-ZONE-2Unit-6 PORT -4", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58491323d51ad2238a1af663"), 
+    "PortID" : NumberInt(7), 
+    "lastModifiedAt" : ISODate("2016-12-08T08:00:35.220+0000"), 
+    "createdAt" : ISODate("2016-12-08T08:00:35.220+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("58491323d51ad2238a1af65b"), 
+    "FPGA" : NumberInt(4), 
+    "ePortNumber" : NumberInt(4), 
+    "Name" : "MCC-ZONE-2Unit-4 PORT -4", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58491323d51ad2238a1af668"), 
+    "PortID" : NumberInt(13), 
+    "lastModifiedAt" : ISODate("2016-12-08T08:00:35.222+0000"), 
+    "createdAt" : ISODate("2016-12-08T08:00:35.222+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("58491323d51ad2238a1af65b"), 
+    "FPGA" : NumberInt(6), 
+    "ePortNumber" : NumberInt(1), 
+    "Name" : "MCC-ZONE-2Unit-6 PORT -1", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58491323d51ad2238a1af65d"), 
+    "PortID" : NumberInt(3), 
+    "lastModifiedAt" : ISODate("2016-12-08T08:00:35.219+0000"), 
+    "createdAt" : ISODate("2016-12-08T08:00:35.219+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("58491323d51ad2238a1af65b"), 
+    "FPGA" : NumberInt(3), 
+    "ePortNumber" : NumberInt(2), 
+    "Name" : "MCC-ZONE-2Unit-3 PORT -2", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58491323d51ad2238a1af667"), 
+    "PortID" : NumberInt(12), 
+    "lastModifiedAt" : ISODate("2016-12-08T08:00:35.221+0000"), 
+    "createdAt" : ISODate("2016-12-08T08:00:35.221+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("58491323d51ad2238a1af65b"), 
+    "FPGA" : NumberInt(5), 
+    "ePortNumber" : NumberInt(4), 
+    "Name" : "MCC-ZONE-2Unit-5 PORT -4", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58491323d51ad2238a1af65f"), 
+    "PortID" : NumberInt(4), 
+    "lastModifiedAt" : ISODate("2016-12-08T08:00:35.220+0000"), 
+    "createdAt" : ISODate("2016-12-08T08:00:35.220+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("58491323d51ad2238a1af65b"), 
+    "FPGA" : NumberInt(3), 
+    "ePortNumber" : NumberInt(4), 
+    "Name" : "MCC-ZONE-2Unit-3 PORT -4", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58491323d51ad2238a1af669"), 
+    "PortID" : NumberInt(14), 
+    "lastModifiedAt" : ISODate("2016-12-08T08:00:35.222+0000"), 
+    "createdAt" : ISODate("2016-12-08T08:00:35.222+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("58491323d51ad2238a1af65b"), 
+    "FPGA" : NumberInt(6), 
+    "ePortNumber" : NumberInt(2), 
+    "Name" : "MCC-ZONE-2Unit-6 PORT -2", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58491323d51ad2238a1af66a"), 
+    "PortID" : NumberInt(15), 
+    "lastModifiedAt" : ISODate("2016-12-08T08:00:35.222+0000"), 
+    "createdAt" : ISODate("2016-12-08T08:00:35.222+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("58491323d51ad2238a1af65b"), 
+    "FPGA" : NumberInt(6), 
+    "ePortNumber" : NumberInt(3), 
+    "Name" : "MCC-ZONE-2Unit-6 PORT -3", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58491323d51ad2238a1af65e"), 
+    "PortID" : NumberInt(2), 
+    "lastModifiedAt" : ISODate("2016-12-08T08:00:35.220+0000"), 
+    "createdAt" : ISODate("2016-12-08T08:00:35.220+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("58491323d51ad2238a1af65b"), 
+    "FPGA" : NumberInt(3), 
+    "ePortNumber" : NumberInt(3), 
+    "Name" : "MCC-ZONE-2Unit-3 PORT -3", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58491323d51ad2238a1af662"), 
+    "PortID" : NumberInt(8), 
+    "lastModifiedAt" : ISODate("2016-12-08T08:00:35.220+0000"), 
+    "createdAt" : ISODate("2016-12-08T08:00:35.220+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("58491323d51ad2238a1af65b"), 
+    "FPGA" : NumberInt(4), 
+    "ePortNumber" : NumberInt(3), 
+    "Name" : "MCC-ZONE-2Unit-4 PORT -3", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58491323d51ad2238a1af664"), 
+    "PortID" : NumberInt(9), 
+    "lastModifiedAt" : ISODate("2016-12-08T08:00:35.221+0000"), 
+    "createdAt" : ISODate("2016-12-08T08:00:35.221+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("58491323d51ad2238a1af65b"), 
+    "FPGA" : NumberInt(5), 
+    "ePortNumber" : NumberInt(1), 
+    "Name" : "MCC-ZONE-2Unit-5 PORT -1", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5849213dd51ad2238a1af691"), 
+    "PortID" : NumberInt(19), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:00:45.401+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:00:45.401+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("5849213dd51ad2238a1af68c"), 
+    "FPGA" : NumberInt(4), 
+    "ePortNumber" : NumberInt(1), 
+    "Name" : "Tennis CourtUnit-4 PORT -1", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5849213dd51ad2238a1af690"), 
+    "PortID" : NumberInt(17), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:00:45.401+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:00:45.401+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("5849213dd51ad2238a1af68c"), 
+    "FPGA" : NumberInt(3), 
+    "ePortNumber" : NumberInt(4), 
+    "Name" : "Tennis CourtUnit-3 PORT -4", 
+    "vehicleId" : [
+        {
+            "vehicleid" : ObjectId("5851342dce292302627f49f8"), 
+            "vehicleUid" : NumberInt(13), 
+            "_id" : ObjectId("5863597dde5e6661014426a2")
+        }
+    ], 
+    "portStatus" : NumberInt(1), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5849213dd51ad2238a1af695"), 
+    "PortID" : NumberInt(23), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:00:45.402+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:00:45.402+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("5849213dd51ad2238a1af68c"), 
+    "FPGA" : NumberInt(5), 
+    "ePortNumber" : NumberInt(1), 
+    "Name" : "Tennis CourtUnit-5 PORT -1", 
+    "vehicleId" : [
+        {
+            "vehicleid" : ObjectId("585134c8ce292302627f4bee"), 
+            "vehicleUid" : NumberInt(17), 
+            "_id" : ObjectId("58635965de5e666101442693")
+        }
+    ], 
+    "portStatus" : NumberInt(1), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5849213dd51ad2238a1af68e"), 
+    "PortID" : NumberInt(18), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:00:45.401+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:00:45.401+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("5849213dd51ad2238a1af68c"), 
+    "FPGA" : NumberInt(3), 
+    "ePortNumber" : NumberInt(2), 
+    "Name" : "Tennis CourtUnit-3 PORT -2", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5849213dd51ad2238a1af693"), 
+    "PortID" : NumberInt(24), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:00:45.401+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:00:45.401+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("5849213dd51ad2238a1af68c"), 
+    "FPGA" : NumberInt(4), 
+    "ePortNumber" : NumberInt(3), 
+    "Name" : "Tennis CourtUnit-4 PORT -3", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5849213dd51ad2238a1af698"), 
+    "PortID" : NumberInt(27), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:00:45.402+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:00:45.402+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("5849213dd51ad2238a1af68c"), 
+    "FPGA" : NumberInt(5), 
+    "ePortNumber" : NumberInt(4), 
+    "Name" : "Tennis CourtUnit-5 PORT -4", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5849213dd51ad2238a1af68d"), 
+    "PortID" : NumberInt(20), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:00:45.400+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:00:45.400+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("5849213dd51ad2238a1af68c"), 
+    "FPGA" : NumberInt(3), 
+    "ePortNumber" : NumberInt(1), 
+    "Name" : "Tennis CourtUnit-3 PORT -1", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5849213dd51ad2238a1af692"), 
+    "PortID" : NumberInt(22), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:00:45.401+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:00:45.401+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("5849213dd51ad2238a1af68c"), 
+    "FPGA" : NumberInt(4), 
+    "ePortNumber" : NumberInt(2), 
+    "Name" : "Tennis CourtUnit-4 PORT -2", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5849213dd51ad2238a1af697"), 
+    "PortID" : NumberInt(26), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:00:45.402+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:00:45.402+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("5849213dd51ad2238a1af68c"), 
+    "FPGA" : NumberInt(5), 
+    "ePortNumber" : NumberInt(3), 
+    "Name" : "Tennis CourtUnit-5 PORT -3", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5849213dd51ad2238a1af68f"), 
+    "PortID" : NumberInt(21), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:00:45.401+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:00:45.401+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("5849213dd51ad2238a1af68c"), 
+    "FPGA" : NumberInt(3), 
+    "ePortNumber" : NumberInt(3), 
+    "Name" : "Tennis CourtUnit-3 PORT -3", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5849213dd51ad2238a1af694"), 
+    "PortID" : NumberInt(25), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:00:45.402+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:00:45.402+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("5849213dd51ad2238a1af68c"), 
+    "FPGA" : NumberInt(4), 
+    "ePortNumber" : NumberInt(4), 
+    "Name" : "Tennis CourtUnit-4 PORT -4", 
+    "vehicleId" : [
+        {
+            "vehicleid" : ObjectId("5854fe105cf63b2045060f2a"), 
+            "vehicleUid" : NumberInt(33), 
+            "_id" : ObjectId("5863594dde5e666101442684")
+        }
+    ], 
+    "portStatus" : NumberInt(1), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5849213dd51ad2238a1af696"), 
+    "PortID" : NumberInt(28), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:00:45.402+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:00:45.402+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("5849213dd51ad2238a1af68c"), 
+    "FPGA" : NumberInt(5), 
+    "ePortNumber" : NumberInt(2), 
+    "Name" : "Tennis CourtUnit-5 PORT -2", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58492195d51ad2238a1af6b2"), 
+    "PortID" : NumberInt(29), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:02:13.211+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:02:13.211+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("58492195d51ad2238a1af6b1"), 
+    "FPGA" : NumberInt(3), 
+    "ePortNumber" : NumberInt(1), 
+    "Name" : "RTO OfficeUnit-3 PORT -1", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58492195d51ad2238a1af6b7"), 
+    "PortID" : NumberInt(31), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:02:13.211+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:02:13.211+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("58492195d51ad2238a1af6b1"), 
+    "FPGA" : NumberInt(4), 
+    "ePortNumber" : NumberInt(2), 
+    "Name" : "RTO OfficeUnit-4 PORT -2", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58492195d51ad2238a1af6bc"), 
+    "PortID" : NumberInt(33), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:02:13.212+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:02:13.212+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("58492195d51ad2238a1af6b1"), 
+    "FPGA" : NumberInt(5), 
+    "ePortNumber" : NumberInt(3), 
+    "Name" : "RTO OfficeUnit-5 PORT -3", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58492195d51ad2238a1af6b4"), 
+    "PortID" : NumberInt(30), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:02:13.211+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:02:13.211+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("58492195d51ad2238a1af6b1"), 
+    "FPGA" : NumberInt(3), 
+    "ePortNumber" : NumberInt(3), 
+    "Name" : "RTO OfficeUnit-3 PORT -3", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58492195d51ad2238a1af6b9"), 
+    "PortID" : NumberInt(32), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:02:13.212+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:02:13.212+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("58492195d51ad2238a1af6b1"), 
+    "FPGA" : NumberInt(4), 
+    "ePortNumber" : NumberInt(4), 
+    "Name" : "RTO OfficeUnit-4 PORT -4", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58492195d51ad2238a1af6be"), 
+    "PortID" : NumberInt(34), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:02:13.212+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:02:13.212+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("58492195d51ad2238a1af6b1"), 
+    "FPGA" : NumberInt(6), 
+    "ePortNumber" : NumberInt(1), 
+    "Name" : "RTO OfficeUnit-6 PORT -1", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58492195d51ad2238a1af6c1"), 
+    "PortID" : NumberInt(39), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:02:13.212+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:02:13.212+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("58492195d51ad2238a1af6b1"), 
+    "FPGA" : NumberInt(6), 
+    "ePortNumber" : NumberInt(4), 
+    "Name" : "RTO OfficeUnit-6 PORT -4", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58492195d51ad2238a1af6b6"), 
+    "PortID" : NumberInt(35), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:02:13.211+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:02:13.211+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("58492195d51ad2238a1af6b1"), 
+    "FPGA" : NumberInt(4), 
+    "ePortNumber" : NumberInt(1), 
+    "Name" : "RTO OfficeUnit-4 PORT -1", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58492195d51ad2238a1af6bb"), 
+    "PortID" : NumberInt(36), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:02:13.212+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:02:13.212+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("58492195d51ad2238a1af6b1"), 
+    "FPGA" : NumberInt(5), 
+    "ePortNumber" : NumberInt(2), 
+    "Name" : "RTO OfficeUnit-5 PORT -2", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58492195d51ad2238a1af6c0"), 
+    "PortID" : NumberInt(37), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:02:13.212+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:02:13.212+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("58492195d51ad2238a1af6b1"), 
+    "FPGA" : NumberInt(6), 
+    "ePortNumber" : NumberInt(3), 
+    "Name" : "RTO OfficeUnit-6 PORT -3", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58492195d51ad2238a1af6b8"), 
+    "PortID" : NumberInt(40), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:02:13.211+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:02:13.211+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("58492195d51ad2238a1af6b1"), 
+    "FPGA" : NumberInt(4), 
+    "ePortNumber" : NumberInt(3), 
+    "Name" : "RTO OfficeUnit-4 PORT -3", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58492195d51ad2238a1af6b3"), 
+    "PortID" : NumberInt(38), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:02:13.211+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:02:13.211+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("58492195d51ad2238a1af6b1"), 
+    "FPGA" : NumberInt(3), 
+    "ePortNumber" : NumberInt(2), 
+    "Name" : "RTO OfficeUnit-3 PORT -2", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58492195d51ad2238a1af6bd"), 
+    "PortID" : NumberInt(41), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:02:13.212+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:02:13.212+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("58492195d51ad2238a1af6b1"), 
+    "FPGA" : NumberInt(5), 
+    "ePortNumber" : NumberInt(4), 
+    "Name" : "RTO OfficeUnit-5 PORT -4", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58492195d51ad2238a1af6ba"), 
+    "PortID" : NumberInt(43), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:02:13.212+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:02:13.212+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("58492195d51ad2238a1af6b1"), 
+    "FPGA" : NumberInt(5), 
+    "ePortNumber" : NumberInt(1), 
+    "Name" : "RTO OfficeUnit-5 PORT -1", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58492195d51ad2238a1af6b5"), 
+    "PortID" : NumberInt(42), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:02:13.211+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:02:13.211+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("58492195d51ad2238a1af6b1"), 
+    "FPGA" : NumberInt(3), 
+    "ePortNumber" : NumberInt(4), 
+    "Name" : "RTO OfficeUnit-3 PORT -4", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58492195d51ad2238a1af6bf"), 
+    "PortID" : NumberInt(44), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:02:13.212+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:02:13.212+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("58492195d51ad2238a1af6b1"), 
+    "FPGA" : NumberInt(6), 
+    "ePortNumber" : NumberInt(2), 
+    "Name" : "RTO OfficeUnit-6 PORT -2", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5849224d577e7e6f43b7732f"), 
+    "PortID" : NumberInt(49), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:05:17.140+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:05:17.140+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("5849224d577e7e6f43b7732a"), 
+    "FPGA" : NumberInt(4), 
+    "ePortNumber" : NumberInt(1), 
+    "Name" : "Lingayya CircleUnit-4 PORT -1", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5849224d577e7e6f43b77334"), 
+    "PortID" : NumberInt(54), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:05:17.141+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:05:17.141+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("5849224d577e7e6f43b7732a"), 
+    "FPGA" : NumberInt(5), 
+    "ePortNumber" : NumberInt(2), 
+    "Name" : "Lingayya CircleUnit-5 PORT -2", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5849224d577e7e6f43b7732c"), 
+    "PortID" : NumberInt(45), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:05:17.140+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:05:17.140+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("5849224d577e7e6f43b7732a"), 
+    "FPGA" : NumberInt(3), 
+    "ePortNumber" : NumberInt(2), 
+    "Name" : "Lingayya CircleUnit-3 PORT -2", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5849224d577e7e6f43b77331"), 
+    "PortID" : NumberInt(51), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:05:17.140+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:05:17.140+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("5849224d577e7e6f43b7732a"), 
+    "FPGA" : NumberInt(4), 
+    "ePortNumber" : NumberInt(3), 
+    "Name" : "Lingayya CircleUnit-4 PORT -3", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5849224d577e7e6f43b77336"), 
+    "PortID" : NumberInt(56), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:05:17.141+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:05:17.141+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("5849224d577e7e6f43b7732a"), 
+    "FPGA" : NumberInt(5), 
+    "ePortNumber" : NumberInt(4), 
+    "Name" : "Lingayya CircleUnit-5 PORT -4", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5849224d577e7e6f43b7732b"), 
+    "PortID" : NumberInt(46), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:05:17.140+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:05:17.139+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("5849224d577e7e6f43b7732a"), 
+    "FPGA" : NumberInt(3), 
+    "ePortNumber" : NumberInt(1), 
+    "Name" : "Lingayya CircleUnit-3 PORT -1", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5849224d577e7e6f43b77330"), 
+    "PortID" : NumberInt(50), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:05:17.140+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:05:17.140+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("5849224d577e7e6f43b7732a"), 
+    "FPGA" : NumberInt(4), 
+    "ePortNumber" : NumberInt(2), 
+    "Name" : "Lingayya CircleUnit-4 PORT -2", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5849224d577e7e6f43b77335"), 
+    "PortID" : NumberInt(55), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:05:17.141+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:05:17.141+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("5849224d577e7e6f43b7732a"), 
+    "FPGA" : NumberInt(5), 
+    "ePortNumber" : NumberInt(3), 
+    "Name" : "Lingayya CircleUnit-5 PORT -3", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5849224d577e7e6f43b7732e"), 
+    "PortID" : NumberInt(47), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:05:17.140+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:05:17.140+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("5849224d577e7e6f43b7732a"), 
+    "FPGA" : NumberInt(3), 
+    "ePortNumber" : NumberInt(4), 
+    "Name" : "Lingayya CircleUnit-3 PORT -4", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5849224d577e7e6f43b77333"), 
+    "PortID" : NumberInt(52), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:05:17.140+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:05:17.140+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("5849224d577e7e6f43b7732a"), 
+    "FPGA" : NumberInt(5), 
+    "ePortNumber" : NumberInt(1), 
+    "Name" : "Lingayya CircleUnit-5 PORT -1", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5849224d577e7e6f43b77332"), 
+    "PortID" : NumberInt(53), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:05:17.140+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:05:17.140+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("5849224d577e7e6f43b7732a"), 
+    "FPGA" : NumberInt(4), 
+    "ePortNumber" : NumberInt(4), 
+    "Name" : "Lingayya CircleUnit-4 PORT -4", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5849224d577e7e6f43b7732d"), 
+    "PortID" : NumberInt(48), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:05:17.140+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:05:17.140+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("5849224d577e7e6f43b7732a"), 
+    "FPGA" : NumberInt(3), 
+    "ePortNumber" : NumberInt(3), 
+    "Name" : "Lingayya CircleUnit-3 PORT -3", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("584922ef577e7e6f43b77354"), 
+    "PortID" : NumberInt(60), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:07:59.440+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:07:59.440+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("584922ef577e7e6f43b7734f"), 
+    "FPGA" : NumberInt(4), 
+    "ePortNumber" : NumberInt(1), 
+    "Name" : "Srinivasa CircleUnit-4 PORT -1", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("584922ef577e7e6f43b77359"), 
+    "PortID" : NumberInt(66), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:07:59.440+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:07:59.440+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("584922ef577e7e6f43b7734f"), 
+    "FPGA" : NumberInt(5), 
+    "ePortNumber" : NumberInt(2), 
+    "Name" : "Srinivasa CircleUnit-5 PORT -2", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("584922ef577e7e6f43b77350"), 
+    "PortID" : NumberInt(57), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:07:59.439+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:07:59.439+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("584922ef577e7e6f43b7734f"), 
+    "FPGA" : NumberInt(3), 
+    "ePortNumber" : NumberInt(1), 
+    "Name" : "Srinivasa CircleUnit-3 PORT -1", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("584922ef577e7e6f43b77355"), 
+    "PortID" : NumberInt(62), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:07:59.440+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:07:59.440+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("584922ef577e7e6f43b7734f"), 
+    "FPGA" : NumberInt(4), 
+    "ePortNumber" : NumberInt(2), 
+    "Name" : "Srinivasa CircleUnit-4 PORT -2", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("584922ef577e7e6f43b7735a"), 
+    "PortID" : NumberInt(67), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:07:59.440+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:07:59.440+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("584922ef577e7e6f43b7734f"), 
+    "FPGA" : NumberInt(5), 
+    "ePortNumber" : NumberInt(3), 
+    "Name" : "Srinivasa CircleUnit-5 PORT -3", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("584922ef577e7e6f43b7735f"), 
+    "PortID" : NumberInt(72), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:07:59.441+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:07:59.441+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("584922ef577e7e6f43b7734f"), 
+    "FPGA" : NumberInt(6), 
+    "ePortNumber" : NumberInt(4), 
+    "Name" : "Srinivasa CircleUnit-6 PORT -4", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("584922ef577e7e6f43b77352"), 
+    "PortID" : NumberInt(58), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:07:59.439+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:07:59.439+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("584922ef577e7e6f43b7734f"), 
+    "FPGA" : NumberInt(3), 
+    "ePortNumber" : NumberInt(3), 
+    "Name" : "Srinivasa CircleUnit-3 PORT -3", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("584922ef577e7e6f43b77357"), 
+    "PortID" : NumberInt(63), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:07:59.440+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:07:59.440+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("584922ef577e7e6f43b7734f"), 
+    "FPGA" : NumberInt(4), 
+    "ePortNumber" : NumberInt(4), 
+    "Name" : "Srinivasa CircleUnit-4 PORT -4", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("584922ef577e7e6f43b7735c"), 
+    "PortID" : NumberInt(68), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:07:59.441+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:07:59.441+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("584922ef577e7e6f43b7734f"), 
+    "FPGA" : NumberInt(6), 
+    "ePortNumber" : NumberInt(1), 
+    "Name" : "Srinivasa CircleUnit-6 PORT -1", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("584922ef577e7e6f43b77358"), 
+    "PortID" : NumberInt(65), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:07:59.440+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:07:59.440+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("584922ef577e7e6f43b7734f"), 
+    "FPGA" : NumberInt(5), 
+    "ePortNumber" : NumberInt(1), 
+    "Name" : "Srinivasa CircleUnit-5 PORT -1", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("584922ef577e7e6f43b77353"), 
+    "PortID" : NumberInt(59), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:07:59.440+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:07:59.440+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("584922ef577e7e6f43b7734f"), 
+    "FPGA" : NumberInt(3), 
+    "ePortNumber" : NumberInt(4), 
+    "Name" : "Srinivasa CircleUnit-3 PORT -4", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("584922ef577e7e6f43b7735d"), 
+    "PortID" : NumberInt(70), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:07:59.441+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:07:59.441+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("584922ef577e7e6f43b7734f"), 
+    "FPGA" : NumberInt(6), 
+    "ePortNumber" : NumberInt(2), 
+    "Name" : "Srinivasa CircleUnit-6 PORT -2", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("584922ef577e7e6f43b77356"), 
+    "PortID" : NumberInt(64), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:07:59.440+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:07:59.440+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("584922ef577e7e6f43b7734f"), 
+    "FPGA" : NumberInt(4), 
+    "ePortNumber" : NumberInt(3), 
+    "Name" : "Srinivasa CircleUnit-4 PORT -3", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("584922ef577e7e6f43b77351"), 
+    "PortID" : NumberInt(61), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:07:59.439+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:07:59.439+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("584922ef577e7e6f43b7734f"), 
+    "FPGA" : NumberInt(3), 
+    "ePortNumber" : NumberInt(2), 
+    "Name" : "Srinivasa CircleUnit-3 PORT -2", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("584922ef577e7e6f43b7735b"), 
+    "PortID" : NumberInt(69), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:07:59.440+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:07:59.440+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("584922ef577e7e6f43b7734f"), 
+    "FPGA" : NumberInt(5), 
+    "ePortNumber" : NumberInt(4), 
+    "Name" : "Srinivasa CircleUnit-5 PORT -4", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("584922ef577e7e6f43b7735e"), 
+    "PortID" : NumberInt(71), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:07:59.441+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:07:59.441+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("584922ef577e7e6f43b7734f"), 
+    "FPGA" : NumberInt(6), 
+    "ePortNumber" : NumberInt(3), 
+    "Name" : "Srinivasa CircleUnit-6 PORT -3", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5849235cc31f7c020a0f6cbd"), 
+    "PortID" : NumberInt(76), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:09:48.781+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:09:48.781+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("5849235cc31f7c020a0f6cb8"), 
+    "FPGA" : NumberInt(4), 
+    "ePortNumber" : NumberInt(1), 
+    "Name" : "JSS college (Ooty road)Unit-4 PORT -1", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5849235cc31f7c020a0f6cc2"), 
+    "PortID" : NumberInt(82), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:09:48.781+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:09:48.781+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("5849235cc31f7c020a0f6cb8"), 
+    "FPGA" : NumberInt(5), 
+    "ePortNumber" : NumberInt(2), 
+    "Name" : "JSS college (Ooty road)Unit-5 PORT -2", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5849235cc31f7c020a0f6cc7"), 
+    "PortID" : NumberInt(88), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:09:48.782+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:09:48.782+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("5849235cc31f7c020a0f6cb8"), 
+    "FPGA" : NumberInt(6), 
+    "ePortNumber" : NumberInt(3), 
+    "Name" : "JSS college (Ooty road)Unit-6 PORT -3", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5849235cc31f7c020a0f6cbf"), 
+    "PortID" : NumberInt(79), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:09:48.781+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:09:48.781+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("5849235cc31f7c020a0f6cb8"), 
+    "FPGA" : NumberInt(4), 
+    "ePortNumber" : NumberInt(3), 
+    "Name" : "JSS college (Ooty road)Unit-4 PORT -3", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5849235cc31f7c020a0f6cba"), 
+    "PortID" : NumberInt(73), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:09:48.780+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:09:48.780+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("5849235cc31f7c020a0f6cb8"), 
+    "FPGA" : NumberInt(3), 
+    "ePortNumber" : NumberInt(2), 
+    "Name" : "JSS college (Ooty road)Unit-3 PORT -2", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5849235cc31f7c020a0f6cc4"), 
+    "PortID" : NumberInt(84), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:09:48.782+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:09:48.782+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("5849235cc31f7c020a0f6cb8"), 
+    "FPGA" : NumberInt(5), 
+    "ePortNumber" : NumberInt(4), 
+    "Name" : "JSS college (Ooty road)Unit-5 PORT -4", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5849235cc31f7c020a0f6cb9"), 
+    "PortID" : NumberInt(74), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:09:48.780+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:09:48.780+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("5849235cc31f7c020a0f6cb8"), 
+    "FPGA" : NumberInt(3), 
+    "ePortNumber" : NumberInt(1), 
+    "Name" : "JSS college (Ooty road)Unit-3 PORT -1", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5849235cc31f7c020a0f6cbe"), 
+    "PortID" : NumberInt(78), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:09:48.781+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:09:48.781+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("5849235cc31f7c020a0f6cb8"), 
+    "FPGA" : NumberInt(4), 
+    "ePortNumber" : NumberInt(2), 
+    "Name" : "JSS college (Ooty road)Unit-4 PORT -2", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5849235cc31f7c020a0f6cc3"), 
+    "PortID" : NumberInt(83), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:09:48.781+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:09:48.781+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("5849235cc31f7c020a0f6cb8"), 
+    "FPGA" : NumberInt(5), 
+    "ePortNumber" : NumberInt(3), 
+    "Name" : "JSS college (Ooty road)Unit-5 PORT -3", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5849235cc31f7c020a0f6cc8"), 
+    "PortID" : NumberInt(87), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:09:48.782+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:09:48.782+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("5849235cc31f7c020a0f6cb8"), 
+    "FPGA" : NumberInt(6), 
+    "ePortNumber" : NumberInt(4), 
+    "Name" : "JSS college (Ooty road)Unit-6 PORT -4", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5849235cc31f7c020a0f6cbc"), 
+    "PortID" : NumberInt(75), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:09:48.781+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:09:48.781+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("5849235cc31f7c020a0f6cb8"), 
+    "FPGA" : NumberInt(3), 
+    "ePortNumber" : NumberInt(4), 
+    "Name" : "JSS college (Ooty road)Unit-3 PORT -4", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5849235cc31f7c020a0f6cc1"), 
+    "PortID" : NumberInt(81), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:09:48.781+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:09:48.781+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("5849235cc31f7c020a0f6cb8"), 
+    "FPGA" : NumberInt(5), 
+    "ePortNumber" : NumberInt(1), 
+    "Name" : "JSS college (Ooty road)Unit-5 PORT -1", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5849235cc31f7c020a0f6cc6"), 
+    "PortID" : NumberInt(86), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:09:48.782+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:09:48.782+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("5849235cc31f7c020a0f6cb8"), 
+    "FPGA" : NumberInt(6), 
+    "ePortNumber" : NumberInt(2), 
+    "Name" : "JSS college (Ooty road)Unit-6 PORT -2", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5849235cc31f7c020a0f6cc0"), 
+    "PortID" : NumberInt(80), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:09:48.781+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:09:48.781+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("5849235cc31f7c020a0f6cb8"), 
+    "FPGA" : NumberInt(4), 
+    "ePortNumber" : NumberInt(4), 
+    "Name" : "JSS college (Ooty road)Unit-4 PORT -4", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5849235cc31f7c020a0f6cbb"), 
+    "PortID" : NumberInt(77), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:09:48.781+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:09:48.781+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("5849235cc31f7c020a0f6cb8"), 
+    "FPGA" : NumberInt(3), 
+    "ePortNumber" : NumberInt(3), 
+    "Name" : "JSS college (Ooty road)Unit-3 PORT -3", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5849235cc31f7c020a0f6cc5"), 
+    "PortID" : NumberInt(85), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:09:48.782+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:09:48.782+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("5849235cc31f7c020a0f6cb8"), 
+    "FPGA" : NumberInt(6), 
+    "ePortNumber" : NumberInt(1), 
+    "Name" : "JSS college (Ooty road)Unit-6 PORT -1", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "PortID" : NumberInt(89), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:24:41.447+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:24:41.447+0000"), 
+    "_type" : "Fleet", 
+    "Name" : "Bicycle Fleet", 
+    "StationId" : ObjectId("58492678c31f7c020a0f6ced"), 
+    "VehicleCapacity" : NumberInt(500), 
+    "status" : NumberInt(0), 
+    "timeStamp" : ISODate("2016-12-08T09:08:41.663+0000"), 
+    "vehicleId" : [
+        {
+            "vehicleid" : ObjectId("584928a1c31f7c020a0f6d50"), 
+            "vehicleUid" : NumberInt(1), 
+            "_id" : ObjectId("584928a1c31f7c020a0f6d52")
+        }, 
+        {
+            "vehicleid" : ObjectId("584928ccc31f7c020a0f6db0"), 
+            "vehicleUid" : NumberInt(2), 
+            "_id" : ObjectId("584928ccc31f7c020a0f6db2")
+        }, 
+        {
+            "vehicleid" : ObjectId("58492903c31f7c020a0f6e10"), 
+            "vehicleUid" : NumberInt(3), 
+            "_id" : ObjectId("58492903c31f7c020a0f6e12")
+        }, 
+        {
+            "vehicleid" : ObjectId("584a4d832e7b846da3b0af2a"), 
+            "vehicleUid" : NumberInt(4), 
+            "_id" : ObjectId("584a4d832e7b846da3b0af2c")
+        }, 
+        {
+            "vehicleid" : ObjectId("584a4dcc2e7b846da3b0af8d"), 
+            "vehicleUid" : NumberInt(5), 
+            "_id" : ObjectId("584a4dcc2e7b846da3b0af8f")
+        }, 
+        {
+            "vehicleid" : ObjectId("584a4dfe2e7b846da3b0aff0"), 
+            "vehicleUid" : NumberInt(6), 
+            "_id" : ObjectId("584a4dfe2e7b846da3b0aff2")
+        }, 
+        {
+            "vehicleid" : ObjectId("584a4e2e2e7b846da3b0b053"), 
+            "vehicleUid" : NumberInt(7), 
+            "_id" : ObjectId("584a4e2e2e7b846da3b0b055")
+        }, 
+        {
+            "vehicleid" : ObjectId("584a4e592e7b846da3b0b0b6"), 
+            "vehicleUid" : NumberInt(8), 
+            "_id" : ObjectId("584a4e592e7b846da3b0b0b8")
+        }, 
+        {
+            "vehicleid" : ObjectId("585111b23bbb1512b286f942"), 
+            "vehicleUid" : NumberInt(9), 
+            "_id" : ObjectId("585111b23bbb1512b286f944")
+        }, 
+        {
+            "vehicleid" : ObjectId("585111e53bbb1512b286fa2a"), 
+            "vehicleUid" : NumberInt(10), 
+            "_id" : ObjectId("585111e53bbb1512b286fa2c")
+        }, 
+        {
+            "vehicleid" : ObjectId("585133d7ce292302627f48e6"), 
+            "vehicleUid" : NumberInt(11), 
+            "_id" : ObjectId("585133d7ce292302627f48e8")
+        }, 
+        {
+            "vehicleid" : ObjectId("58513404ce292302627f4965"), 
+            "vehicleUid" : NumberInt(12), 
+            "_id" : ObjectId("58513404ce292302627f4967")
+        }, 
+        {
+            "vehicleid" : ObjectId("5851342dce292302627f49f8"), 
+            "vehicleUid" : NumberInt(13), 
+            "_id" : ObjectId("5851342dce292302627f49fa")
+        }, 
+        {
+            "vehicleid" : ObjectId("5851345cce292302627f4a70"), 
+            "vehicleUid" : NumberInt(14), 
+            "_id" : ObjectId("5851345cce292302627f4a72")
+        }, 
+        {
+            "vehicleid" : ObjectId("5851347ece292302627f4afe"), 
+            "vehicleUid" : NumberInt(15), 
+            "_id" : ObjectId("5851347ece292302627f4b00")
+        }, 
+        {
+            "vehicleid" : ObjectId("585134abce292302627f4b76"), 
+            "vehicleUid" : NumberInt(16), 
+            "_id" : ObjectId("585134abce292302627f4b78")
+        }, 
+        {
+            "vehicleid" : ObjectId("585134c8ce292302627f4bee"), 
+            "vehicleUid" : NumberInt(17), 
+            "_id" : ObjectId("585134c8ce292302627f4bf0")
+        }, 
+        {
+            "vehicleid" : ObjectId("585134fbce292302627f4c66"), 
+            "vehicleUid" : NumberInt(18), 
+            "_id" : ObjectId("585134fbce292302627f4c68")
+        }, 
+        {
+            "vehicleid" : ObjectId("5851352cce292302627f4cde"), 
+            "vehicleUid" : NumberInt(19), 
+            "_id" : ObjectId("5851352cce292302627f4ce0")
+        }, 
+        {
+            "vehicleid" : ObjectId("5853cd355cf63b204505daa4"), 
+            "vehicleUid" : NumberInt(20), 
+            "_id" : ObjectId("5853cd355cf63b204505daa6")
+        }, 
+        {
+            "vehicleid" : ObjectId("5854fc345cf63b204506033e"), 
+            "vehicleUid" : NumberInt(21), 
+            "_id" : ObjectId("5854fc345cf63b2045060340")
+        }, 
+        {
+            "vehicleid" : ObjectId("5854fc5b5cf63b20450603e0"), 
+            "vehicleUid" : NumberInt(22), 
+            "_id" : ObjectId("5854fc5b5cf63b20450603e2")
+        }, 
+        {
+            "vehicleid" : ObjectId("5854fc775cf63b2045060462"), 
+            "vehicleUid" : NumberInt(23), 
+            "_id" : ObjectId("5854fc775cf63b2045060464")
+        }, 
+        {
+            "vehicleid" : ObjectId("5854fca55cf63b20450605f1"), 
+            "vehicleUid" : NumberInt(24), 
+            "_id" : ObjectId("5854fca55cf63b20450605f3")
+        }, 
+        {
+            "vehicleid" : ObjectId("5854fce25cf63b2045060780"), 
+            "vehicleUid" : NumberInt(25), 
+            "_id" : ObjectId("5854fce25cf63b2045060782")
+        }, 
+        {
+            "vehicleid" : ObjectId("5854fd005cf63b2045060818"), 
+            "vehicleUid" : NumberInt(26), 
+            "_id" : ObjectId("5854fd005cf63b204506081a")
+        }, 
+        {
+            "vehicleid" : ObjectId("5854fd2a5cf63b2045060921"), 
+            "vehicleUid" : NumberInt(27), 
+            "_id" : ObjectId("5854fd2a5cf63b2045060923")
+        }, 
+        {
+            "vehicleid" : ObjectId("5854fd4d5cf63b2045060a1f"), 
+            "vehicleUid" : NumberInt(28), 
+            "_id" : ObjectId("5854fd4d5cf63b2045060a21")
+        }, 
+        {
+            "vehicleid" : ObjectId("5854fd755cf63b2045060b1d"), 
+            "vehicleUid" : NumberInt(29), 
+            "_id" : ObjectId("5854fd755cf63b2045060b1f")
+        }, 
+        {
+            "vehicleid" : ObjectId("5854fd985cf63b2045060c1b"), 
+            "vehicleUid" : NumberInt(30), 
+            "_id" : ObjectId("5854fd985cf63b2045060c1d")
+        }, 
+        {
+            "vehicleid" : ObjectId("5854fdbf5cf63b2045060d19"), 
+            "vehicleUid" : NumberInt(31), 
+            "_id" : ObjectId("5854fdbf5cf63b2045060d1b")
+        }, 
+        {
+            "vehicleid" : ObjectId("5854fde15cf63b2045060e2c"), 
+            "vehicleUid" : NumberInt(32), 
+            "_id" : ObjectId("5854fde15cf63b2045060e2e")
+        }, 
+        {
+            "vehicleid" : ObjectId("5854fe105cf63b2045060f2a"), 
+            "vehicleUid" : NumberInt(33), 
+            "_id" : ObjectId("5854fe105cf63b2045060f2c")
+        }, 
+        {
+            "vehicleid" : ObjectId("5854fe335cf63b2045060fac"), 
+            "vehicleUid" : NumberInt(34), 
+            "_id" : ObjectId("5854fe335cf63b2045060fae")
+        }, 
+        {
+            "vehicleid" : ObjectId("5854fe4e5cf63b204506102f"), 
+            "vehicleUid" : NumberInt(35), 
+            "_id" : ObjectId("5854fe4e5cf63b2045061031")
+        }, 
+        {
+            "vehicleid" : ObjectId("5854fe625cf63b20450610b1"), 
+            "vehicleUid" : NumberInt(36), 
+            "_id" : ObjectId("5854fe625cf63b20450610b3")
+        }, 
+        {
+            "vehicleid" : ObjectId("5854fe8a5cf63b20450611af"), 
+            "vehicleUid" : NumberInt(37), 
+            "_id" : ObjectId("5854fe8a5cf63b20450611b1")
+        }, 
+        {
+            "vehicleid" : ObjectId("5854fea75cf63b20450612ad"), 
+            "vehicleUid" : NumberInt(38), 
+            "_id" : ObjectId("5854fea75cf63b20450612af")
+        }, 
+        {
+            "vehicleid" : ObjectId("5854febc5cf63b204506132f"), 
+            "vehicleUid" : NumberInt(39), 
+            "_id" : ObjectId("5854febc5cf63b2045061331")
+        }, 
+        {
+            "vehicleid" : ObjectId("5854fef25cf63b204506142d"), 
+            "vehicleUid" : NumberInt(40), 
+            "_id" : ObjectId("5854fef25cf63b204506142f")
+        }, 
+        {
+            "vehicleid" : ObjectId("5854ff1a5cf63b20450614af"), 
+            "vehicleUid" : NumberInt(41), 
+            "_id" : ObjectId("5854ff1a5cf63b20450614b1")
+        }, 
+        {
+            "vehicleid" : ObjectId("5854ff3d5cf63b20450615ae"), 
+            "vehicleUid" : NumberInt(42), 
+            "_id" : ObjectId("5854ff3d5cf63b20450615b0")
+        }, 
+        {
+            "vehicleid" : ObjectId("5854ff5c5cf63b20450616c8"), 
+            "vehicleUid" : NumberInt(43), 
+            "_id" : ObjectId("5854ff5c5cf63b20450616ca")
+        }, 
+        {
+            "vehicleid" : ObjectId("5854ff765cf63b20450616cf"), 
+            "vehicleUid" : NumberInt(44), 
+            "_id" : ObjectId("5854ff765cf63b20450616d1")
+        }, 
+        {
+            "vehicleid" : ObjectId("5854ffa05cf63b20450617cd"), 
+            "vehicleUid" : NumberInt(45), 
+            "_id" : ObjectId("5854ffa05cf63b20450617cf")
+        }, 
+        {
+            "vehicleid" : ObjectId("5854ffc05cf63b204506194f"), 
+            "vehicleUid" : NumberInt(46), 
+            "_id" : ObjectId("5854ffc05cf63b2045061951")
+        }, 
+        {
+            "vehicleid" : ObjectId("5854ffdc5cf63b2045061a55"), 
+            "vehicleUid" : NumberInt(47), 
+            "_id" : ObjectId("5854ffdc5cf63b2045061a57")
+        }, 
+        {
+            "vehicleid" : ObjectId("5858b81ccaedb61212a63e89"), 
+            "vehicleUid" : NumberInt(48), 
+            "_id" : ObjectId("5858b81ccaedb61212a63e8b")
+        }
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(500), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5853c1675cf63b204505d981"), 
+    "PortID" : NumberInt(90), 
+    "lastModifiedAt" : ISODate("2016-12-16T10:26:47.164+0000"), 
+    "createdAt" : ISODate("2016-12-16T10:26:47.164+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("5853c1665cf63b204505d980"), 
+    "FPGA" : NumberInt(3), 
+    "ePortNumber" : NumberInt(1), 
+    "Name" : "CHAMUNDI HILLSUnit-3 PORT -1", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5853c1675cf63b204505d983"), 
+    "PortID" : NumberInt(91), 
+    "lastModifiedAt" : ISODate("2016-12-16T10:26:47.164+0000"), 
+    "createdAt" : ISODate("2016-12-16T10:26:47.164+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("5853c1665cf63b204505d980"), 
+    "FPGA" : NumberInt(3), 
+    "ePortNumber" : NumberInt(3), 
+    "Name" : "CHAMUNDI HILLSUnit-3 PORT -3", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5853c1675cf63b204505d984"), 
+    "PortID" : NumberInt(92), 
+    "lastModifiedAt" : ISODate("2016-12-16T10:26:47.164+0000"), 
+    "createdAt" : ISODate("2016-12-16T10:26:47.164+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("5853c1665cf63b204505d980"), 
+    "FPGA" : NumberInt(3), 
+    "ePortNumber" : NumberInt(4), 
+    "Name" : "CHAMUNDI HILLSUnit-3 PORT -4", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5853c1675cf63b204505d982"), 
+    "PortID" : NumberInt(93), 
+    "lastModifiedAt" : ISODate("2016-12-16T10:26:47.164+0000"), 
+    "createdAt" : ISODate("2016-12-16T10:26:47.164+0000"), 
+    "_type" : "Docking-port", 
+    "StationId" : ObjectId("5853c1665cf63b204505d980"), 
+    "FPGA" : NumberInt(3), 
+    "ePortNumber" : NumberInt(2), 
+    "Name" : "CHAMUNDI HILLSUnit-3 PORT -2", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586363ecde5e6661014427f8"), 
+    "PortID" : NumberInt(95), 
+    "lastModifiedAt" : ISODate("2016-12-28T07:04:12.476+0000"), 
+    "createdAt" : ISODate("2016-12-28T07:04:12.476+0000"), 
+    "_type" : "Redistribution-area", 
+    "StationId" : ObjectId("586363ecde5e6661014427f7"), 
+    "Name" : "KA02", 
+    "vehicleId" : [
+
+    ], 
+    "portStatus" : NumberInt(2), 
+    "portCapacity" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}

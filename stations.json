@@ -1,0 +1,711 @@
+{ 
+    "_id" : ObjectId("58491323d51ad2238a1af65b"), 
+    "StationID" : NumberInt(1), 
+    "lastModifiedAt" : ISODate("2016-12-08T08:00:35.189+0000"), 
+    "createdAt" : ISODate("2016-12-08T08:00:35.189+0000"), 
+    "stationType" : "dock-station", 
+    "stationNumber" : "DS100", 
+    "noofUnits" : NumberInt(4), 
+    "noofPorts" : NumberInt(16), 
+    "gpsCoordinates" : {
+        "latitude" : "12.292103", 
+        "longitude" : "76.63796"
+    }, 
+    "name" : "MCC-ZONE-2", 
+    "ipAddress" : "13.13.13.2", 
+    "ipAddress_unique" : {
+        "coordinates" : [
+            NumberInt(0), 
+            NumberInt(0)
+        ], 
+        "type" : "Point"
+    }, 
+    "name_unique" : {
+        "coordinates" : [
+            NumberInt(0), 
+            NumberInt(0)
+        ], 
+        "type" : "Point"
+    }, 
+    "portIds" : [
+        {
+            "dockingPortId" : ObjectId("58491323d51ad2238a1af665"), 
+            "_id" : ObjectId("58491323d51ad2238a1af66c")
+        }, 
+        {
+            "dockingPortId" : ObjectId("58491323d51ad2238a1af660"), 
+            "_id" : ObjectId("58491323d51ad2238a1af66d")
+        }, 
+        {
+            "dockingPortId" : ObjectId("58491323d51ad2238a1af666"), 
+            "_id" : ObjectId("58491323d51ad2238a1af66e")
+        }, 
+        {
+            "dockingPortId" : ObjectId("58491323d51ad2238a1af65c"), 
+            "_id" : ObjectId("58491323d51ad2238a1af66f")
+        }, 
+        {
+            "dockingPortId" : ObjectId("58491323d51ad2238a1af663"), 
+            "_id" : ObjectId("58491323d51ad2238a1af670")
+        }, 
+        {
+            "dockingPortId" : ObjectId("58491323d51ad2238a1af667"), 
+            "_id" : ObjectId("58491323d51ad2238a1af671")
+        }, 
+        {
+            "dockingPortId" : ObjectId("58491323d51ad2238a1af661"), 
+            "_id" : ObjectId("58491323d51ad2238a1af672")
+        }, 
+        {
+            "dockingPortId" : ObjectId("58491323d51ad2238a1af668"), 
+            "_id" : ObjectId("58491323d51ad2238a1af673")
+        }, 
+        {
+            "dockingPortId" : ObjectId("58491323d51ad2238a1af66b"), 
+            "_id" : ObjectId("58491323d51ad2238a1af676")
+        }, 
+        {
+            "dockingPortId" : ObjectId("58491323d51ad2238a1af65d"), 
+            "_id" : ObjectId("58491323d51ad2238a1af677")
+        }, 
+        {
+            "dockingPortId" : ObjectId("58491323d51ad2238a1af65f"), 
+            "_id" : ObjectId("58491323d51ad2238a1af678")
+        }, 
+        {
+            "dockingPortId" : ObjectId("58491323d51ad2238a1af669"), 
+            "_id" : ObjectId("58491323d51ad2238a1af67e")
+        }, 
+        {
+            "dockingPortId" : ObjectId("58491323d51ad2238a1af66a"), 
+            "_id" : ObjectId("58491323d51ad2238a1af682")
+        }, 
+        {
+            "dockingPortId" : ObjectId("58491323d51ad2238a1af65e"), 
+            "_id" : ObjectId("58491323d51ad2238a1af683")
+        }, 
+        {
+            "dockingPortId" : ObjectId("58491323d51ad2238a1af662"), 
+            "_id" : ObjectId("584920cdda596c652a00925e")
+        }, 
+        {
+            "dockingPortId" : ObjectId("58491323d51ad2238a1af664"), 
+            "_id" : ObjectId("584925cfda596c652a009263")
+        }
+    ], 
+    "stationStatus" : NumberInt(2), 
+    "operationStatus" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5849213dd51ad2238a1af68c"), 
+    "StationID" : NumberInt(2), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:00:45.386+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:00:45.386+0000"), 
+    "stationType" : "dock-station", 
+    "stationNumber" : "DS036", 
+    "noofUnits" : NumberInt(3), 
+    "noofPorts" : NumberInt(12), 
+    "gpsCoordinates" : {
+        "latitude" : "12.2982917", 
+        "longitude" : "76.6385917"
+    }, 
+    "name" : "Tennis Court", 
+    "ipAddress" : "13.13.13.4", 
+    "ipAddress_unique" : {
+        "coordinates" : [
+            NumberInt(0), 
+            NumberInt(0)
+        ], 
+        "type" : "Point"
+    }, 
+    "name_unique" : {
+        "coordinates" : [
+            NumberInt(0), 
+            NumberInt(0)
+        ], 
+        "type" : "Point"
+    }, 
+    "portIds" : [
+        {
+            "dockingPortId" : ObjectId("5849213dd51ad2238a1af691"), 
+            "_id" : ObjectId("5849213dd51ad2238a1af699")
+        }, 
+        {
+            "dockingPortId" : ObjectId("5849213dd51ad2238a1af698"), 
+            "_id" : ObjectId("5849213dd51ad2238a1af69a")
+        }, 
+        {
+            "dockingPortId" : ObjectId("5849213dd51ad2238a1af695"), 
+            "_id" : ObjectId("5849213dd51ad2238a1af69b")
+        }, 
+        {
+            "dockingPortId" : ObjectId("5849213dd51ad2238a1af692"), 
+            "_id" : ObjectId("5849213dd51ad2238a1af69c")
+        }, 
+        {
+            "dockingPortId" : ObjectId("5849213dd51ad2238a1af690"), 
+            "_id" : ObjectId("5849213dd51ad2238a1af69e")
+        }, 
+        {
+            "dockingPortId" : ObjectId("5849213dd51ad2238a1af68d"), 
+            "_id" : ObjectId("5849213dd51ad2238a1af69f")
+        }, 
+        {
+            "dockingPortId" : ObjectId("5849213dd51ad2238a1af693"), 
+            "_id" : ObjectId("5849213dd51ad2238a1af6a1")
+        }, 
+        {
+            "dockingPortId" : ObjectId("5849213dd51ad2238a1af68f"), 
+            "_id" : ObjectId("5849213dd51ad2238a1af6a2")
+        }, 
+        {
+            "dockingPortId" : ObjectId("5849213dd51ad2238a1af68e"), 
+            "_id" : ObjectId("5849213dd51ad2238a1af6a4")
+        }, 
+        {
+            "dockingPortId" : ObjectId("5849213dd51ad2238a1af697"), 
+            "_id" : ObjectId("5849213dd51ad2238a1af6a5")
+        }, 
+        {
+            "dockingPortId" : ObjectId("5849213dd51ad2238a1af696"), 
+            "_id" : ObjectId("5849213dd51ad2238a1af6a6")
+        }, 
+        {
+            "dockingPortId" : ObjectId("5849213dd51ad2238a1af694"), 
+            "_id" : ObjectId("5849213dd51ad2238a1af6a7")
+        }
+    ], 
+    "stationStatus" : NumberInt(2), 
+    "operationStatus" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58492195d51ad2238a1af6b1"), 
+    "StationID" : NumberInt(3), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:02:13.203+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:02:13.203+0000"), 
+    "stationType" : "dock-station", 
+    "stationNumber" : "DS038", 
+    "noofUnits" : NumberInt(2), 
+    "noofPorts" : NumberInt(16), 
+    "gpsCoordinates" : {
+        "latitude" : "12.2985639", 
+        "longitude" : "76.6424694"
+    }, 
+    "name" : "RTO Office", 
+    "ipAddress" : "13.13.13.5", 
+    "ipAddress_unique" : {
+        "coordinates" : [
+            NumberInt(0), 
+            NumberInt(0)
+        ], 
+        "type" : "Point"
+    }, 
+    "name_unique" : {
+        "coordinates" : [
+            NumberInt(0), 
+            NumberInt(0)
+        ], 
+        "type" : "Point"
+    }, 
+    "portIds" : [
+        {
+            "dockingPortId" : ObjectId("58492195d51ad2238a1af6b7"), 
+            "_id" : ObjectId("58492195d51ad2238a1af6c2")
+        }, 
+        {
+            "dockingPortId" : ObjectId("58492195d51ad2238a1af6b4"), 
+            "_id" : ObjectId("58492195d51ad2238a1af6c3")
+        }, 
+        {
+            "dockingPortId" : ObjectId("58492195d51ad2238a1af6b2"), 
+            "_id" : ObjectId("58492195d51ad2238a1af6c4")
+        }, 
+        {
+            "dockingPortId" : ObjectId("58492195d51ad2238a1af6be"), 
+            "_id" : ObjectId("58492195d51ad2238a1af6c5")
+        }, 
+        {
+            "dockingPortId" : ObjectId("58492195d51ad2238a1af6c0"), 
+            "_id" : ObjectId("58492195d51ad2238a1af6c6")
+        }, 
+        {
+            "dockingPortId" : ObjectId("58492195d51ad2238a1af6bc"), 
+            "_id" : ObjectId("58492195d51ad2238a1af6c7")
+        }, 
+        {
+            "dockingPortId" : ObjectId("58492195d51ad2238a1af6b3"), 
+            "_id" : ObjectId("58492195d51ad2238a1af6c9")
+        }, 
+        {
+            "dockingPortId" : ObjectId("58492195d51ad2238a1af6b9"), 
+            "_id" : ObjectId("58492195d51ad2238a1af6ca")
+        }, 
+        {
+            "dockingPortId" : ObjectId("58492195d51ad2238a1af6bb"), 
+            "_id" : ObjectId("58492195d51ad2238a1af6cb")
+        }, 
+        {
+            "dockingPortId" : ObjectId("58492195d51ad2238a1af6bd"), 
+            "_id" : ObjectId("58492195d51ad2238a1af6cc")
+        }, 
+        {
+            "dockingPortId" : ObjectId("58492195d51ad2238a1af6ba"), 
+            "_id" : ObjectId("58492195d51ad2238a1af6cd")
+        }, 
+        {
+            "dockingPortId" : ObjectId("58492195d51ad2238a1af6c1"), 
+            "_id" : ObjectId("58492195d51ad2238a1af6ce")
+        }, 
+        {
+            "dockingPortId" : ObjectId("58492195d51ad2238a1af6b6"), 
+            "_id" : ObjectId("58492195d51ad2238a1af6d2")
+        }, 
+        {
+            "dockingPortId" : ObjectId("58492195d51ad2238a1af6b8"), 
+            "_id" : ObjectId("58492195d51ad2238a1af6d3")
+        }, 
+        {
+            "dockingPortId" : ObjectId("58492195d51ad2238a1af6b5"), 
+            "_id" : ObjectId("58492195d51ad2238a1af6d4")
+        }, 
+        {
+            "dockingPortId" : ObjectId("58492195d51ad2238a1af6bf"), 
+            "_id" : ObjectId("58492195d51ad2238a1af6d6")
+        }
+    ], 
+    "stationStatus" : NumberInt(2), 
+    "operationStatus" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5849224d577e7e6f43b7732a"), 
+    "StationID" : NumberInt(4), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:05:17.121+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:05:17.121+0000"), 
+    "stationType" : "dock-station", 
+    "stationNumber" : "DS041", 
+    "noofUnits" : NumberInt(3), 
+    "noofPorts" : NumberInt(12), 
+    "gpsCoordinates" : {
+        "latitude" : "12.291812", 
+        "longitude" : "76.641056"
+    }, 
+    "name" : "Lingayya Circle", 
+    "ipAddress" : "13.13.13.3", 
+    "ipAddress_unique" : {
+        "coordinates" : [
+            NumberInt(0), 
+            NumberInt(0)
+        ], 
+        "type" : "Point"
+    }, 
+    "name_unique" : {
+        "coordinates" : [
+            NumberInt(0), 
+            NumberInt(0)
+        ], 
+        "type" : "Point"
+    }, 
+    "portIds" : [
+        {
+            "dockingPortId" : ObjectId("5849224d577e7e6f43b77334"), 
+            "_id" : ObjectId("5849224d577e7e6f43b77337")
+        }, 
+        {
+            "dockingPortId" : ObjectId("5849224d577e7e6f43b7732f"), 
+            "_id" : ObjectId("5849224d577e7e6f43b77338")
+        }, 
+        {
+            "dockingPortId" : ObjectId("5849224d577e7e6f43b7732b"), 
+            "_id" : ObjectId("5849224d577e7e6f43b77339")
+        }, 
+        {
+            "dockingPortId" : ObjectId("5849224d577e7e6f43b7732c"), 
+            "_id" : ObjectId("5849224d577e7e6f43b7733a")
+        }, 
+        {
+            "dockingPortId" : ObjectId("5849224d577e7e6f43b77335"), 
+            "_id" : ObjectId("5849224d577e7e6f43b7733b")
+        }, 
+        {
+            "dockingPortId" : ObjectId("5849224d577e7e6f43b77332"), 
+            "_id" : ObjectId("5849224d577e7e6f43b7733c")
+        }, 
+        {
+            "dockingPortId" : ObjectId("5849224d577e7e6f43b77336"), 
+            "_id" : ObjectId("5849224d577e7e6f43b7733d")
+        }, 
+        {
+            "dockingPortId" : ObjectId("5849224d577e7e6f43b77333"), 
+            "_id" : ObjectId("5849224d577e7e6f43b7733e")
+        }, 
+        {
+            "dockingPortId" : ObjectId("5849224d577e7e6f43b77331"), 
+            "_id" : ObjectId("5849224d577e7e6f43b77340")
+        }, 
+        {
+            "dockingPortId" : ObjectId("5849224d577e7e6f43b7732e"), 
+            "_id" : ObjectId("5849224d577e7e6f43b77341")
+        }, 
+        {
+            "dockingPortId" : ObjectId("5849224d577e7e6f43b77330"), 
+            "_id" : ObjectId("5849224d577e7e6f43b77343")
+        }, 
+        {
+            "dockingPortId" : ObjectId("5849224d577e7e6f43b7732d"), 
+            "_id" : ObjectId("58492564da596c652a009261")
+        }
+    ], 
+    "stationStatus" : NumberInt(2), 
+    "operationStatus" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("584922ef577e7e6f43b7734f"), 
+    "StationID" : NumberInt(5), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:07:59.429+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:07:59.429+0000"), 
+    "stationType" : "dock-station", 
+    "stationNumber" : "DS034", 
+    "noofUnits" : NumberInt(2), 
+    "noofPorts" : NumberInt(16), 
+    "gpsCoordinates" : {
+        "latitude" : "12.2909056", 
+        "longitude" : "76.6464917"
+    }, 
+    "name" : "Srinivasa Circle", 
+    "ipAddress" : "13.13.13.6", 
+    "ipAddress_unique" : {
+        "coordinates" : [
+            NumberInt(0), 
+            NumberInt(0)
+        ], 
+        "type" : "Point"
+    }, 
+    "name_unique" : {
+        "coordinates" : [
+            NumberInt(0), 
+            NumberInt(0)
+        ], 
+        "type" : "Point"
+    }, 
+    "portIds" : [
+        {
+            "dockingPortId" : ObjectId("584922ef577e7e6f43b77359"), 
+            "_id" : ObjectId("584922ef577e7e6f43b77360")
+        }, 
+        {
+            "dockingPortId" : ObjectId("584922ef577e7e6f43b77350"), 
+            "_id" : ObjectId("584922ef577e7e6f43b77361")
+        }, 
+        {
+            "dockingPortId" : ObjectId("584922ef577e7e6f43b77357"), 
+            "_id" : ObjectId("584922ef577e7e6f43b77362")
+        }, 
+        {
+            "dockingPortId" : ObjectId("584922ef577e7e6f43b77354"), 
+            "_id" : ObjectId("584922ef577e7e6f43b77363")
+        }, 
+        {
+            "dockingPortId" : ObjectId("584922ef577e7e6f43b7735f"), 
+            "_id" : ObjectId("584922ef577e7e6f43b77364")
+        }, 
+        {
+            "dockingPortId" : ObjectId("584922ef577e7e6f43b77353"), 
+            "_id" : ObjectId("584922ef577e7e6f43b77365")
+        }, 
+        {
+            "dockingPortId" : ObjectId("584922ef577e7e6f43b77355"), 
+            "_id" : ObjectId("584922ef577e7e6f43b77366")
+        }, 
+        {
+            "dockingPortId" : ObjectId("584922ef577e7e6f43b7735c"), 
+            "_id" : ObjectId("584922ef577e7e6f43b77367")
+        }, 
+        {
+            "dockingPortId" : ObjectId("584922ef577e7e6f43b7735a"), 
+            "_id" : ObjectId("584922ef577e7e6f43b77369")
+        }, 
+        {
+            "dockingPortId" : ObjectId("584922ef577e7e6f43b77352"), 
+            "_id" : ObjectId("584922ef577e7e6f43b7736d")
+        }, 
+        {
+            "dockingPortId" : ObjectId("584922ef577e7e6f43b77358"), 
+            "_id" : ObjectId("584922ef577e7e6f43b7736e")
+        }, 
+        {
+            "dockingPortId" : ObjectId("584922ef577e7e6f43b77356"), 
+            "_id" : ObjectId("584922ef577e7e6f43b7736f")
+        }, 
+        {
+            "dockingPortId" : ObjectId("584922ef577e7e6f43b7735e"), 
+            "_id" : ObjectId("584922ef577e7e6f43b77370")
+        }, 
+        {
+            "dockingPortId" : ObjectId("584922ef577e7e6f43b7735d"), 
+            "_id" : ObjectId("584922ef577e7e6f43b77371")
+        }, 
+        {
+            "dockingPortId" : ObjectId("584922ef577e7e6f43b7735b"), 
+            "_id" : ObjectId("584922ef577e7e6f43b77372")
+        }, 
+        {
+            "dockingPortId" : ObjectId("584922ef577e7e6f43b77351"), 
+            "_id" : ObjectId("584922ef577e7e6f43b77374")
+        }
+    ], 
+    "stationStatus" : NumberInt(2), 
+    "operationStatus" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5849235cc31f7c020a0f6cb8"), 
+    "StationID" : NumberInt(6), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:09:48.757+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:09:48.757+0000"), 
+    "stationType" : "dock-station", 
+    "stationNumber" : "DS044", 
+    "noofUnits" : NumberInt(2), 
+    "noofPorts" : NumberInt(16), 
+    "gpsCoordinates" : {
+        "latitude" : "12.287", 
+        "longitude" : "76.6588028"
+    }, 
+    "name" : "JSS college (Ooty road)", 
+    "ipAddress" : "13.13.13.7", 
+    "ipAddress_unique" : {
+        "coordinates" : [
+            NumberInt(0), 
+            NumberInt(0)
+        ], 
+        "type" : "Point"
+    }, 
+    "name_unique" : {
+        "coordinates" : [
+            NumberInt(0), 
+            NumberInt(0)
+        ], 
+        "type" : "Point"
+    }, 
+    "portIds" : [
+        {
+            "dockingPortId" : ObjectId("5849235cc31f7c020a0f6cbd"), 
+            "_id" : ObjectId("5849235cc31f7c020a0f6cc9")
+        }, 
+        {
+            "dockingPortId" : ObjectId("5849235cc31f7c020a0f6cbf"), 
+            "_id" : ObjectId("5849235cc31f7c020a0f6cca")
+        }, 
+        {
+            "dockingPortId" : ObjectId("5849235cc31f7c020a0f6cc7"), 
+            "_id" : ObjectId("5849235cc31f7c020a0f6ccb")
+        }, 
+        {
+            "dockingPortId" : ObjectId("5849235cc31f7c020a0f6cb9"), 
+            "_id" : ObjectId("5849235cc31f7c020a0f6ccc")
+        }, 
+        {
+            "dockingPortId" : ObjectId("5849235cc31f7c020a0f6cc2"), 
+            "_id" : ObjectId("5849235cc31f7c020a0f6ccd")
+        }, 
+        {
+            "dockingPortId" : ObjectId("5849235cc31f7c020a0f6cba"), 
+            "_id" : ObjectId("5849235cc31f7c020a0f6cd1")
+        }, 
+        {
+            "dockingPortId" : ObjectId("5849235cc31f7c020a0f6cbe"), 
+            "_id" : ObjectId("5849235cc31f7c020a0f6cd2")
+        }, 
+        {
+            "dockingPortId" : ObjectId("5849235cc31f7c020a0f6cc1"), 
+            "_id" : ObjectId("5849235cc31f7c020a0f6cd3")
+        }, 
+        {
+            "dockingPortId" : ObjectId("5849235cc31f7c020a0f6cc0"), 
+            "_id" : ObjectId("5849235cc31f7c020a0f6cd4")
+        }, 
+        {
+            "dockingPortId" : ObjectId("5849235cc31f7c020a0f6cc4"), 
+            "_id" : ObjectId("5849235cc31f7c020a0f6cd5")
+        }, 
+        {
+            "dockingPortId" : ObjectId("5849235cc31f7c020a0f6cc8"), 
+            "_id" : ObjectId("5849235cc31f7c020a0f6cd6")
+        }, 
+        {
+            "dockingPortId" : ObjectId("5849235cc31f7c020a0f6cc3"), 
+            "_id" : ObjectId("5849235cc31f7c020a0f6cd9")
+        }, 
+        {
+            "dockingPortId" : ObjectId("5849235cc31f7c020a0f6cc6"), 
+            "_id" : ObjectId("5849235cc31f7c020a0f6cda")
+        }, 
+        {
+            "dockingPortId" : ObjectId("5849235cc31f7c020a0f6cc5"), 
+            "_id" : ObjectId("5849235cc31f7c020a0f6cdb")
+        }, 
+        {
+            "dockingPortId" : ObjectId("5849235cc31f7c020a0f6cbc"), 
+            "_id" : ObjectId("5849235cc31f7c020a0f6cdd")
+        }, 
+        {
+            "dockingPortId" : ObjectId("5849235cc31f7c020a0f6cbb"), 
+            "_id" : ObjectId("5849235cc31f7c020a0f6cde")
+        }
+    ], 
+    "stationStatus" : NumberInt(2), 
+    "operationStatus" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58492678c31f7c020a0f6ced"), 
+    "StationID" : NumberInt(7), 
+    "lastModifiedAt" : ISODate("2016-12-08T09:23:04.843+0000"), 
+    "createdAt" : ISODate("2016-12-08T09:23:04.843+0000"), 
+    "stationType" : "fleet-area", 
+    "name" : "PBS-Mysore", 
+    "name_unique" : {
+        "coordinates" : [
+            NumberInt(0), 
+            NumberInt(0)
+        ], 
+        "type" : "Point"
+    }, 
+    "operationStatus" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5853c1665cf63b204505d980"), 
+    "StationID" : NumberInt(8), 
+    "lastModifiedAt" : ISODate("2016-12-16T10:26:46.930+0000"), 
+    "createdAt" : ISODate("2016-12-16T10:26:46.930+0000"), 
+    "stationType" : "dock-station", 
+    "stationNumber" : "DS100", 
+    "noofUnits" : NumberInt(1), 
+    "noofPorts" : NumberInt(1), 
+    "gpsCoordinates" : {
+        "latitude" : "45", 
+        "longitude" : "45"
+    }, 
+    "name" : "CHAMUNDI HILLS", 
+    "ipAddress" : "192.2.15.12", 
+    "ipAddress_unique" : {
+        "coordinates" : [
+            NumberInt(0), 
+            NumberInt(0)
+        ], 
+        "type" : "Point"
+    }, 
+    "name_unique" : {
+        "coordinates" : [
+            NumberInt(0), 
+            NumberInt(0)
+        ], 
+        "type" : "Point"
+    }, 
+    "portIds" : [
+        {
+            "dockingPortId" : ObjectId("5853c1675cf63b204505d984"), 
+            "_id" : ObjectId("5853c1675cf63b204505d985")
+        }, 
+        {
+            "dockingPortId" : ObjectId("5853c1675cf63b204505d981"), 
+            "_id" : ObjectId("5853c1675cf63b204505d986")
+        }, 
+        {
+            "dockingPortId" : ObjectId("5853c1675cf63b204505d983"), 
+            "_id" : ObjectId("5853c1675cf63b204505d987")
+        }, 
+        {
+            "dockingPortId" : ObjectId("5853c1675cf63b204505d982"), 
+            "_id" : ObjectId("5853c1675cf63b204505d989")
+        }
+    ], 
+    "stationStatus" : NumberInt(2), 
+    "operationStatus" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5853cf635cf63b204505db25"), 
+    "StationID" : NumberInt(10), 
+    "lastModifiedAt" : ISODate("2016-12-16T11:26:27.041+0000"), 
+    "createdAt" : ISODate("2016-12-16T11:26:27.041+0000"), 
+    "stationType" : "maintenance-center", 
+    "name_unique" : {
+        "coordinates" : [
+            NumberInt(0), 
+            NumberInt(0)
+        ], 
+        "type" : "Point"
+    }, 
+    "operationStatus" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5854c29d5cf63b204505e644"), 
+    "StationID" : NumberInt(11), 
+    "lastModifiedAt" : ISODate("2016-12-17T04:44:13.925+0000"), 
+    "createdAt" : ISODate("2016-12-17T04:44:13.925+0000"), 
+    "stationType" : "holdingarea", 
+    "name_unique" : {
+        "coordinates" : [
+            NumberInt(0), 
+            NumberInt(0)
+        ], 
+        "type" : "Point"
+    }, 
+    "operationStatus" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586363ecde5e6661014427f7"), 
+    "StationID" : NumberInt(17), 
+    "lastModifiedAt" : ISODate("2016-12-28T07:04:12.407+0000"), 
+    "createdAt" : ISODate("2016-12-28T07:04:12.407+0000"), 
+    "stationType" : "redistribution-vehicle", 
+    "name" : "MYSORE", 
+    "vehiclePlate" : "KA123", 
+    "driverId" : "DL123", 
+    "vehiclePlate_unique" : {
+        "coordinates" : [
+            NumberInt(0), 
+            NumberInt(0)
+        ], 
+        "type" : "Point"
+    }, 
+    "name_unique" : {
+        "coordinates" : [
+            NumberInt(0), 
+            NumberInt(0)
+        ], 
+        "type" : "Point"
+    }, 
+    "operationStatus" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("586493d8a7770f2681a7bb82"), 
+    "StationID" : NumberInt(18), 
+    "lastModifiedAt" : ISODate("2016-12-29T04:40:56.752+0000"), 
+    "createdAt" : ISODate("2016-12-29T04:40:56.752+0000"), 
+    "stationType" : "registration-center", 
+    "name" : "RTO Center", 
+    "location" : "RTO", 
+    "assignedTo" : ObjectId("585cb9bd5ee5653023d60c9b"), 
+    "gpsCoordinates" : {
+        "longitude" : "45", 
+        "latitude" : "2*5"
+    }, 
+    "name_unique" : {
+        "coordinates" : [
+            NumberInt(0), 
+            NumberInt(0)
+        ], 
+        "type" : "Point"
+    }, 
+    "operationStatus" : NumberInt(1), 
+    "__v" : NumberInt(0)
+}

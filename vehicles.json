@@ -1,0 +1,576 @@
+{ 
+    "_id" : ObjectId("584928a1c31f7c020a0f6d50"), 
+    "vehicleUid" : NumberInt(1), 
+    "fleetId" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "vehicleNumber" : "TR001", 
+    "vehicleRFID" : "E00401006B5D02A0", 
+    "currentAssociationId" : ObjectId("58491323d51ad2238a1af65c"), 
+    "vehicleCurrentStatus" : NumberInt(1), 
+    "vehicleStatus" : NumberInt(1), 
+    "vehicleType" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("584928ccc31f7c020a0f6db0"), 
+    "vehicleUid" : NumberInt(2), 
+    "fleetId" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "vehicleNumber" : "TR002", 
+    "vehicleRFID" : "E00401006B5D02C2", 
+    "currentAssociationId" : ObjectId("584a9bbd2e7b846da3b0b37f"), 
+    "vehicleCurrentStatus" : NumberInt(2), 
+    "vehicleStatus" : NumberInt(1), 
+    "vehicleType" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58492903c31f7c020a0f6e10"), 
+    "vehicleUid" : NumberInt(3), 
+    "fleetId" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "vehicleNumber" : "TR185", 
+    "vehicleRFID" : "E00401006B5CF0BE", 
+    "currentAssociationId" : ObjectId("584faed99fd6a10dc73142de"), 
+    "vehicleCurrentStatus" : NumberInt(2), 
+    "vehicleStatus" : NumberInt(1), 
+    "vehicleType" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("584a4d832e7b846da3b0af2a"), 
+    "vehicleUid" : NumberInt(4), 
+    "fleetId" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "vehicleNumber" : "TR004", 
+    "vehicleRFID" : "E00401006B5CFC0D", 
+    "currentAssociationId" : ObjectId("584a98a72e7b846da3b0b28b"), 
+    "vehicleCurrentStatus" : NumberInt(2), 
+    "vehicleStatus" : NumberInt(1), 
+    "vehicleType" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("584a4dcc2e7b846da3b0af8d"), 
+    "vehicleUid" : NumberInt(5), 
+    "fleetId" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "vehicleNumber" : "TR200", 
+    "vehicleRFID" : "E00401006B5D0281", 
+    "currentAssociationId" : ObjectId("584faed99fd6a10dc73142de"), 
+    "vehicleCurrentStatus" : NumberInt(2), 
+    "vehicleStatus" : NumberInt(1), 
+    "vehicleType" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("584a4dfe2e7b846da3b0aff0"), 
+    "vehicleUid" : NumberInt(6), 
+    "fleetId" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "vehicleNumber" : "TR194", 
+    "vehicleRFID" : "E00401006B5CFBAA", 
+    "currentAssociationId" : ObjectId("584faed99fd6a10dc73142de"), 
+    "vehicleCurrentStatus" : NumberInt(2), 
+    "vehicleStatus" : NumberInt(1), 
+    "vehicleType" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("584a4e2e2e7b846da3b0b053"), 
+    "vehicleUid" : NumberInt(7), 
+    "fleetId" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "vehicleNumber" : "TR007", 
+    "vehicleRFID" : "E00401006B5D0298", 
+    "currentAssociationId" : ObjectId("58512fd7ce292302627f40e8"), 
+    "vehicleCurrentStatus" : NumberInt(2), 
+    "vehicleStatus" : NumberInt(1), 
+    "vehicleType" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("584a4e592e7b846da3b0b0b6"), 
+    "vehicleUid" : NumberInt(8), 
+    "fleetId" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "vehicleNumber" : "TR187", 
+    "vehicleRFID" : "E00401006B5CFEF1", 
+    "currentAssociationId" : ObjectId("584faed99fd6a10dc73142de"), 
+    "vehicleCurrentStatus" : NumberInt(2), 
+    "vehicleStatus" : NumberInt(1), 
+    "vehicleType" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("585111b23bbb1512b286f942"), 
+    "vehicleUid" : NumberInt(9), 
+    "fleetId" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "vehicleNumber" : "TR230", 
+    "vehicleRFID" : "E00401006B5CFBA2", 
+    "currentAssociationId" : ObjectId("584faed99fd6a10dc73142de"), 
+    "vehicleCurrentStatus" : NumberInt(2), 
+    "vehicleStatus" : NumberInt(1), 
+    "vehicleType" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("585111e53bbb1512b286fa2a"), 
+    "vehicleUid" : NumberInt(10), 
+    "fleetId" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "vehicleNumber" : "TR058", 
+    "vehicleRFID" : "E00401006B5D0129", 
+    "currentAssociationId" : ObjectId("584faed99fd6a10dc73142de"), 
+    "vehicleCurrentStatus" : NumberInt(2), 
+    "vehicleStatus" : NumberInt(1), 
+    "vehicleType" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("585133d7ce292302627f48e6"), 
+    "vehicleUid" : NumberInt(11), 
+    "fleetId" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "vehicleNumber" : "TR133", 
+    "vehicleRFID" : "E00401006B5CFBA3", 
+    "currentAssociationId" : ObjectId("5857b2b56700d92cfe7bae60"), 
+    "vehicleCurrentStatus" : NumberInt(2), 
+    "vehicleStatus" : NumberInt(1), 
+    "vehicleType" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58513404ce292302627f4965"), 
+    "vehicleUid" : NumberInt(12), 
+    "fleetId" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "vehicleNumber" : "TR119", 
+    "vehicleRFID" : "E00401006B5D0140", 
+    "currentAssociationId" : ObjectId("584a8e4a2e7b846da3b0b131"), 
+    "vehicleCurrentStatus" : NumberInt(2), 
+    "vehicleStatus" : NumberInt(1), 
+    "vehicleType" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5851342dce292302627f49f8"), 
+    "vehicleUid" : NumberInt(13), 
+    "fleetId" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "vehicleNumber" : "TR132", 
+    "vehicleRFID" : "E00401006B5D0289", 
+    "currentAssociationId" : ObjectId("5849213dd51ad2238a1af690"), 
+    "vehicleCurrentStatus" : NumberInt(1), 
+    "vehicleStatus" : NumberInt(1), 
+    "vehicleType" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5851345cce292302627f4a70"), 
+    "vehicleUid" : NumberInt(14), 
+    "fleetId" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "vehicleNumber" : "TR136", 
+    "vehicleRFID" : "E00401006B5CFBB1", 
+    "currentAssociationId" : ObjectId("584faed99fd6a10dc73142de"), 
+    "vehicleCurrentStatus" : NumberInt(2), 
+    "vehicleStatus" : NumberInt(1), 
+    "vehicleType" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5851347ece292302627f4afe"), 
+    "vehicleUid" : NumberInt(15), 
+    "fleetId" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "vehicleNumber" : "TR117", 
+    "vehicleRFID" : "E00401006B5CF0AE", 
+    "currentAssociationId" : ObjectId("584faed99fd6a10dc73142de"), 
+    "vehicleCurrentStatus" : NumberInt(2), 
+    "vehicleStatus" : NumberInt(1), 
+    "vehicleType" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("585134abce292302627f4b76"), 
+    "vehicleUid" : NumberInt(16), 
+    "fleetId" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "vehicleNumber" : "TR128", 
+    "vehicleRFID" : "E00401006B5CFBB2", 
+    "currentAssociationId" : ObjectId("584faed99fd6a10dc73142de"), 
+    "vehicleCurrentStatus" : NumberInt(2), 
+    "vehicleStatus" : NumberInt(1), 
+    "vehicleType" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("585134c8ce292302627f4bee"), 
+    "vehicleUid" : NumberInt(17), 
+    "fleetId" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "vehicleNumber" : "TR138", 
+    "vehicleRFID" : "E00401006B5CF072", 
+    "currentAssociationId" : ObjectId("5849213dd51ad2238a1af695"), 
+    "vehicleCurrentStatus" : NumberInt(1), 
+    "vehicleStatus" : NumberInt(1), 
+    "vehicleType" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("585134fbce292302627f4c66"), 
+    "vehicleUid" : NumberInt(18), 
+    "fleetId" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "vehicleNumber" : "TR140", 
+    "vehicleRFID" : "E00401006B5CF0A0", 
+    "currentAssociationId" : ObjectId("584faed99fd6a10dc73142de"), 
+    "vehicleCurrentStatus" : NumberInt(2), 
+    "vehicleStatus" : NumberInt(1), 
+    "vehicleType" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5851352cce292302627f4cde"), 
+    "vehicleUid" : NumberInt(19), 
+    "fleetId" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "vehicleNumber" : "TR184", 
+    "vehicleRFID" : "E00401006B5D014F", 
+    "currentAssociationId" : ObjectId("58491323d51ad2238a1af661"), 
+    "vehicleCurrentStatus" : NumberInt(1), 
+    "vehicleStatus" : NumberInt(1), 
+    "vehicleType" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5853cd355cf63b204505daa4"), 
+    "vehicleUid" : NumberInt(20), 
+    "fleetId" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "vehicleNumber" : "B104", 
+    "vehicleRFID" : "E445566990012332", 
+    "currentAssociationId" : ObjectId("58492a7fc31f7c020a0f6e6e"), 
+    "vehicleCurrentStatus" : NumberInt(2), 
+    "vehicleStatus" : NumberInt(1), 
+    "vehicleType" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5854fc345cf63b204506033e"), 
+    "vehicleUid" : NumberInt(21), 
+    "fleetId" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "vehicleNumber" : "TR235", 
+    "vehicleRFID" : "E00401006B5D02B4", 
+    "currentAssociationId" : ObjectId("58492a7fc31f7c020a0f6e6e"), 
+    "vehicleCurrentStatus" : NumberInt(2), 
+    "vehicleStatus" : NumberInt(1), 
+    "vehicleType" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5854fc5b5cf63b20450603e0"), 
+    "vehicleUid" : NumberInt(22), 
+    "fleetId" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "vehicleNumber" : "TR255", 
+    "vehicleRFID" : "E00401006B5D02A4", 
+    "currentAssociationId" : ObjectId("58492a7fc31f7c020a0f6e6e"), 
+    "vehicleCurrentStatus" : NumberInt(2), 
+    "vehicleStatus" : NumberInt(1), 
+    "vehicleType" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5854fc775cf63b2045060462"), 
+    "vehicleUid" : NumberInt(23), 
+    "fleetId" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "vehicleNumber" : "TR233", 
+    "vehicleRFID" : "E00401006B5CFC11", 
+    "currentAssociationId" : ObjectId("584930fcc31f7c020a0f6e9e"), 
+    "vehicleCurrentStatus" : NumberInt(2), 
+    "vehicleStatus" : NumberInt(1), 
+    "vehicleType" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5854fca55cf63b20450605f1"), 
+    "vehicleUid" : NumberInt(24), 
+    "fleetId" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "vehicleNumber" : "TR227", 
+    "vehicleRFID" : "E00401006B5CFC23", 
+    "currentAssociationId" : ObjectId("584930fcc31f7c020a0f6e9e"), 
+    "vehicleCurrentStatus" : NumberInt(2), 
+    "vehicleStatus" : NumberInt(1), 
+    "vehicleType" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5854fce25cf63b2045060780"), 
+    "vehicleUid" : NumberInt(25), 
+    "fleetId" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "vehicleNumber" : "TR221", 
+    "vehicleRFID" : "E00401006B5CF08F", 
+    "currentAssociationId" : ObjectId("584930fcc31f7c020a0f6e9e"), 
+    "vehicleCurrentStatus" : NumberInt(2), 
+    "vehicleStatus" : NumberInt(1), 
+    "vehicleType" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5854fd005cf63b2045060818"), 
+    "vehicleUid" : NumberInt(26), 
+    "fleetId" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "vehicleNumber" : "TR213", 
+    "vehicleRFID" : "E00401006B5D5176", 
+    "currentAssociationId" : ObjectId("584930fcc31f7c020a0f6e9e"), 
+    "vehicleCurrentStatus" : NumberInt(2), 
+    "vehicleStatus" : NumberInt(1), 
+    "vehicleType" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5854fd2a5cf63b2045060921"), 
+    "vehicleUid" : NumberInt(27), 
+    "fleetId" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "vehicleNumber" : "TR248", 
+    "vehicleRFID" : "E00401006B5CFBCC", 
+    "currentAssociationId" : ObjectId("584930fcc31f7c020a0f6e9e"), 
+    "vehicleCurrentStatus" : NumberInt(2), 
+    "vehicleStatus" : NumberInt(1), 
+    "vehicleType" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5854fd4d5cf63b2045060a1f"), 
+    "vehicleUid" : NumberInt(28), 
+    "fleetId" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "vehicleNumber" : "TR243", 
+    "vehicleRFID" : "E00401006B5D029B", 
+    "currentAssociationId" : ObjectId("584930fcc31f7c020a0f6e9e"), 
+    "vehicleCurrentStatus" : NumberInt(2), 
+    "vehicleStatus" : NumberInt(1), 
+    "vehicleType" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5854fd755cf63b2045060b1d"), 
+    "vehicleUid" : NumberInt(29), 
+    "fleetId" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "vehicleNumber" : "TR239", 
+    "vehicleRFID" : "E00401006B5D0121", 
+    "currentAssociationId" : ObjectId("584930fcc31f7c020a0f6e9e"), 
+    "vehicleCurrentStatus" : NumberInt(2), 
+    "vehicleStatus" : NumberInt(1), 
+    "vehicleType" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5854fd985cf63b2045060c1b"), 
+    "vehicleUid" : NumberInt(30), 
+    "fleetId" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "vehicleNumber" : "TR238", 
+    "vehicleRFID" : "E00401006B5D0293", 
+    "currentAssociationId" : ObjectId("584930fcc31f7c020a0f6e9e"), 
+    "vehicleCurrentStatus" : NumberInt(2), 
+    "vehicleStatus" : NumberInt(1), 
+    "vehicleType" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5854fdbf5cf63b2045060d19"), 
+    "vehicleUid" : NumberInt(31), 
+    "fleetId" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "vehicleNumber" : "TR249", 
+    "vehicleRFID" : "E00401006B5CEF29", 
+    "currentAssociationId" : ObjectId("584930fcc31f7c020a0f6e9e"), 
+    "vehicleCurrentStatus" : NumberInt(2), 
+    "vehicleStatus" : NumberInt(1), 
+    "vehicleType" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5854fde15cf63b2045060e2c"), 
+    "vehicleUid" : NumberInt(32), 
+    "fleetId" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "vehicleNumber" : "TR225", 
+    "vehicleRFID" : "E00401006B5D02DB", 
+    "currentAssociationId" : ObjectId("584930fcc31f7c020a0f6e9e"), 
+    "vehicleCurrentStatus" : NumberInt(2), 
+    "vehicleStatus" : NumberInt(1), 
+    "vehicleType" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5854fe105cf63b2045060f2a"), 
+    "vehicleUid" : NumberInt(33), 
+    "fleetId" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "vehicleNumber" : "TR183", 
+    "vehicleRFID" : "E00401006B5CEF44", 
+    "currentAssociationId" : ObjectId("5849213dd51ad2238a1af694"), 
+    "vehicleCurrentStatus" : NumberInt(1), 
+    "vehicleStatus" : NumberInt(1), 
+    "vehicleType" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5854fe335cf63b2045060fac"), 
+    "vehicleUid" : NumberInt(34), 
+    "fleetId" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "vehicleNumber" : "TR193", 
+    "vehicleRFID" : "E00401006B5CFE5E", 
+    "currentAssociationId" : ObjectId("584a8e4a2e7b846da3b0b131"), 
+    "vehicleCurrentStatus" : NumberInt(2), 
+    "vehicleStatus" : NumberInt(1), 
+    "vehicleType" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5854fe4e5cf63b204506102f"), 
+    "vehicleUid" : NumberInt(35), 
+    "fleetId" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "vehicleNumber" : "TR252", 
+    "vehicleRFID" : "E00401006B5D518B", 
+    "currentAssociationId" : ObjectId("584930fcc31f7c020a0f6e9e"), 
+    "vehicleCurrentStatus" : NumberInt(2), 
+    "vehicleStatus" : NumberInt(1), 
+    "vehicleType" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5854fe625cf63b20450610b1"), 
+    "vehicleUid" : NumberInt(36), 
+    "fleetId" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "vehicleNumber" : "TR228", 
+    "vehicleRFID" : "E00401006B5CEEC2", 
+    "currentAssociationId" : ObjectId("584930fcc31f7c020a0f6e9e"), 
+    "vehicleCurrentStatus" : NumberInt(2), 
+    "vehicleStatus" : NumberInt(1), 
+    "vehicleType" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5854fe8a5cf63b20450611af"), 
+    "vehicleUid" : NumberInt(37), 
+    "fleetId" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "vehicleNumber" : "TR223", 
+    "vehicleRFID" : "E00401006B5CF0BB", 
+    "currentAssociationId" : ObjectId("584fbdfd9fd6a10dc73142f2"), 
+    "vehicleCurrentStatus" : NumberInt(2), 
+    "vehicleStatus" : NumberInt(1), 
+    "vehicleType" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5854fea75cf63b20450612ad"), 
+    "vehicleUid" : NumberInt(38), 
+    "fleetId" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "vehicleNumber" : "TR191", 
+    "vehicleRFID" : "E00401006B5CEE2A", 
+    "currentAssociationId" : ObjectId("584930fcc31f7c020a0f6e9e"), 
+    "vehicleCurrentStatus" : NumberInt(2), 
+    "vehicleStatus" : NumberInt(1), 
+    "vehicleType" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5854febc5cf63b204506132f"), 
+    "vehicleUid" : NumberInt(39), 
+    "fleetId" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "vehicleNumber" : "TR234", 
+    "vehicleRFID" : "E00401006B5CEF61", 
+    "currentAssociationId" : ObjectId("584930fcc31f7c020a0f6e9e"), 
+    "vehicleCurrentStatus" : NumberInt(2), 
+    "vehicleStatus" : NumberInt(1), 
+    "vehicleType" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5854fef25cf63b204506142d"), 
+    "vehicleUid" : NumberInt(40), 
+    "fleetId" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "vehicleNumber" : "TR237", 
+    "vehicleRFID" : "E00401006B5D0131", 
+    "currentAssociationId" : ObjectId("584930fcc31f7c020a0f6e9e"), 
+    "vehicleCurrentStatus" : NumberInt(2), 
+    "vehicleStatus" : NumberInt(1), 
+    "vehicleType" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5854ff1a5cf63b20450614af"), 
+    "vehicleUid" : NumberInt(41), 
+    "fleetId" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "vehicleNumber" : "TR229", 
+    "vehicleRFID" : "E00401006B5CED99", 
+    "currentAssociationId" : ObjectId("584930fcc31f7c020a0f6e9e"), 
+    "vehicleCurrentStatus" : NumberInt(2), 
+    "vehicleStatus" : NumberInt(1), 
+    "vehicleType" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5854ff3d5cf63b20450615ae"), 
+    "vehicleUid" : NumberInt(42), 
+    "fleetId" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "vehicleNumber" : "TR231", 
+    "vehicleRFID" : "E00401006B5CFC1B", 
+    "currentAssociationId" : ObjectId("584930fcc31f7c020a0f6e9e"), 
+    "vehicleCurrentStatus" : NumberInt(2), 
+    "vehicleStatus" : NumberInt(1), 
+    "vehicleType" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5854ff5c5cf63b20450616c8"), 
+    "vehicleUid" : NumberInt(43), 
+    "fleetId" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "vehicleNumber" : "TR224", 
+    "vehicleRFID" : "E00401006B5CEDB9", 
+    "currentAssociationId" : ObjectId("584930fcc31f7c020a0f6e9e"), 
+    "vehicleCurrentStatus" : NumberInt(2), 
+    "vehicleStatus" : NumberInt(1), 
+    "vehicleType" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5854ff765cf63b20450616cf"), 
+    "vehicleUid" : NumberInt(44), 
+    "fleetId" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "vehicleNumber" : "TR241", 
+    "vehicleRFID" : "E00401006B5CFBA7", 
+    "currentAssociationId" : ObjectId("584930fcc31f7c020a0f6e9e"), 
+    "vehicleCurrentStatus" : NumberInt(2), 
+    "vehicleStatus" : NumberInt(1), 
+    "vehicleType" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5854ffa05cf63b20450617cd"), 
+    "vehicleUid" : NumberInt(45), 
+    "fleetId" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "vehicleNumber" : "TR242", 
+    "vehicleRFID" : "E00401006B5D02D8", 
+    "currentAssociationId" : ObjectId("584930fcc31f7c020a0f6e9e"), 
+    "vehicleCurrentStatus" : NumberInt(2), 
+    "vehicleStatus" : NumberInt(1), 
+    "vehicleType" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5854ffc05cf63b204506194f"), 
+    "vehicleUid" : NumberInt(46), 
+    "fleetId" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "vehicleNumber" : "TR250", 
+    "vehicleRFID" : "E00401006B5CFBF1", 
+    "currentAssociationId" : ObjectId("58491323d51ad2238a1af661"), 
+    "vehicleCurrentStatus" : NumberInt(1), 
+    "vehicleStatus" : NumberInt(1), 
+    "vehicleType" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5854ffdc5cf63b2045061a55"), 
+    "vehicleUid" : NumberInt(47), 
+    "fleetId" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "vehicleNumber" : "TR232", 
+    "vehicleRFID" : "E00401006B5CF0DA", 
+    "currentAssociationId" : ObjectId("584930fcc31f7c020a0f6e9e"), 
+    "vehicleCurrentStatus" : NumberInt(2), 
+    "vehicleStatus" : NumberInt(1), 
+    "vehicleType" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5858b81ccaedb61212a63e89"), 
+    "vehicleUid" : NumberInt(48), 
+    "fleetId" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "vehicleNumber" : "121", 
+    "vehicleRFID" : "12222222222221**", 
+    "currentAssociationId" : ObjectId("584926d9c31f7c020a0f6cee"), 
+    "vehicleCurrentStatus" : NumberInt(1), 
+    "vehicleStatus" : NumberInt(1), 
+    "vehicleType" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}

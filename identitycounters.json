@@ -1,0 +1,49 @@
+{ 
+    "_id" : ObjectId("5849121b9731111455745821"), 
+    "model" : "function model(doc, fields, skipId) {\n    if (!(this instanceof model)) {\n      return new model(doc, fields, skipId);\n    }\n    Model.call(this, doc, fields, skipId);\n  }", 
+    "field" : "UserID", 
+    "count" : NumberInt(276), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5849121b9731111455745822"), 
+    "model" : "function model(doc, fields, skipId) {\n    if (!(this instanceof model)) {\n      return new model(doc, fields, skipId);\n    }\n    Model.call(this, doc, fields, skipId);\n  }", 
+    "field" : "PortID", 
+    "count" : NumberInt(95), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5849121b9731111455745823"), 
+    "model" : "function model(doc, fields, skipId) {\n    if (!(this instanceof model)) {\n      return new model(doc, fields, skipId);\n    }\n    Model.call(this, doc, fields, skipId);\n  }", 
+    "field" : "StationID", 
+    "count" : NumberInt(18), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5849121b9731111455745824"), 
+    "model" : "function model(doc, fields, skipId) {\n    if (!(this instanceof model)) {\n      return new model(doc, fields, skipId);\n    }\n    Model.call(this, doc, fields, skipId);\n  }", 
+    "field" : "depositUid", 
+    "count" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5849121b9731111455745825"), 
+    "model" : "function model(doc, fields, skipId) {\n    if (!(this instanceof model)) {\n      return new model(doc, fields, skipId);\n    }\n    Model.call(this, doc, fields, skipId);\n  }", 
+    "field" : "featureUid", 
+    "count" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5849121b9731111455745826"), 
+    "model" : "function model(doc, fields, skipId) {\n    if (!(this instanceof model)) {\n      return new model(doc, fields, skipId);\n    }\n    Model.call(this, doc, fields, skipId);\n  }", 
+    "field" : "vehicleUid", 
+    "count" : NumberInt(48), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58639a432a63a54d5c037adb"), 
+    "model" : "function model(doc, fields, skipId) {\n    if (!(this instanceof model)) {\n      return new model(doc, fields, skipId);\n    }\n    Model.call(this, doc, fields, skipId);\n  }", 
+    "field" : "RecordID", 
+    "count" : NumberInt(54), 
+    "__v" : NumberInt(0)
+}

@@ -1,0 +1,11 @@
+{ 
+    "_id" : ObjectId("5865e7fc6a436f3b6fd12ccc"), 
+    "stationId" : ObjectId("58491323d51ad2238a1af65b"), 
+    "cleaneddate" : ISODate("2016-11-30T18:30:00.000+0000"), 
+    "fromtime" : ISODate("2016-12-01T10:00:00.000+0000"), 
+    "totime" : ISODate("2016-12-01T12:00:00.000+0000"), 
+    "empId" : ObjectId("584fc1359fd6a10dc7314314"), 
+    "description" : "", 
+    "createdBy" : ObjectId("5849121b9731111455745820"), 
+    "__v" : NumberInt(0)
+}
