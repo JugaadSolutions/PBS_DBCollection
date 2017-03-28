@@ -1,0 +1,81 @@
+{ 
+    "_id" : ObjectId("58a175be36634c580e5ebc0f"), 
+    "globalId" : NumberInt(1), 
+    "name" : "Commissioned-Date", 
+    "visibility" : NumberInt(1), 
+    "value" : [
+        "2017-02-13"
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58a3a1cb18422463ce9fd369"), 
+    "globalId" : NumberInt(2), 
+    "name" : "Employee", 
+    "visibility" : NumberInt(0), 
+    "value" : [
+        {
+            "visibility" : NumberInt(1), 
+            "role" : "registration-employee", 
+            "uri" : "registrationstaff", 
+            "department" : "Registration"
+        }, 
+        {
+            "visibility" : NumberInt(1), 
+            "role" : "maintenancecentre-employee", 
+            "uri" : "mcstaff", 
+            "department" : "Maintenance"
+        }, 
+        {
+            "visibility" : NumberInt(0), 
+            "role" : "redistribution-employee", 
+            "uri" : "rvstaff", 
+            "department" : "Redistribution"
+        }, 
+        {
+            "visibility" : NumberInt(0), 
+            "role" : "Operator", 
+            "uri" : "operator", 
+            "department" : "Operator"
+        }, 
+        {
+            "visibility" : NumberInt(0), 
+            "role" : "Monitor-group", 
+            "uri" : "monitorgrp", 
+            "department" : "Monitor-group"
+        }, 
+        {
+            "visibility" : NumberInt(1), 
+            "role" : "Accounts-admin", 
+            "uri" : "accountstaff", 
+            "department" : "Accounts"
+        }, 
+        {
+            "visibility" : NumberInt(0), 
+            "role" : "Holdingarea-employee", 
+            "uri" : "hastaff", 
+            "department" : "Holding-area"
+        }
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58bfed3149d61f0e958f6536"), 
+    "globalId" : NumberInt(3), 
+    "name" : "MAINTENANCE1", 
+    "visibility" : NumberInt(1), 
+    "value" : [
+        "repair"
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58c4e50af06c74526de230a7"), 
+    "globalId" : NumberInt(4), 
+    "name" : "REQUIRED_FLEET_SIZE", 
+    "visibility" : NumberInt(1), 
+    "value" : [
+        NumberInt(52)
+    ], 
+    "__v" : NumberInt(0)
+}

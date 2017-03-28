@@ -1,0 +1,3049 @@
+{ 
+    "_id" : ObjectId("58a3c53d29095f06c6c12bf3"), 
+    "cardTrackUid" : NumberInt(1), 
+    "assignerUserId" : ObjectId("58a3c50d29095f06c6c12bc5"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a2d20828c63875cd3a2779"), 
+    "changerId" : ObjectId("58a175be36634c580e5ebc0e"), 
+    "dateTime" : ISODate("2017-02-15T03:04:29.779+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58a3c613033e5c14af0cbd24"), 
+    "cardTrackUid" : NumberInt(2), 
+    "assignerUserId" : ObjectId("58a3c5aa29095f06c6c12c38"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a3c45a29095f06c6c12b73"), 
+    "dateTime" : ISODate("2017-02-15T03:08:03.330+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58a3c7f9033e5c14af0cbe43"), 
+    "cardTrackUid" : NumberInt(3), 
+    "assignerUserId" : ObjectId("58a3c6f3033e5c14af0cbd98"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a3c7f0033e5c14af0cbe41"), 
+    "dateTime" : ISODate("2017-02-15T03:16:09.739+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58a3f9e1ba83b61db450bd3a"), 
+    "cardTrackUid" : NumberInt(4), 
+    "assignerUserId" : ObjectId("58a18fca36634c580e5ebfff"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a1787f36634c580e5ebc4a"), 
+    "dateTime" : ISODate("2017-02-15T06:49:05.345+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58a3fce7ba83b61db450bf6b"), 
+    "cardTrackUid" : NumberInt(5), 
+    "assignerUserId" : ObjectId("58a3f902ba83b61db450bc48"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a178b336634c580e5ebc4c"), 
+    "changerId" : ObjectId("58a184e236634c580e5ebf98"), 
+    "dateTime" : ISODate("2017-02-15T07:01:59.934+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58a40032ba83b61db450ca91"), 
+    "cardTrackUid" : NumberInt(6), 
+    "assignerUserId" : ObjectId("58a40001ba83b61db450c97a"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a27e53f14a121cffcf58da"), 
+    "dateTime" : ISODate("2017-02-15T07:16:02.657+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58a40099ba83b61db450cb81"), 
+    "cardTrackUid" : NumberInt(7), 
+    "assignerUserId" : ObjectId("58a4006dba83b61db450cad2"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a27d74f14a121cffcf58d5"), 
+    "dateTime" : ISODate("2017-02-15T07:17:45.289+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58a400e8ba83b61db450cc5d"), 
+    "cardTrackUid" : NumberInt(8), 
+    "assignerUserId" : ObjectId("58a400b8ba83b61db450cbcf"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a27da4f14a121cffcf58d6"), 
+    "dateTime" : ISODate("2017-02-15T07:19:04.135+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58a4013fba83b61db450cd77"), 
+    "cardTrackUid" : NumberInt(9), 
+    "assignerUserId" : ObjectId("58a40109ba83b61db450cce9"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a27dd4f14a121cffcf58d7"), 
+    "dateTime" : ISODate("2017-02-15T07:20:31.490+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58a401a6ba83b61db450cf41"), 
+    "cardTrackUid" : NumberInt(10), 
+    "assignerUserId" : ObjectId("58a40169ba83b61db450cdc1"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a27e06f14a121cffcf58d8"), 
+    "changerId" : ObjectId("58a175be36634c580e5ebc0e"), 
+    "dateTime" : ISODate("2017-02-15T07:22:14.785+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58a401fbba83b61db450d313"), 
+    "cardTrackUid" : NumberInt(11), 
+    "assignerUserId" : ObjectId("58a401c6ba83b61db450d0d5"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a27e2ef14a121cffcf58d9"), 
+    "changerId" : ObjectId("58a175be36634c580e5ebc0e"), 
+    "dateTime" : ISODate("2017-02-15T07:23:39.275+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58a40247ba83b61db450d53e"), 
+    "cardTrackUid" : NumberInt(12), 
+    "assignerUserId" : ObjectId("58a4021aba83b61db450d422"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a3c48729095f06c6c12b80"), 
+    "changerId" : ObjectId("58a175be36634c580e5ebc0e"), 
+    "dateTime" : ISODate("2017-02-15T07:24:55.467+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58a40296ba83b61db450d678"), 
+    "cardTrackUid" : NumberInt(13), 
+    "assignerUserId" : ObjectId("58a4026bba83b61db450d625"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a1784c36634c580e5ebc26"), 
+    "changerId" : ObjectId("58a175be36634c580e5ebc0e"), 
+    "dateTime" : ISODate("2017-02-15T07:26:14.742+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58a45974028ff26bfc0c3bfc"), 
+    "cardTrackUid" : NumberInt(14), 
+    "assignerUserId" : ObjectId("58a458ee028ff26bfc0c394d"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a27d0df14a121cffcf58d4"), 
+    "changerId" : ObjectId("58a184e236634c580e5ebf98"), 
+    "dateTime" : ISODate("2017-02-15T13:36:52.902+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58a5409a5ebfa46d01674997"), 
+    "cardTrackUid" : NumberInt(15), 
+    "assignerUserId" : ObjectId("58a537545ebfa46d016702ad"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a40434ba83b61db450dbbb"), 
+    "dateTime" : ISODate("2017-02-16T06:03:06.248+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58a542c65ebfa46d016764c0"), 
+    "cardTrackUid" : NumberInt(16), 
+    "assignerUserId" : ObjectId("58a533db16c3e463e3a80f47"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a5276630b0bd736a9c0ccb"), 
+    "dateTime" : ISODate("2017-02-16T06:12:22.615+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58a54daafb6ea2539a30c1fb"), 
+    "cardTrackUid" : NumberInt(17), 
+    "assignerUserId" : ObjectId("58a54cb6fb6ea2539a30b5c2"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a43440c10faa1189750844"), 
+    "changerId" : ObjectId("58a184e236634c580e5ebf98"), 
+    "dateTime" : ISODate("2017-02-16T06:58:50.261+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58a6da03de325d254cc1bfe4"), 
+    "cardTrackUid" : NumberInt(18), 
+    "assignerUserId" : ObjectId("58a6d895de325d254cc1bf6a"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a4342dc10faa1189750691"), 
+    "dateTime" : ISODate("2017-02-17T11:09:55.187+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58a6e481de325d254cc1c2ac"), 
+    "cardTrackUid" : NumberInt(19), 
+    "assignerUserId" : ObjectId("58a6e26ede325d254cc1c0c2"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a43416c10faa118975045f"), 
+    "changerId" : ObjectId("58a175be36634c580e5ebc0e"), 
+    "dateTime" : ISODate("2017-02-17T11:54:41.450+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58a6e4aade325d254cc1c2cf"), 
+    "cardTrackUid" : NumberInt(20), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58a43416c10faa118975045f"), 
+    "assignerUserId" : ObjectId("58a6e26ede325d254cc1c0c2"), 
+    "dateTime" : ISODate("2017-02-17T11:55:22.213+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58a6e4eade325d254cc1c2d4"), 
+    "cardTrackUid" : NumberInt(21), 
+    "assignerUserId" : ObjectId("58a6e304de325d254cc1c12e"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a43416c10faa118975045f"), 
+    "changerId" : ObjectId("58a175be36634c580e5ebc0e"), 
+    "dateTime" : ISODate("2017-02-17T11:56:26.039+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58ab0a9dba82dd666d58edfd"), 
+    "cardTrackUid" : NumberInt(22), 
+    "assignerUserId" : ObjectId("58ab0a9dba82dd666d58edf3"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a43451c10faa11897509e6"), 
+    "dateTime" : ISODate("2017-02-20T15:26:21.580+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58abd51dba82dd666d59278a"), 
+    "cardTrackUid" : NumberInt(23), 
+    "assignerUserId" : ObjectId("58abd51bba82dd666d592780"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a43473c10faa1189750d24"), 
+    "dateTime" : ISODate("2017-02-21T05:50:21.471+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58abd559ba82dd666d592919"), 
+    "cardTrackUid" : NumberInt(24), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58a43473c10faa1189750d24"), 
+    "assignerUserId" : ObjectId("58abd51bba82dd666d592780"), 
+    "dateTime" : ISODate("2017-02-21T05:51:21.072+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58abd577ba82dd666d592a3d"), 
+    "cardTrackUid" : NumberInt(25), 
+    "assignerUserId" : ObjectId("58abd577ba82dd666d592a33"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a43473c10faa1189750d24"), 
+    "dateTime" : ISODate("2017-02-21T05:51:51.120+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58abd611ba82dd666d592d07"), 
+    "cardTrackUid" : NumberInt(26), 
+    "assignerUserId" : ObjectId("58abd611ba82dd666d592cfd"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a4348cc10faa1189750f90"), 
+    "dateTime" : ISODate("2017-02-21T05:54:25.840+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58abd708ba82dd666d593125"), 
+    "cardTrackUid" : NumberInt(27), 
+    "assignerUserId" : ObjectId("58abd708ba82dd666d59311b"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a434bfc10faa1189751446"), 
+    "dateTime" : ISODate("2017-02-21T05:58:32.284+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58abd743ba82dd666d5931ca"), 
+    "cardTrackUid" : NumberInt(28), 
+    "assignerUserId" : ObjectId("58abd743ba82dd666d5931c0"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a434cbc10faa118975154b"), 
+    "dateTime" : ISODate("2017-02-21T05:59:31.910+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58abd7f2ba82dd666d59351e"), 
+    "cardTrackUid" : NumberInt(29), 
+    "assignerUserId" : ObjectId("58abd7f2ba82dd666d593513"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a434d6c10faa1189751670"), 
+    "dateTime" : ISODate("2017-02-21T06:02:26.363+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58abd815ba82dd666d5935aa"), 
+    "cardTrackUid" : NumberInt(30), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58a434d6c10faa1189751670"), 
+    "assignerUserId" : ObjectId("58abd7f2ba82dd666d593513"), 
+    "dateTime" : ISODate("2017-02-21T06:03:01.208+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58abd833ba82dd666d593625"), 
+    "cardTrackUid" : NumberInt(31), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58a434cbc10faa118975154b"), 
+    "assignerUserId" : ObjectId("58abd743ba82dd666d5931c0"), 
+    "dateTime" : ISODate("2017-02-21T06:03:31.271+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58abd846ba82dd666d593669"), 
+    "cardTrackUid" : NumberInt(32), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58a434bfc10faa1189751446"), 
+    "assignerUserId" : ObjectId("58abd708ba82dd666d59311b"), 
+    "dateTime" : ISODate("2017-02-21T06:03:50.346+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58abd85fba82dd666d5936b6"), 
+    "cardTrackUid" : NumberInt(33), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58a4348cc10faa1189750f90"), 
+    "assignerUserId" : ObjectId("58abd611ba82dd666d592cfd"), 
+    "dateTime" : ISODate("2017-02-21T06:04:15.685+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58abd87fba82dd666d593773"), 
+    "cardTrackUid" : NumberInt(34), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58a43473c10faa1189750d24"), 
+    "assignerUserId" : ObjectId("58abd577ba82dd666d592a33"), 
+    "dateTime" : ISODate("2017-02-21T06:04:47.236+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58abd8bbba82dd666d5938df"), 
+    "cardTrackUid" : NumberInt(35), 
+    "assignerUserId" : ObjectId("58abd8bbba82dd666d5938d5"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a43473c10faa1189750d24"), 
+    "dateTime" : ISODate("2017-02-21T06:05:47.868+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58abd8fcba82dd666d5939c5"), 
+    "cardTrackUid" : NumberInt(36), 
+    "assignerUserId" : ObjectId("58abd8fcba82dd666d5939bb"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a4348cc10faa1189750f90"), 
+    "dateTime" : ISODate("2017-02-21T06:06:52.045+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58abd944ba82dd666d593a47"), 
+    "cardTrackUid" : NumberInt(37), 
+    "assignerUserId" : ObjectId("58abd944ba82dd666d593a3d"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a434bfc10faa1189751446"), 
+    "dateTime" : ISODate("2017-02-21T06:08:04.517+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58abd98fba82dd666d593a5c"), 
+    "cardTrackUid" : NumberInt(38), 
+    "assignerUserId" : ObjectId("58abd98fba82dd666d593a52"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a434cbc10faa118975154b"), 
+    "dateTime" : ISODate("2017-02-21T06:09:19.151+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58abd9d3ba82dd666d593a83"), 
+    "cardTrackUid" : NumberInt(39), 
+    "assignerUserId" : ObjectId("58abd9d3ba82dd666d593a79"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a434d6c10faa1189751670"), 
+    "dateTime" : ISODate("2017-02-21T06:10:27.400+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58abdac0ba82dd666d593d01"), 
+    "cardTrackUid" : NumberInt(40), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58a434d6c10faa1189751670"), 
+    "assignerUserId" : ObjectId("58abd9d3ba82dd666d593a79"), 
+    "dateTime" : ISODate("2017-02-21T06:14:24.446+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58abdad4ba82dd666d593d45"), 
+    "cardTrackUid" : NumberInt(41), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58a434cbc10faa118975154b"), 
+    "assignerUserId" : ObjectId("58abd98fba82dd666d593a52"), 
+    "dateTime" : ISODate("2017-02-21T06:14:44.208+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58abdae9ba82dd666d593d89"), 
+    "cardTrackUid" : NumberInt(42), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58a434bfc10faa1189751446"), 
+    "assignerUserId" : ObjectId("58abd944ba82dd666d593a3d"), 
+    "dateTime" : ISODate("2017-02-21T06:15:05.952+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58abdb02ba82dd666d593dd9"), 
+    "cardTrackUid" : NumberInt(43), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58a4348cc10faa1189750f90"), 
+    "assignerUserId" : ObjectId("58abd8fcba82dd666d5939bb"), 
+    "dateTime" : ISODate("2017-02-21T06:15:30.909+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58abdb32ba82dd666d593e97"), 
+    "cardTrackUid" : NumberInt(44), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58a43473c10faa1189750d24"), 
+    "assignerUserId" : ObjectId("58abd8bbba82dd666d5938d5"), 
+    "dateTime" : ISODate("2017-02-21T06:16:18.487+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58abe35c24e72e677717df88"), 
+    "cardTrackUid" : NumberInt(45), 
+    "assignerUserId" : ObjectId("58abe35c24e72e677717df7e"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58abdbc4ba82dd666d59403f"), 
+    "dateTime" : ISODate("2017-02-21T06:51:08.871+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58abe4c724e72e677717dfaa"), 
+    "cardTrackUid" : NumberInt(46), 
+    "assignerUserId" : ObjectId("58abe4c724e72e677717dfa0"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58abdc65ba82dd666d594215"), 
+    "dateTime" : ISODate("2017-02-21T06:57:11.768+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58abe6d824e72e677717e874"), 
+    "cardTrackUid" : NumberInt(47), 
+    "assignerUserId" : ObjectId("58abe6d824e72e677717e86a"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58abdc84ba82dd666d594305"), 
+    "dateTime" : ISODate("2017-02-21T07:06:00.401+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58abe94f24e72e677717f32f"), 
+    "cardTrackUid" : NumberInt(48), 
+    "assignerUserId" : ObjectId("58abe94f24e72e677717f325"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58abdccfba82dd666d594409"), 
+    "dateTime" : ISODate("2017-02-21T07:16:31.352+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58abe9cf24e72e677717f44f"), 
+    "cardTrackUid" : NumberInt(49), 
+    "assignerUserId" : ObjectId("58abe9cf24e72e677717f445"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58abdce0ba82dd666d59440a"), 
+    "dateTime" : ISODate("2017-02-21T07:18:39.625+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58abea3a24e72e677717f465"), 
+    "cardTrackUid" : NumberInt(50), 
+    "assignerUserId" : ObjectId("58abea3a24e72e677717f45b"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58abdd5aba82dd666d59455d"), 
+    "dateTime" : ISODate("2017-02-21T07:20:26.931+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58abee3e24e72e67771804c3"), 
+    "cardTrackUid" : NumberInt(51), 
+    "assignerUserId" : ObjectId("58abee3e24e72e67771804b6"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58abdd9bba82dd666d59455e"), 
+    "dateTime" : ISODate("2017-02-21T07:37:34.718+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58abeeaf24e72e677718063c"), 
+    "cardTrackUid" : NumberInt(52), 
+    "assignerUserId" : ObjectId("58abeeaf24e72e6777180632"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58abde08ba82dd666d594561"), 
+    "dateTime" : ISODate("2017-02-21T07:39:27.302+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58abef3424e72e67771808b7"), 
+    "cardTrackUid" : NumberInt(53), 
+    "assignerUserId" : ObjectId("58abef3324e72e67771808ac"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58abde3eba82dd666d594562"), 
+    "dateTime" : ISODate("2017-02-21T07:41:40.019+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58abefd524e72e6777180b65"), 
+    "cardTrackUid" : NumberInt(54), 
+    "assignerUserId" : ObjectId("58abefd524e72e6777180b5b"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58abde6eba82dd666d594563"), 
+    "dateTime" : ISODate("2017-02-21T07:44:21.380+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58abf0a724e72e6777180c8b"), 
+    "cardTrackUid" : NumberInt(55), 
+    "assignerUserId" : ObjectId("58abf0a724e72e6777180c80"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58abde94ba82dd666d594564"), 
+    "dateTime" : ISODate("2017-02-21T07:47:51.436+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58abf4d024e72e6777181851"), 
+    "cardTrackUid" : NumberInt(56), 
+    "assignerUserId" : ObjectId("58abf44d24e72e67771815cf"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58abf29d24e72e6777180e8d"), 
+    "changerId" : null, 
+    "dateTime" : ISODate("2017-02-21T08:05:36.604+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58abf6bf24e72e6777181dd0"), 
+    "cardTrackUid" : NumberInt(57), 
+    "assignerUserId" : ObjectId("58abf54c24e72e6777181ae6"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58abf2d324e72e6777181025"), 
+    "changerId" : null, 
+    "dateTime" : ISODate("2017-02-21T08:13:51.547+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58abf74d24e72e6777182091"), 
+    "cardTrackUid" : NumberInt(58), 
+    "assignerUserId" : ObjectId("58abf4ed24e72e677718190c"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58abf30524e72e6777181168"), 
+    "changerId" : null, 
+    "dateTime" : ISODate("2017-02-21T08:16:13.875+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58ac431386a9c36e62a0a767"), 
+    "cardTrackUid" : NumberInt(59), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58abde94ba82dd666d594564"), 
+    "assignerUserId" : ObjectId("58abf0a724e72e6777180c80"), 
+    "dateTime" : ISODate("2017-02-21T13:39:31.718+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58ad1e7018cce56ff22f0a36"), 
+    "cardTrackUid" : NumberInt(60), 
+    "assignerUserId" : ObjectId("58ad1e7018cce56ff22f0a2c"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58abde94ba82dd666d594564"), 
+    "dateTime" : ISODate("2017-02-22T05:15:28.257+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58ad1f1b18cce56ff22f0ac5"), 
+    "cardTrackUid" : NumberInt(61), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58abde94ba82dd666d594564"), 
+    "assignerUserId" : ObjectId("58ad1e7018cce56ff22f0a2c"), 
+    "dateTime" : ISODate("2017-02-22T05:18:19.721+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58ad20aae3d9d77d7e056fcd"), 
+    "cardTrackUid" : NumberInt(62), 
+    "assignerUserId" : ObjectId("58ad20aae3d9d77d7e056fc3"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58abde94ba82dd666d594564"), 
+    "dateTime" : ISODate("2017-02-22T05:24:58.734+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58ad223ce3d9d77d7e057033"), 
+    "cardTrackUid" : NumberInt(63), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58abde94ba82dd666d594564"), 
+    "assignerUserId" : ObjectId("58ad20aae3d9d77d7e056fc3"), 
+    "dateTime" : ISODate("2017-02-22T05:31:40.053+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58ad225ce3d9d77d7e057077"), 
+    "cardTrackUid" : NumberInt(64), 
+    "assignerUserId" : ObjectId("58ad225ce3d9d77d7e05706d"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58abde94ba82dd666d594564"), 
+    "dateTime" : ISODate("2017-02-22T05:32:12.787+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58ad2641e3d9d77d7e057170"), 
+    "cardTrackUid" : NumberInt(65), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58a27e06f14a121cffcf58d8"), 
+    "assignerUserId" : ObjectId("58a40169ba83b61db450cdc1"), 
+    "dateTime" : ISODate("2017-02-22T05:48:49.706+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58ad269ce3d9d77d7e0571c2"), 
+    "cardTrackUid" : NumberInt(66), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58a1782136634c580e5ebc25"), 
+    "assignerUserId" : ObjectId("58a17fe536634c580e5ebf48"), 
+    "dateTime" : ISODate("2017-02-22T05:50:20.304+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58ad26bae3d9d77d7e057215"), 
+    "cardTrackUid" : NumberInt(67), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58a27d74f14a121cffcf58d5"), 
+    "assignerUserId" : ObjectId("58a4006dba83b61db450cad2"), 
+    "dateTime" : ISODate("2017-02-22T05:50:50.917+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58ad271ee3d9d77d7e057267"), 
+    "cardTrackUid" : NumberInt(68), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58a25b8de23b21178e942286"), 
+    "assignerUserId" : ObjectId("58a25c927c6d496d9e1036bc"), 
+    "dateTime" : ISODate("2017-02-22T05:52:30.533+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58ad274ee3d9d77d7e0572b9"), 
+    "cardTrackUid" : NumberInt(69), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58a27e2ef14a121cffcf58d9"), 
+    "assignerUserId" : ObjectId("58a401c6ba83b61db450d0d5"), 
+    "dateTime" : ISODate("2017-02-22T05:53:18.653+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58ad278ce3d9d77d7e05730b"), 
+    "cardTrackUid" : NumberInt(70), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58a27da4f14a121cffcf58d6"), 
+    "assignerUserId" : ObjectId("58a400b8ba83b61db450cbcf"), 
+    "dateTime" : ISODate("2017-02-22T05:54:20.735+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58ad27bee3d9d77d7e05735d"), 
+    "cardTrackUid" : NumberInt(71), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58a43440c10faa1189750844"), 
+    "assignerUserId" : ObjectId("58a54cb6fb6ea2539a30b5c2"), 
+    "dateTime" : ISODate("2017-02-22T05:55:10.293+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58ad27f2e3d9d77d7e0573af"), 
+    "cardTrackUid" : NumberInt(72), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58a27dd4f14a121cffcf58d7"), 
+    "assignerUserId" : ObjectId("58a40109ba83b61db450cce9"), 
+    "dateTime" : ISODate("2017-02-22T05:56:02.715+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58ad36b8e3d9d77d7e05777a"), 
+    "cardTrackUid" : NumberInt(73), 
+    "assignerUserId" : ObjectId("58ad36b8e3d9d77d7e057770"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a27e06f14a121cffcf58d8"), 
+    "dateTime" : ISODate("2017-02-22T06:59:04.497+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58ad3867e3d9d77d7e05799b"), 
+    "cardTrackUid" : NumberInt(74), 
+    "assignerUserId" : ObjectId("58ad3867e3d9d77d7e057991"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a27dd4f14a121cffcf58d7"), 
+    "dateTime" : ISODate("2017-02-22T07:06:15.533+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58ad3881e3d9d77d7e0579ba"), 
+    "cardTrackUid" : NumberInt(75), 
+    "assignerUserId" : ObjectId("58ad3881e3d9d77d7e0579af"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a27d74f14a121cffcf58d5"), 
+    "dateTime" : ISODate("2017-02-22T07:06:41.299+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58ad3b34e3d9d77d7e057bb2"), 
+    "cardTrackUid" : NumberInt(76), 
+    "assignerUserId" : ObjectId("58ad3b34e3d9d77d7e057ba8"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a27e2ef14a121cffcf58d9"), 
+    "dateTime" : ISODate("2017-02-22T07:18:12.109+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58ad41a2e3d9d77d7e057ddf"), 
+    "cardTrackUid" : NumberInt(77), 
+    "assignerUserId" : ObjectId("58ad41a2e3d9d77d7e057dd5"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a25b8de23b21178e942286"), 
+    "dateTime" : ISODate("2017-02-22T07:45:38.508+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58ad43b1baab292e3f771c21"), 
+    "cardTrackUid" : NumberInt(78), 
+    "assignerUserId" : ObjectId("58ad43b1baab292e3f771c17"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a1782136634c580e5ebc25"), 
+    "dateTime" : ISODate("2017-02-22T07:54:25.371+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58ad4476baab292e3f771c7c"), 
+    "cardTrackUid" : NumberInt(79), 
+    "assignerUserId" : ObjectId("58ad4476baab292e3f771c72"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58ad446bbaab292e3f771c71"), 
+    "dateTime" : ISODate("2017-02-22T07:57:42.322+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58ad44c0baab292e3f771c91"), 
+    "cardTrackUid" : NumberInt(80), 
+    "assignerUserId" : ObjectId("58ad44c0baab292e3f771c87"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a43440c10faa1189750844"), 
+    "dateTime" : ISODate("2017-02-22T07:58:56.281+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58ad48cdbaab292e3f771d1e"), 
+    "cardTrackUid" : NumberInt(81), 
+    "assignerUserId" : ObjectId("58ad48cdbaab292e3f771d14"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58ad47d2baab292e3f771cc4"), 
+    "dateTime" : ISODate("2017-02-22T08:16:13.070+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58ad4942baab292e3f771d5d"), 
+    "cardTrackUid" : NumberInt(82), 
+    "assignerUserId" : ObjectId("58ad4942baab292e3f771d53"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58ad47e5baab292e3f771cc5"), 
+    "dateTime" : ISODate("2017-02-22T08:18:10.909+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58ae36b4baab292e3f773a9f"), 
+    "cardTrackUid" : NumberInt(83), 
+    "assignerUserId" : ObjectId("58ae36b4baab292e3f773a95"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58ad47f7baab292e3f771cc6"), 
+    "dateTime" : ISODate("2017-02-23T01:11:16.702+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58ae37cebaab292e3f773e45"), 
+    "cardTrackUid" : NumberInt(84), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58ad47f7baab292e3f771cc6"), 
+    "assignerUserId" : ObjectId("58ae36b4baab292e3f773a95"), 
+    "dateTime" : ISODate("2017-02-23T01:15:58.363+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58afbc5bbaab292e3f77b75b"), 
+    "cardTrackUid" : NumberInt(85), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58a43440c10faa1189750844"), 
+    "assignerUserId" : ObjectId("58ad44c0baab292e3f771c87"), 
+    "dateTime" : ISODate("2017-02-24T04:53:47.433+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58b2b670baab292e3f78177f"), 
+    "cardTrackUid" : NumberInt(86), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58a1782136634c580e5ebc25"), 
+    "assignerUserId" : ObjectId("58ad43b1baab292e3f771c17"), 
+    "dateTime" : ISODate("2017-02-26T11:05:20.686+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58b2b68abaab292e3f7817e7"), 
+    "cardTrackUid" : NumberInt(87), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58a1784c36634c580e5ebc26"), 
+    "assignerUserId" : ObjectId("58a4026bba83b61db450d625"), 
+    "dateTime" : ISODate("2017-02-26T11:05:46.633+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58b2b6a8baab292e3f78184f"), 
+    "cardTrackUid" : NumberInt(88), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58a1787f36634c580e5ebc4a"), 
+    "assignerUserId" : ObjectId("58a18fca36634c580e5ebfff"), 
+    "dateTime" : ISODate("2017-02-26T11:06:16.577+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58b2b6dbbaab292e3f781907"), 
+    "cardTrackUid" : NumberInt(89), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58a178b336634c580e5ebc4c"), 
+    "assignerUserId" : ObjectId("58a3f902ba83b61db450bc48"), 
+    "dateTime" : ISODate("2017-02-26T11:07:07.228+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58b2b6f0baab292e3f78196f"), 
+    "cardTrackUid" : NumberInt(90), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58a25b8de23b21178e942286"), 
+    "assignerUserId" : ObjectId("58ad41a2e3d9d77d7e057dd5"), 
+    "dateTime" : ISODate("2017-02-26T11:07:28.269+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58b2b70ebaab292e3f7819d7"), 
+    "cardTrackUid" : NumberInt(91), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58a25ba6e23b21178e942288"), 
+    "assignerUserId" : ObjectId("58a25c407c6d496d9e1036b2"), 
+    "dateTime" : ISODate("2017-02-26T11:07:58.641+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58b2b73abaab292e3f781a3f"), 
+    "cardTrackUid" : NumberInt(92), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58a25dae7c6d496d9e103715"), 
+    "assignerUserId" : ObjectId("58a25d617c6d496d9e1036fb"), 
+    "dateTime" : ISODate("2017-02-26T11:08:42.208+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58b2b75dbaab292e3f781aa7"), 
+    "cardTrackUid" : NumberInt(93), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58a27d0df14a121cffcf58d4"), 
+    "assignerUserId" : ObjectId("58a458ee028ff26bfc0c394d"), 
+    "dateTime" : ISODate("2017-02-26T11:09:17.972+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58b2b774baab292e3f781b0f"), 
+    "cardTrackUid" : NumberInt(94), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58a27d74f14a121cffcf58d5"), 
+    "assignerUserId" : ObjectId("58ad3881e3d9d77d7e0579af"), 
+    "dateTime" : ISODate("2017-02-26T11:09:40.027+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58b2b78fbaab292e3f781b77"), 
+    "cardTrackUid" : NumberInt(95), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58a27dd4f14a121cffcf58d7"), 
+    "assignerUserId" : ObjectId("58ad3867e3d9d77d7e057991"), 
+    "dateTime" : ISODate("2017-02-26T11:10:07.626+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58b2b7a5baab292e3f781bdf"), 
+    "cardTrackUid" : NumberInt(96), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58a27e06f14a121cffcf58d8"), 
+    "assignerUserId" : ObjectId("58ad36b8e3d9d77d7e057770"), 
+    "dateTime" : ISODate("2017-02-26T11:10:29.785+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58b2b7bcbaab292e3f781c47"), 
+    "cardTrackUid" : NumberInt(97), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58a27e2ef14a121cffcf58d9"), 
+    "assignerUserId" : ObjectId("58ad3b34e3d9d77d7e057ba8"), 
+    "dateTime" : ISODate("2017-02-26T11:10:52.425+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58b2b7d5baab292e3f781caf"), 
+    "cardTrackUid" : NumberInt(98), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58a27e53f14a121cffcf58da"), 
+    "assignerUserId" : ObjectId("58a40001ba83b61db450c97a"), 
+    "dateTime" : ISODate("2017-02-26T11:11:17.162+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58b2b7ebbaab292e3f781d17"), 
+    "cardTrackUid" : NumberInt(99), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58a27eabf14a121cffcf58db"), 
+    "assignerUserId" : ObjectId("58a2ee7e0cee320ec72782af"), 
+    "dateTime" : ISODate("2017-02-26T11:11:39.536+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58b2b85918ef200c3f90fab9"), 
+    "cardTrackUid" : NumberInt(100), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58a2d20828c63875cd3a2779"), 
+    "assignerUserId" : ObjectId("58a3c50d29095f06c6c12bc5"), 
+    "dateTime" : ISODate("2017-02-26T11:13:29.939+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58b2b86f18ef200c3f90fb21"), 
+    "cardTrackUid" : NumberInt(101), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58a3c45a29095f06c6c12b73"), 
+    "assignerUserId" : ObjectId("58a3c5aa29095f06c6c12c38"), 
+    "dateTime" : ISODate("2017-02-26T11:13:51.544+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58b2b95018ef200c3f90fb89"), 
+    "cardTrackUid" : NumberInt(102), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58a3c48729095f06c6c12b80"), 
+    "assignerUserId" : ObjectId("58a4021aba83b61db450d422"), 
+    "dateTime" : ISODate("2017-02-26T11:17:36.035+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58b2b96818ef200c3f90fbf1"), 
+    "cardTrackUid" : NumberInt(103), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58a3c7f0033e5c14af0cbe41"), 
+    "assignerUserId" : ObjectId("58a3c6f3033e5c14af0cbd98"), 
+    "dateTime" : ISODate("2017-02-26T11:18:00.153+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58b2bb2818ef200c3f90fc59"), 
+    "cardTrackUid" : NumberInt(104), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58a40434ba83b61db450dbbb"), 
+    "assignerUserId" : ObjectId("58a537545ebfa46d016702ad"), 
+    "dateTime" : ISODate("2017-02-26T11:25:28.129+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58b2bb4218ef200c3f90fcc1"), 
+    "cardTrackUid" : NumberInt(105), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58a43416c10faa118975045f"), 
+    "assignerUserId" : ObjectId("58a6e304de325d254cc1c12e"), 
+    "dateTime" : ISODate("2017-02-26T11:25:54.328+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58b2bb5818ef200c3f90fd29"), 
+    "cardTrackUid" : NumberInt(106), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58a4342dc10faa1189750691"), 
+    "assignerUserId" : ObjectId("58a6d895de325d254cc1bf6a"), 
+    "dateTime" : ISODate("2017-02-26T11:26:16.638+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58b2bb9518ef200c3f90fd91"), 
+    "cardTrackUid" : NumberInt(107), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58a43451c10faa11897509e6"), 
+    "assignerUserId" : ObjectId("58ab0a9dba82dd666d58edf3"), 
+    "dateTime" : ISODate("2017-02-26T11:27:17.841+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58b2bbe318ef200c3f90fdf9"), 
+    "cardTrackUid" : NumberInt(108), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58a5276630b0bd736a9c0ccb"), 
+    "assignerUserId" : ObjectId("58a533db16c3e463e3a80f47"), 
+    "dateTime" : ISODate("2017-02-26T11:28:35.098+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58b3b2235109ae34395da490"), 
+    "cardTrackUid" : NumberInt(109), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a2d20828c63875cd3a2779"), 
+    "dateTime" : ISODate("2017-02-27T04:59:15.965+0000"), 
+    "cardUid" : "a71a2081-9f40-4f51-b5e5-efadfa696630", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58b3b2fc5109ae34395da510"), 
+    "cardTrackUid" : NumberInt(110), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a2d20828c63875cd3a2779"), 
+    "dateTime" : ISODate("2017-02-27T05:02:52.532+0000"), 
+    "cardUid" : "a71a2081-9f40-4f51-b5e5-efadfa696630", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58b3b8b69b0ca34d1be526fe"), 
+    "cardTrackUid" : NumberInt(111), 
+    "assignedUserId" : ObjectId("58b3b1185109ae34395da3d5"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a2d20828c63875cd3a2779"), 
+    "dateTime" : ISODate("2017-02-27T05:27:18.843+0000"), 
+    "cardUid" : "f5053260-91d2-4c90-b505-2dffcd8b5fbb", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58b3c4289b0ca34d1be52add"), 
+    "cardTrackUid" : NumberInt(112), 
+    "assignedUserId" : ObjectId("58b3c3f19b0ca34d1be52ab3"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a25ba6e23b21178e942288"), 
+    "dateTime" : ISODate("2017-02-27T06:16:08.589+0000"), 
+    "cardUid" : "f5053260-91d2-4c90-b505-2dffcd8b5fbb", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58b4e6dba5915e7eb8346512"), 
+    "cardTrackUid" : NumberInt(113), 
+    "assignedUserId" : ObjectId("58b4e6dba5915e7eb8346507"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58b4e6d0a5915e7eb8346506"), 
+    "dateTime" : ISODate("2017-02-28T02:56:27.357+0000"), 
+    "cardUid" : "9fa980d7-9ab2-484b-b5c9-45928daaea45", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58b4e786a5915e7eb8346527"), 
+    "cardTrackUid" : NumberInt(114), 
+    "assignedUserId" : ObjectId("58b4e786a5915e7eb834651d"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a27da4f14a121cffcf58d6"), 
+    "dateTime" : ISODate("2017-02-28T02:59:18.771+0000"), 
+    "cardUid" : "9fa980d7-9ab2-484b-b5c9-45928daaea45", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58b4e861a5915e7eb83466d6"), 
+    "cardTrackUid" : NumberInt(115), 
+    "assignedUserId" : ObjectId("58b4e861a5915e7eb83466cc"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a25b8de23b21178e942286"), 
+    "dateTime" : ISODate("2017-02-28T03:02:57.485+0000"), 
+    "cardUid" : "9fa980d7-9ab2-484b-b5c9-45928daaea45", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58b4e901a5915e7eb8346774"), 
+    "cardTrackUid" : NumberInt(116), 
+    "assignedUserId" : ObjectId("58b4e901a5915e7eb834676a"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a27d74f14a121cffcf58d5"), 
+    "dateTime" : ISODate("2017-02-28T03:05:37.777+0000"), 
+    "cardUid" : "9fa980d7-9ab2-484b-b5c9-45928daaea45", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58b4e98fa5915e7eb834689d"), 
+    "cardTrackUid" : NumberInt(117), 
+    "assignedUserId" : ObjectId("58b4e98fa5915e7eb8346893"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a27e2ef14a121cffcf58d9"), 
+    "dateTime" : ISODate("2017-02-28T03:07:59.635+0000"), 
+    "cardUid" : "9fa980d7-9ab2-484b-b5c9-45928daaea45", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58b4ea5ba5915e7eb83468bb"), 
+    "cardTrackUid" : NumberInt(118), 
+    "assignedUserId" : ObjectId("58b4ea5ba5915e7eb83468b1"), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a178b336634c580e5ebc4c"), 
+    "dateTime" : ISODate("2017-02-28T03:11:23.063+0000"), 
+    "cardUid" : "9fa980d7-9ab2-484b-b5c9-45928daaea45", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58ba46946ba5547484abd473"), 
+    "cardTrackUid" : NumberInt(119), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58a2d20828c63875cd3a2779"), 
+    "assignedUserId" : ObjectId("58b3b1185109ae34395da3d5"), 
+    "dateTime" : ISODate("2017-03-04T04:46:12.972+0000"), 
+    "cardUid" : "16ca1d04-f314-4574-b819-70dac8a7684d", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58ba46b76ba5547484abd4cb"), 
+    "cardTrackUid" : NumberInt(120), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58a25ba6e23b21178e942288"), 
+    "assignedUserId" : ObjectId("58b3c3f19b0ca34d1be52ab3"), 
+    "dateTime" : ISODate("2017-03-04T04:46:47.761+0000"), 
+    "cardUid" : "16ca1d04-f314-4574-b819-70dac8a7684d", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58bf8cabfe51870493112c3d"), 
+    "cardTrackUid" : NumberInt(121), 
+    "assignedUserId" : ObjectId("58bf8cabfe51870493112c33"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a1784c36634c580e5ebc26"), 
+    "changerId" : ObjectId("58bf89ddfe51870493112458"), 
+    "dateTime" : ISODate("2017-03-08T04:46:35.386+0000"), 
+    "cardUid" : "8ec65da0-4e79-4ce3-ad4f-ab5bc0465ec0", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58bfcb1790926c45902f4cbe"), 
+    "cardTrackUid" : NumberInt(122), 
+    "assignedUserId" : ObjectId("58bfcb1790926c45902f4cb2"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a1787f36634c580e5ebc4a"), 
+    "dateTime" : ISODate("2017-03-08T09:12:55.971+0000"), 
+    "cardUid" : "8bfdb6dd-eba9-4787-be51-a65c0c9c9ff4", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58c10c9e62e5875c9d9de017"), 
+    "cardTrackUid" : NumberInt(123), 
+    "assignedUserId" : ObjectId("58c1087c62e5875c9d9dd030"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a25ba6e23b21178e942288"), 
+    "changerId" : null, 
+    "dateTime" : ISODate("2017-03-09T08:04:46.716+0000"), 
+    "cardUid" : "498b3e36-4290-448b-9a54-0ea484e3fe08", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58c153fdbb81aa11bc887cd9"), 
+    "cardTrackUid" : NumberInt(124), 
+    "assignedUserId" : ObjectId("58c153fdbb81aa11bc887cce"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a27e53f14a121cffcf58da"), 
+    "changerId" : ObjectId("58a175be36634c580e5ebc0e"), 
+    "dateTime" : ISODate("2017-03-09T13:09:17.939+0000"), 
+    "cardUid" : "ba6616dd-a35e-4c6c-bc50-5ae44fbca94f", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58c24e76bb81aa11bc891b26"), 
+    "cardTrackUid" : NumberInt(125), 
+    "assignedUserId" : ObjectId("58c24e76bb81aa11bc891b1b"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a25dae7c6d496d9e103715"), 
+    "changerId" : ObjectId("58a175be36634c580e5ebc0e"), 
+    "dateTime" : ISODate("2017-03-10T06:57:58.989+0000"), 
+    "cardUid" : "ba6616dd-a35e-4c6c-bc50-5ae44fbca94f", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58c27e84bb81aa11bc89bc34"), 
+    "cardTrackUid" : NumberInt(126), 
+    "assignedUserId" : ObjectId("58c2337bbb81aa11bc88df40"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a27dd4f14a121cffcf58d7"), 
+    "changerId" : null, 
+    "dateTime" : ISODate("2017-03-10T10:23:00.551+0000"), 
+    "cardUid" : "ba6616dd-a35e-4c6c-bc50-5ae44fbca94f", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58c2a50c79476f32b6c7e794"), 
+    "cardTrackUid" : NumberInt(127), 
+    "assignedUserId" : ObjectId("58c0068521583a1b9ce006b3"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a27eabf14a121cffcf58db"), 
+    "changerId" : null, 
+    "dateTime" : ISODate("2017-03-10T13:07:24.753+0000"), 
+    "cardUid" : "6b1378ef-10cd-4500-a7fe-1245a43e6d35", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58c2bc94e363354f3bb57c4e"), 
+    "cardTrackUid" : NumberInt(128), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58a25dae7c6d496d9e103715"), 
+    "assignedUserId" : ObjectId("58c24e76bb81aa11bc891b1b"), 
+    "dateTime" : ISODate("2017-03-10T14:47:48.944+0000"), 
+    "cardUid" : "07c6abec-a826-4397-a469-30b0513d6088", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58c3ab376011e669360d8af4"), 
+    "cardTrackUid" : NumberInt(129), 
+    "assignedUserId" : ObjectId("58c3ab376011e669360d8aea"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a43416c10faa118975045f"), 
+    "changerId" : ObjectId("58a175be36634c580e5ebc0e"), 
+    "dateTime" : ISODate("2017-03-11T07:45:59.738+0000"), 
+    "cardUid" : "27e0a8af-221d-4ba0-9027-c280c87bdabe", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58c91063c85459363a0300f5"), 
+    "cardTrackUid" : NumberInt(130), 
+    "assignedUserId" : ObjectId("58c90a95c85459363a02fff1"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58c8efedc85459363a02f2c2"), 
+    "changerId" : null, 
+    "dateTime" : ISODate("2017-03-15T09:58:59.550+0000"), 
+    "cardUid" : "57c59607-e1ce-491c-bc56-3a14527e509e", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58c92e7f9d29910e85bb113b"), 
+    "cardTrackUid" : NumberInt(131), 
+    "assignedUserId" : ObjectId("58c92e7e9d29910e85bb1130"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a25dae7c6d496d9e103715"), 
+    "dateTime" : ISODate("2017-03-15T12:07:27.094+0000"), 
+    "cardUid" : "89f593e1-305a-449c-8975-9cf128c76563", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58c93bd89d29910e85bb14d0"), 
+    "cardTrackUid" : NumberInt(132), 
+    "assignedUserId" : ObjectId("58c93bd89d29910e85bb14bf"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a5276630b0bd736a9c0ccb"), 
+    "dateTime" : ISODate("2017-03-15T13:04:24.839+0000"), 
+    "cardUid" : "89f593e1-305a-449c-8975-9cf128c76563", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cb8aeb23e2760e8d71835c"), 
+    "cardTrackUid" : NumberInt(133), 
+    "assignedUserId" : ObjectId("58ca710a4a9e820ccd191c5e"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a2d20828c63875cd3a2779"), 
+    "changerId" : null, 
+    "dateTime" : ISODate("2017-03-17T07:06:19.802+0000"), 
+    "cardUid" : "ee51b9e2-e0ab-4f19-a0aa-0c749423c9bf", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cbd4f123e2760e8d71a284"), 
+    "cardTrackUid" : NumberInt(134), 
+    "assignedUserId" : ObjectId("58cbd4f123e2760e8d71a279"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a3c45a29095f06c6c12b73"), 
+    "changerId" : ObjectId("58bf89ddfe51870493112458"), 
+    "dateTime" : ISODate("2017-03-17T12:22:09.976+0000"), 
+    "cardUid" : "ee51b9e2-e0ab-4f19-a0aa-0c749423c9bf", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cf74ada2fb4258a316d3f7"), 
+    "cardTrackUid" : NumberInt(135), 
+    "assignedUserId" : ObjectId("58cf746ba2fb4258a316d3e3"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a4342dc10faa1189750691"), 
+    "changerId" : null, 
+    "dateTime" : ISODate("2017-03-20T06:20:29.733+0000"), 
+    "cardUid" : "1745b9bd-47ef-4ee6-bb99-f2995d751bb8", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cf8adfa2fb4258a316dad3"), 
+    "cardTrackUid" : NumberInt(136), 
+    "assignedUserId" : ObjectId("58cf8adfa2fb4258a316dac7"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a43440c10faa1189750844"), 
+    "dateTime" : ISODate("2017-03-20T07:55:11.208+0000"), 
+    "cardUid" : "1745b9bd-47ef-4ee6-bb99-f2995d751bb8", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cf8e14a2fb4258a316db55"), 
+    "cardTrackUid" : NumberInt(137), 
+    "assignedUserId" : ObjectId("58cf8e14a2fb4258a316db4a"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a43451c10faa11897509e6"), 
+    "dateTime" : ISODate("2017-03-20T08:08:52.505+0000"), 
+    "cardUid" : "1745b9bd-47ef-4ee6-bb99-f2995d751bb8", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cf8fd7a2fb4258a316de81"), 
+    "cardTrackUid" : NumberInt(138), 
+    "assignedUserId" : ObjectId("58cf8fd7a2fb4258a316de76"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a43473c10faa1189750d24"), 
+    "changerId" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "dateTime" : ISODate("2017-03-20T08:16:23.658+0000"), 
+    "cardUid" : "1745b9bd-47ef-4ee6-bb99-f2995d751bb8", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cf907ea2fb4258a316debc"), 
+    "cardTrackUid" : NumberInt(139), 
+    "assignedUserId" : ObjectId("58cf907da2fb4258a316deb1"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a4348cc10faa1189750f90"), 
+    "changerId" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "dateTime" : ISODate("2017-03-20T08:19:10.152+0000"), 
+    "cardUid" : "1745b9bd-47ef-4ee6-bb99-f2995d751bb8", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cf9181a2fb4258a316def7"), 
+    "cardTrackUid" : NumberInt(140), 
+    "assignedUserId" : ObjectId("58cf9180a2fb4258a316deec"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a434bfc10faa1189751446"), 
+    "changerId" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "dateTime" : ISODate("2017-03-20T08:23:29.038+0000"), 
+    "cardUid" : "1745b9bd-47ef-4ee6-bb99-f2995d751bb8", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cf95b4c785be065ad76b52"), 
+    "cardTrackUid" : NumberInt(141), 
+    "assignedUserId" : ObjectId("58cf9578c785be065ad76b39"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a434d6c10faa1189751670"), 
+    "changerId" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "dateTime" : ISODate("2017-03-20T08:41:24.658+0000"), 
+    "cardUid" : "caa3e606-003d-4f09-ab49-f3aefc570a83", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cf96cdc785be065ad76c87"), 
+    "cardTrackUid" : NumberInt(142), 
+    "assignedUserId" : ObjectId("58cf9667c785be065ad76bd1"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a434cbc10faa118975154b"), 
+    "changerId" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "dateTime" : ISODate("2017-03-20T08:46:05.319+0000"), 
+    "cardUid" : "caa3e606-003d-4f09-ab49-f3aefc570a83", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cf9d19c785be065ad76e38"), 
+    "cardTrackUid" : NumberInt(143), 
+    "assignedUserId" : ObjectId("58cf9cf6c785be065ad76e23"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58be47cd7b371c3103f255c8"), 
+    "changerId" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "dateTime" : ISODate("2017-03-20T09:12:57.460+0000"), 
+    "cardUid" : "caa3e606-003d-4f09-ab49-f3aefc570a83", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cfcdba78f4044d6e99246f"), 
+    "cardTrackUid" : NumberInt(144), 
+    "assignedUserId" : ObjectId("58cfcdba78f4044d6e992463"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfcc8978f4044d6e992332"), 
+    "dateTime" : ISODate("2017-03-20T12:40:26.981+0000"), 
+    "cardUid" : "ca048b3b-eab8-442a-a04b-e91edb45fb43", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cfd18d78f4044d6e992737"), 
+    "cardTrackUid" : NumberInt(145), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58cfcc8978f4044d6e992332"), 
+    "assignedUserId" : ObjectId("58cfcdba78f4044d6e992463"), 
+    "dateTime" : ISODate("2017-03-20T12:56:45.257+0000"), 
+    "cardUid" : "ca048b3b-eab8-442a-a04b-e91edb45fb43", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d0976678f4044d6e998095"), 
+    "cardTrackUid" : NumberInt(146), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58a434bfc10faa1189751446"), 
+    "assignedUserId" : ObjectId("58cf9180a2fb4258a316deec"), 
+    "dateTime" : ISODate("2017-03-21T03:00:54.636+0000"), 
+    "cardUid" : "ca048b3b-eab8-442a-a04b-e91edb45fb43", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d0b73d78f4044d6e998b71"), 
+    "cardTrackUid" : NumberInt(147), 
+    "assignedUserId" : ObjectId("58d0b73c78f4044d6e998b63"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58d099fd78f4044d6e998183"), 
+    "changerId" : ObjectId("58d0a2cb78f4044d6e998722"), 
+    "dateTime" : ISODate("2017-03-21T05:16:45.014+0000"), 
+    "cardUid" : "ca048b3b-eab8-442a-a04b-e91edb45fb43", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d0b903081ba478e9b26129"), 
+    "cardTrackUid" : NumberInt(148), 
+    "assignedUserId" : ObjectId("58d0b903081ba478e9b26115"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58d09a1378f4044d6e998185"), 
+    "dateTime" : ISODate("2017-03-21T05:24:19.262+0000"), 
+    "cardUid" : "a76db967-b655-45d2-bedf-a8bdd77fc9b5", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d0b960df038d79b7efb767"), 
+    "cardTrackUid" : NumberInt(149), 
+    "assignedUserId" : ObjectId("58d0b960df038d79b7efb756"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58d09c9978f4044d6e9982d7"), 
+    "changerId" : ObjectId("58d0a17a78f4044d6e9986be"), 
+    "dateTime" : ISODate("2017-03-21T05:25:52.422+0000"), 
+    "cardUid" : "dbe84c4f-4e36-41db-bc6a-afcec3bf3303", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d0ba7878e5107a70c05da0"), 
+    "cardTrackUid" : NumberInt(150), 
+    "assignedUserId" : ObjectId("58d0ba7878e5107a70c05d94"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58d09a9c78f4044d6e9981cb"), 
+    "changerId" : ObjectId("58d0a24478f4044d6e9986f0"), 
+    "dateTime" : ISODate("2017-03-21T05:30:32.888+0000"), 
+    "cardUid" : "2647405e-c825-4daf-83b7-261477186901", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d0bb2678e5107a70c05de2"), 
+    "cardTrackUid" : NumberInt(151), 
+    "assignedUserId" : ObjectId("58d0bb2678e5107a70c05dd5"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58d09a4578f4044d6e99818b"), 
+    "changerId" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "dateTime" : ISODate("2017-03-21T05:33:26.900+0000"), 
+    "cardUid" : "2647405e-c825-4daf-83b7-261477186901", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d0bb3a78e5107a70c05e6f"), 
+    "cardTrackUid" : NumberInt(152), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58d09a9c78f4044d6e9981cb"), 
+    "assignedUserId" : ObjectId("58d0ba7878e5107a70c05d94"), 
+    "dateTime" : ISODate("2017-03-21T05:33:46.413+0000"), 
+    "cardUid" : "2647405e-c825-4daf-83b7-261477186901", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d0bca878e5107a70c05eb7"), 
+    "cardTrackUid" : NumberInt(153), 
+    "assignedUserId" : ObjectId("58d0bca878e5107a70c05eab"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58d09ca978f4044d6e9982d9"), 
+    "changerId" : ObjectId("58d09fff78f4044d6e99868c"), 
+    "dateTime" : ISODate("2017-03-21T05:39:52.219+0000"), 
+    "cardUid" : "2647405e-c825-4daf-83b7-261477186901", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d0bcda78e5107a70c05ef8"), 
+    "cardTrackUid" : NumberInt(154), 
+    "assignedUserId" : ObjectId("58b5039f96e33160ae2a581d"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58d09c5e78f4044d6e9982d4"), 
+    "changerId" : ObjectId("58d0a24478f4044d6e9986f0"), 
+    "dateTime" : ISODate("2017-03-21T05:40:42.089+0000"), 
+    "cardUid" : "2647405e-c825-4daf-83b7-261477186901", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d0bd3478e5107a70c05f34"), 
+    "cardTrackUid" : NumberInt(155), 
+    "assignedUserId" : ObjectId("58d0ba7878e5107a70c05d94"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58d09a9c78f4044d6e9981cb"), 
+    "changerId" : ObjectId("58d0a24478f4044d6e9986f0"), 
+    "dateTime" : ISODate("2017-03-21T05:42:12.009+0000"), 
+    "cardUid" : "2647405e-c825-4daf-83b7-261477186901", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d0c3e0025b5c03716129ba"), 
+    "cardTrackUid" : NumberInt(156), 
+    "assignedUserId" : ObjectId("58d0c260025b5c03716128af"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfcf8f78f4044d6e992681"), 
+    "changerId" : ObjectId("58b4f476a5915e7eb8346b29"), 
+    "dateTime" : ISODate("2017-03-21T06:10:40.488+0000"), 
+    "cardUid" : "5366e121-2652-49ca-a449-a02b525319f5", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d0c3e8025b5c03716129ff"), 
+    "cardTrackUid" : NumberInt(157), 
+    "assignedUserId" : ObjectId("58d0c2f8025b5c03716128e2"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58d0c3cb025b5c03716129a9"), 
+    "changerId" : ObjectId("58d09fff78f4044d6e99868c"), 
+    "dateTime" : ISODate("2017-03-21T06:10:48.072+0000"), 
+    "cardUid" : "5366e121-2652-49ca-a449-a02b525319f5", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d0c8755ef73f0a79acf841"), 
+    "cardTrackUid" : NumberInt(158), 
+    "assignedUserId" : ObjectId("58d0c8755ef73f0a79acf835"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfcd3278f4044d6e99238e"), 
+    "changerId" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "dateTime" : ISODate("2017-03-21T06:30:13.185+0000"), 
+    "cardUid" : "30c72db8-2f73-4a22-9a64-209e1a9a9205", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d0ca0e5ef73f0a79acf944"), 
+    "cardTrackUid" : NumberInt(159), 
+    "assignedUserId" : ObjectId("58d0ca0e5ef73f0a79acf939"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfcd4678f4044d6e992390"), 
+    "changerId" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "dateTime" : ISODate("2017-03-21T06:37:02.734+0000"), 
+    "cardUid" : "30c72db8-2f73-4a22-9a64-209e1a9a9205", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d0cc145ef73f0a79acfb71"), 
+    "cardTrackUid" : NumberInt(160), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58d0c3cb025b5c03716129a9"), 
+    "assignedUserId" : ObjectId("58d0c2f8025b5c03716128e2"), 
+    "dateTime" : ISODate("2017-03-21T06:45:40.872+0000"), 
+    "cardUid" : "30c72db8-2f73-4a22-9a64-209e1a9a9205", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d0cd3e5ef73f0a79acfbe9"), 
+    "cardTrackUid" : NumberInt(161), 
+    "assignedUserId" : ObjectId("58d0ca245ef73f0a79acf9c8"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfcfb178f4044d6e992685"), 
+    "changerId" : ObjectId("58b4f476a5915e7eb8346b29"), 
+    "dateTime" : ISODate("2017-03-21T06:50:38.451+0000"), 
+    "cardUid" : "30c72db8-2f73-4a22-9a64-209e1a9a9205", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d0d2103c094c1d72e27b38"), 
+    "cardTrackUid" : NumberInt(162), 
+    "assignedUserId" : ObjectId("58d0d2103c094c1d72e27b2d"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58d0c3cb025b5c03716129a9"), 
+    "changerId" : ObjectId("58a175be36634c580e5ebc0e"), 
+    "dateTime" : ISODate("2017-03-21T07:11:12.616+0000"), 
+    "cardUid" : "1388b677-3be0-4107-960e-3ab856ca6961", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d0d2fe9838911e9fa0315d"), 
+    "cardTrackUid" : NumberInt(163), 
+    "assignedUserId" : ObjectId("58d0c2f8025b5c03716128e2"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfcdc478f4044d6e99249f"), 
+    "changerId" : ObjectId("58d0a24478f4044d6e9986f0"), 
+    "dateTime" : ISODate("2017-03-21T07:15:10.782+0000"), 
+    "cardUid" : "ccae8cb2-b65f-4d49-ae7b-b22b46f1902e", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d0d3a79838911e9fa033dc"), 
+    "cardTrackUid" : NumberInt(164), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58d09c5e78f4044d6e9982d4"), 
+    "assignedUserId" : ObjectId("58b5039f96e33160ae2a581d"), 
+    "dateTime" : ISODate("2017-03-21T07:17:59.782+0000"), 
+    "cardUid" : "ccae8cb2-b65f-4d49-ae7b-b22b46f1902e", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d0d48d9838911e9fa03459"), 
+    "cardTrackUid" : NumberInt(165), 
+    "assignedUserId" : ObjectId("58b5039f96e33160ae2a581d"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfcef778f4044d6e99258a"), 
+    "changerId" : ObjectId("58d0a2cb78f4044d6e998722"), 
+    "dateTime" : ISODate("2017-03-21T07:21:49.152+0000"), 
+    "cardUid" : "ccae8cb2-b65f-4d49-ae7b-b22b46f1902e", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d0d5029838911e9fa03497"), 
+    "cardTrackUid" : NumberInt(166), 
+    "assignedUserId" : ObjectId("58d0d5029838911e9fa0348c"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfcdd578f4044d6e9924a1"), 
+    "changerId" : ObjectId("58d0a24478f4044d6e9986f0"), 
+    "dateTime" : ISODate("2017-03-21T07:23:46.250+0000"), 
+    "cardUid" : "ccae8cb2-b65f-4d49-ae7b-b22b46f1902e", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d0d6a99838911e9fa03530"), 
+    "cardTrackUid" : NumberInt(167), 
+    "assignedUserId" : ObjectId("58d0d6a99838911e9fa03525"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58d0c62c5ef73f0a79acf6d9"), 
+    "changerId" : ObjectId("58b4f476a5915e7eb8346b29"), 
+    "dateTime" : ISODate("2017-03-21T07:30:49.363+0000"), 
+    "cardUid" : "ccae8cb2-b65f-4d49-ae7b-b22b46f1902e", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d0d6d49838911e9fa0356b"), 
+    "cardTrackUid" : NumberInt(168), 
+    "assignedUserId" : ObjectId("58d0d6d49838911e9fa03560"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58d0cea55ef73f0a79acfc9f"), 
+    "changerId" : ObjectId("58b4f476a5915e7eb8346b29"), 
+    "dateTime" : ISODate("2017-03-21T07:31:32.194+0000"), 
+    "cardUid" : "ccae8cb2-b65f-4d49-ae7b-b22b46f1902e", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d0d9463e255f277cc9329e"), 
+    "cardTrackUid" : NumberInt(169), 
+    "assignedUserId" : ObjectId("58d0d9463e255f277cc93291"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58d0d9088389fe26c25c530f"), 
+    "changerId" : ObjectId("58b4f476a5915e7eb8346b29"), 
+    "dateTime" : ISODate("2017-03-21T07:41:58.202+0000"), 
+    "cardUid" : "0039c54e-5a8c-4d5a-bab8-a1543855f550", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d0d9843e255f277cc93383"), 
+    "cardTrackUid" : NumberInt(170), 
+    "assignedUserId" : ObjectId("58d0d9843e255f277cc93378"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58d0d91f8389fe26c25c5311"), 
+    "changerId" : ObjectId("58b4f476a5915e7eb8346b29"), 
+    "dateTime" : ISODate("2017-03-21T07:43:00.849+0000"), 
+    "cardUid" : "0039c54e-5a8c-4d5a-bab8-a1543855f550", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d0da203e255f277cc93497"), 
+    "cardTrackUid" : NumberInt(171), 
+    "assignedUserId" : ObjectId("58d0d9e93e255f277cc93410"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58d0d95c3e255f277cc9332a"), 
+    "changerId" : ObjectId("58b4f476a5915e7eb8346b29"), 
+    "dateTime" : ISODate("2017-03-21T07:45:36.286+0000"), 
+    "cardUid" : "0039c54e-5a8c-4d5a-bab8-a1543855f550", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d0daa5cf921c297564ba20"), 
+    "cardTrackUid" : NumberInt(172), 
+    "assignedUserId" : ObjectId("58d0daa5cf921c297564ba13"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58d0d9753e255f277cc93376"), 
+    "changerId" : ObjectId("58b4f476a5915e7eb8346b29"), 
+    "dateTime" : ISODate("2017-03-21T07:47:49.581+0000"), 
+    "cardUid" : "601e83b7-ba25-40bf-a9bd-388421604dd7", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d10dc0db42476d244ab3bf"), 
+    "cardTrackUid" : NumberInt(173), 
+    "assignedUserId" : ObjectId("58d10dc0db42476d244ab3b4"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58d10c24db42476d244ab346"), 
+    "changerId" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "dateTime" : ISODate("2017-03-21T11:25:52.679+0000"), 
+    "cardUid" : "b432534a-0e78-4c4f-b6e2-96614ef31844", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d10dffdb42476d244ab3fa"), 
+    "cardTrackUid" : NumberInt(174), 
+    "assignedUserId" : ObjectId("58d10dffdb42476d244ab3ef"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58d10c37db42476d244ab348"), 
+    "changerId" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "dateTime" : ISODate("2017-03-21T11:26:55.214+0000"), 
+    "cardUid" : "b432534a-0e78-4c4f-b6e2-96614ef31844", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d10e3ddb42476d244ab435"), 
+    "cardTrackUid" : NumberInt(175), 
+    "assignedUserId" : ObjectId("58d10e3ddb42476d244ab42a"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58d10c4fdb42476d244ab34a"), 
+    "changerId" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "dateTime" : ISODate("2017-03-21T11:27:57.214+0000"), 
+    "cardUid" : "b432534a-0e78-4c4f-b6e2-96614ef31844", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d10f4fdb42476d244ab49f"), 
+    "cardTrackUid" : NumberInt(176), 
+    "assignedUserId" : ObjectId("58d10f14db42476d244ab464"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58d10c7edb42476d244ab34c"), 
+    "changerId" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "dateTime" : ISODate("2017-03-21T11:32:31.563+0000"), 
+    "cardUid" : "b432534a-0e78-4c4f-b6e2-96614ef31844", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d12f92a28b3a0f89de9920"), 
+    "cardTrackUid" : NumberInt(177), 
+    "assignedUserId" : ObjectId("58d12f92a28b3a0f89de9915"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58d0c4fa5ef73f0a79acf6be"), 
+    "changerId" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "dateTime" : ISODate("2017-03-21T13:50:10.413+0000"), 
+    "cardUid" : "a0f85360-2ed1-41c2-96f6-415a0dfd169b", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d13074a28b3a0f89de9a2f"), 
+    "cardTrackUid" : NumberInt(178), 
+    "assignedUserId" : ObjectId("58d13074a28b3a0f89de9a24"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58d10ca0db42476d244ab34e"), 
+    "changerId" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "dateTime" : ISODate("2017-03-21T13:53:56.396+0000"), 
+    "cardUid" : "a0f85360-2ed1-41c2-96f6-415a0dfd169b", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d13412a28b3a0f89de9e55"), 
+    "cardTrackUid" : NumberInt(179), 
+    "assignedUserId" : ObjectId("58d13412a28b3a0f89de9e49"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58d13352a28b3a0f89de9e47"), 
+    "changerId" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "dateTime" : ISODate("2017-03-21T14:09:22.807+0000"), 
+    "cardUid" : "a0f85360-2ed1-41c2-96f6-415a0dfd169b", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d22eb9a28b3a0f89df5259"), 
+    "cardTrackUid" : NumberInt(180), 
+    "assignedUserId" : ObjectId("58d22eb9a28b3a0f89df524e"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfd0bc78f4044d6e9926a0"), 
+    "changerId" : ObjectId("58d09fff78f4044d6e99868c"), 
+    "dateTime" : ISODate("2017-03-22T07:58:49.233+0000"), 
+    "cardUid" : "a0f85360-2ed1-41c2-96f6-415a0dfd169b", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d23a8ea28b3a0f89df757f"), 
+    "cardTrackUid" : NumberInt(181), 
+    "assignedUserId" : ObjectId("58d23a8ea28b3a0f89df7574"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfd05c78f4044d6e992694"), 
+    "changerId" : ObjectId("58d09fff78f4044d6e99868c"), 
+    "dateTime" : ISODate("2017-03-22T08:49:18.166+0000"), 
+    "cardUid" : "a0f85360-2ed1-41c2-96f6-415a0dfd169b", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d23b37a28b3a0f89df7627"), 
+    "cardTrackUid" : NumberInt(182), 
+    "assignedUserId" : ObjectId("58d23b37a28b3a0f89df761c"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfd06d78f4044d6e992696"), 
+    "changerId" : ObjectId("58d09fff78f4044d6e99868c"), 
+    "dateTime" : ISODate("2017-03-22T08:52:07.695+0000"), 
+    "cardUid" : "a0f85360-2ed1-41c2-96f6-415a0dfd169b", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d23bafa28b3a0f89df7662"), 
+    "cardTrackUid" : NumberInt(183), 
+    "assignedUserId" : ObjectId("58d23bafa28b3a0f89df7657"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfd07f78f4044d6e992698"), 
+    "changerId" : ObjectId("58d09fff78f4044d6e99868c"), 
+    "dateTime" : ISODate("2017-03-22T08:54:07.950+0000"), 
+    "cardUid" : "a0f85360-2ed1-41c2-96f6-415a0dfd169b", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d23ca5a28b3a0f89df77ab"), 
+    "cardTrackUid" : NumberInt(184), 
+    "assignedUserId" : ObjectId("58d23c0ba28b3a0f89df7692"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfcd5678f4044d6e992393"), 
+    "changerId" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "dateTime" : ISODate("2017-03-22T08:58:13.109+0000"), 
+    "cardUid" : "a0f85360-2ed1-41c2-96f6-415a0dfd169b", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d23d0da28b3a0f89df7879"), 
+    "cardTrackUid" : NumberInt(185), 
+    "assignedUserId" : ObjectId("58d23d0da28b3a0f89df786e"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfd08d78f4044d6e99269a"), 
+    "changerId" : ObjectId("58d09fff78f4044d6e99868c"), 
+    "dateTime" : ISODate("2017-03-22T08:59:57.361+0000"), 
+    "cardUid" : "a0f85360-2ed1-41c2-96f6-415a0dfd169b", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d23e18a28b3a0f89df78b7"), 
+    "cardTrackUid" : NumberInt(186), 
+    "assignedUserId" : ObjectId("58d23e18a28b3a0f89df78ab"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfd09d78f4044d6e99269c"), 
+    "changerId" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "dateTime" : ISODate("2017-03-22T09:04:24.484+0000"), 
+    "cardUid" : "a0f85360-2ed1-41c2-96f6-415a0dfd169b", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d3698aa6a2163acca2ba17"), 
+    "cardTrackUid" : NumberInt(187), 
+    "assignedUserId" : ObjectId("58d3698aa6a2163acca2b9de"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfcd8478f4044d6e992460"), 
+    "changerId" : ObjectId("58a175be36634c580e5ebc0e"), 
+    "dateTime" : ISODate("2017-03-23T06:22:02.670+0000"), 
+    "cardUid" : "9b2d6ec4-7d2c-46fd-91a2-579253af3c49", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d4b423a6a2163acca39c19"), 
+    "cardTrackUid" : NumberInt(188), 
+    "assignedUserId" : ObjectId("58d4b423a6a2163acca39c0e"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfcdb078f4044d6e992462"), 
+    "changerId" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "dateTime" : ISODate("2017-03-24T05:52:35.951+0000"), 
+    "cardUid" : "9b2d6ec4-7d2c-46fd-91a2-579253af3c49", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d4b6b6a6a2163acca39c68"), 
+    "cardTrackUid" : NumberInt(189), 
+    "assignedUserId" : ObjectId("58d4b5f3a6a2163acca39c4e"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfcdf078f4044d6e9924a3"), 
+    "changerId" : ObjectId("58d0a24478f4044d6e9986f0"), 
+    "dateTime" : ISODate("2017-03-24T06:03:34.800+0000"), 
+    "cardUid" : "9b2d6ec4-7d2c-46fd-91a2-579253af3c49", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d4b8c4a6a2163acca39da9"), 
+    "cardTrackUid" : NumberInt(190), 
+    "assignedUserId" : ObjectId("58d4b73da6a2163acca39d10"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfcfa078f4044d6e992683"), 
+    "changerId" : ObjectId("58b4f476a5915e7eb8346b29"), 
+    "dateTime" : ISODate("2017-03-24T06:12:20.381+0000"), 
+    "cardUid" : "9b2d6ec4-7d2c-46fd-91a2-579253af3c49", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d4c057a6a2163acca3a10b"), 
+    "cardTrackUid" : NumberInt(191), 
+    "assignedUserId" : ObjectId("58d4c057a6a2163acca3a0ff"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfcfc278f4044d6e992687"), 
+    "changerId" : ObjectId("58b4f476a5915e7eb8346b29"), 
+    "dateTime" : ISODate("2017-03-24T06:44:39.187+0000"), 
+    "cardUid" : "9b2d6ec4-7d2c-46fd-91a2-579253af3c49", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d4d47d4425831b37395456"), 
+    "cardTrackUid" : NumberInt(192), 
+    "assignedUserId" : ObjectId("58d4d47d4425831b37395449"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfce5e78f4044d6e9924b0"), 
+    "changerId" : ObjectId("58d09fff78f4044d6e99868c"), 
+    "dateTime" : ISODate("2017-03-24T08:10:37.718+0000"), 
+    "cardUid" : "71289b98-864b-4c01-bfd1-8106f323d33e", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d4d9c48fa70f5ec0593d72"), 
+    "cardTrackUid" : NumberInt(193), 
+    "assignedUserId" : ObjectId("58d4d9c48fa70f5ec0593d67"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfcc8978f4044d6e992332"), 
+    "changerId" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "dateTime" : ISODate("2017-03-24T08:33:08.775+0000"), 
+    "cardUid" : "3fb1743b-6585-447c-a45d-5653e2fba529", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d4e850050e4617b44d8caa"), 
+    "cardTrackUid" : NumberInt(194), 
+    "assignedUserId" : ObjectId("58d4e84d050e4617b44d8c9f"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfcee578f4044d6e992588"), 
+    "changerId" : ObjectId("58d09fff78f4044d6e99868c"), 
+    "dateTime" : ISODate("2017-03-24T09:35:12.908+0000"), 
+    "cardUid" : "3717f94a-2c02-4638-ab60-3239e829cf4b", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d4e8ec050e4617b44d8cf6"), 
+    "cardTrackUid" : NumberInt(195), 
+    "assignedUserId" : ObjectId("58d4e8ec050e4617b44d8cea"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfce9878f4044d6e9924b6"), 
+    "changerId" : ObjectId("58d0a17a78f4044d6e9986be"), 
+    "dateTime" : ISODate("2017-03-24T09:37:48.981+0000"), 
+    "cardUid" : "3717f94a-2c02-4638-ab60-3239e829cf4b", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d4e9de43deec647d596bcd"), 
+    "cardTrackUid" : NumberInt(196), 
+    "assignedUserId" : ObjectId("58d4e9de43deec647d596bbe"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfcf0978f4044d6e99258c"), 
+    "changerId" : ObjectId("58d09fff78f4044d6e99868c"), 
+    "dateTime" : ISODate("2017-03-24T09:41:50.482+0000"), 
+    "cardUid" : "d3fc6e63-e533-4e40-9bf4-cad7f89f29f6", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d4e9ff43deec647d596cf1"), 
+    "cardTrackUid" : NumberInt(197), 
+    "assignedUserId" : ObjectId("58d4e9fe43deec647d596ce6"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfcca778f4044d6e992338"), 
+    "changerId" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "dateTime" : ISODate("2017-03-24T09:42:23.018+0000"), 
+    "cardUid" : "d3fc6e63-e533-4e40-9bf4-cad7f89f29f6", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d4ebd343deec647d596d66"), 
+    "cardTrackUid" : NumberInt(198), 
+    "assignedUserId" : ObjectId("58d4eb4243deec647d596d47"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfce0278f4044d6e9924a5"), 
+    "changerId" : ObjectId("58d0a24478f4044d6e9986f0"), 
+    "dateTime" : ISODate("2017-03-24T09:50:11.247+0000"), 
+    "cardUid" : "d3fc6e63-e533-4e40-9bf4-cad7f89f29f6", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d4f0269546970e413fd8bc"), 
+    "cardTrackUid" : NumberInt(199), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58cfcd3278f4044d6e99238e"), 
+    "assignedUserId" : ObjectId("58d0c8755ef73f0a79acf835"), 
+    "dateTime" : ISODate("2017-03-24T10:08:38.794+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d4f94e9546970e413fdd95"), 
+    "cardTrackUid" : NumberInt(200), 
+    "assignedUserId" : ObjectId("58d4f94e9546970e413fdd8a"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfccc878f4044d6e99233b"), 
+    "changerId" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "dateTime" : ISODate("2017-03-24T10:47:42.137+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d4fc319546970e413fde42"), 
+    "cardTrackUid" : NumberInt(201), 
+    "assignedUserId" : ObjectId("58d4fc319546970e413fde37"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfcfd378f4044d6e992689"), 
+    "changerId" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "dateTime" : ISODate("2017-03-24T11:00:01.807+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d512fe9546970e413feb06"), 
+    "cardTrackUid" : NumberInt(202), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58cfce9878f4044d6e9924b6"), 
+    "assignedUserId" : ObjectId("58d4e8ec050e4617b44d8cea"), 
+    "dateTime" : ISODate("2017-03-24T12:37:18.388+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d514429546970e413feca6"), 
+    "cardTrackUid" : NumberInt(203), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58cfcdc478f4044d6e99249f"), 
+    "assignedUserId" : ObjectId("58d0c2f8025b5c03716128e2"), 
+    "dateTime" : ISODate("2017-03-24T12:42:42.634+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d514569546970e413fed05"), 
+    "cardTrackUid" : NumberInt(204), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58cfd07f78f4044d6e992698"), 
+    "assignedUserId" : ObjectId("58d23bafa28b3a0f89df7657"), 
+    "dateTime" : ISODate("2017-03-24T12:43:02.263+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d5e0439546970e41402152"), 
+    "cardTrackUid" : NumberInt(205), 
+    "assignedUserId" : ObjectId("58d5df819546970e41402133"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58a3c7f0033e5c14af0cbe41"), 
+    "changerId" : ObjectId("58b4f476a5915e7eb8346b29"), 
+    "dateTime" : ISODate("2017-03-25T03:13:07.399+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d5e92c9546970e414021ff"), 
+    "cardTrackUid" : NumberInt(206), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58cfcfc278f4044d6e992687"), 
+    "assignedUserId" : ObjectId("58d4c057a6a2163acca3a0ff"), 
+    "dateTime" : ISODate("2017-03-25T03:51:08.242+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d5e9769546970e41402263"), 
+    "cardTrackUid" : NumberInt(207), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58cfce5e78f4044d6e9924b0"), 
+    "assignedUserId" : ObjectId("58d4d47d4425831b37395449"), 
+    "dateTime" : ISODate("2017-03-25T03:52:22.179+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d5e9e89546970e414022c2"), 
+    "cardTrackUid" : NumberInt(208), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58cfcfa078f4044d6e992683"), 
+    "assignedUserId" : ObjectId("58d4b73da6a2163acca39d10"), 
+    "dateTime" : ISODate("2017-03-25T03:54:16.448+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d5ea1a9546970e41402326"), 
+    "cardTrackUid" : NumberInt(209), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58cfcd5678f4044d6e992393"), 
+    "assignedUserId" : ObjectId("58d23c0ba28b3a0f89df7692"), 
+    "dateTime" : ISODate("2017-03-25T03:55:06.636+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d5ea599546970e4140240f"), 
+    "cardTrackUid" : NumberInt(210), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58cfcfd378f4044d6e992689"), 
+    "assignedUserId" : ObjectId("58d4fc319546970e413fde37"), 
+    "dateTime" : ISODate("2017-03-25T03:56:09.680+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d5eaa59546970e4140241f"), 
+    "cardTrackUid" : NumberInt(211), 
+    "assignedUserId" : ObjectId("58d5eaa59546970e41402413"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfce5e78f4044d6e9924b0"), 
+    "changerId" : ObjectId("58d0a17a78f4044d6e9986be"), 
+    "dateTime" : ISODate("2017-03-25T03:57:25.748+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d5eabf9546970e414024ac"), 
+    "cardTrackUid" : NumberInt(212), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58cfcee578f4044d6e992588"), 
+    "assignedUserId" : ObjectId("58d4e84d050e4617b44d8c9f"), 
+    "dateTime" : ISODate("2017-03-25T03:57:51.410+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d5eb2f9546970e4140273b"), 
+    "cardTrackUid" : NumberInt(213), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58cfcd4678f4044d6e992390"), 
+    "assignedUserId" : ObjectId("58d0ca0e5ef73f0a79acf939"), 
+    "dateTime" : ISODate("2017-03-25T03:59:43.066+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d5eb769546970e414027d7"), 
+    "cardTrackUid" : NumberInt(214), 
+    "assignedUserId" : ObjectId("58d5eb769546970e414027cb"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfcfa078f4044d6e992683"), 
+    "changerId" : ObjectId("58b4f476a5915e7eb8346b29"), 
+    "dateTime" : ISODate("2017-03-25T04:00:54.383+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d5eb779546970e41402863"), 
+    "cardTrackUid" : NumberInt(215), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58cfcca778f4044d6e992338"), 
+    "assignedUserId" : ObjectId("58d4e9fe43deec647d596ce6"), 
+    "dateTime" : ISODate("2017-03-25T04:00:55.648+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d5ec3a9546970e41402c99"), 
+    "cardTrackUid" : NumberInt(216), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58cfcc8978f4044d6e992332"), 
+    "assignedUserId" : ObjectId("58d4d9c48fa70f5ec0593d67"), 
+    "dateTime" : ISODate("2017-03-25T04:04:10.366+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d5ec8b9546970e41402d86"), 
+    "cardTrackUid" : NumberInt(217), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58cfcd8478f4044d6e992460"), 
+    "assignedUserId" : ObjectId("58d3698aa6a2163acca2b9de"), 
+    "dateTime" : ISODate("2017-03-25T04:05:31.814+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d5ecb19546970e41402d94"), 
+    "cardTrackUid" : NumberInt(218), 
+    "assignedUserId" : ObjectId("58d5ecb19546970e41402d89"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfcee578f4044d6e992588"), 
+    "changerId" : ObjectId("58d09fff78f4044d6e99868c"), 
+    "dateTime" : ISODate("2017-03-25T04:06:09.557+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d5ecb99546970e41402dcf"), 
+    "cardTrackUid" : NumberInt(219), 
+    "assignedUserId" : ObjectId("58d5ecb99546970e41402dc4"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfcfc278f4044d6e992687"), 
+    "changerId" : ObjectId("58b4f476a5915e7eb8346b29"), 
+    "dateTime" : ISODate("2017-03-25T04:06:17.054+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d5ecba9546970e41402e5c"), 
+    "cardTrackUid" : NumberInt(220), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58cfcdb078f4044d6e992462"), 
+    "assignedUserId" : ObjectId("58d4b423a6a2163acca39c0e"), 
+    "dateTime" : ISODate("2017-03-25T04:06:18.817+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d5ed6f9546970e41402e74"), 
+    "cardTrackUid" : NumberInt(221), 
+    "assignedUserId" : ObjectId("58d5ed6f9546970e41402e66"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfce9878f4044d6e9924b6"), 
+    "changerId" : ObjectId("58d0a17a78f4044d6e9986be"), 
+    "dateTime" : ISODate("2017-03-25T04:09:19.217+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d5ef179546970e41402f63"), 
+    "cardTrackUid" : NumberInt(222), 
+    "assignedUserId" : ObjectId("58d5ef179546970e41402f58"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfced078f4044d6e992586"), 
+    "changerId" : ObjectId("58d0a17a78f4044d6e9986be"), 
+    "dateTime" : ISODate("2017-03-25T04:16:23.616+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d5ef629546970e41402ffe"), 
+    "cardTrackUid" : NumberInt(223), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58cfced078f4044d6e992586"), 
+    "assignedUserId" : ObjectId("58d5ef179546970e41402f58"), 
+    "dateTime" : ISODate("2017-03-25T04:17:38.565+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d5f0589546970e41403107"), 
+    "cardTrackUid" : NumberInt(224), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58cfccc878f4044d6e99233b"), 
+    "assignedUserId" : ObjectId("58d4f94e9546970e413fdd8a"), 
+    "dateTime" : ISODate("2017-03-25T04:21:44.831+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d5f0b79546970e41403167"), 
+    "cardTrackUid" : NumberInt(225), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58cfd0bc78f4044d6e9926a0"), 
+    "assignedUserId" : ObjectId("58d22eb9a28b3a0f89df524e"), 
+    "dateTime" : ISODate("2017-03-25T04:23:19.036+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d5f0db9546970e414031d0"), 
+    "cardTrackUid" : NumberInt(226), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58cfcf8f78f4044d6e992681"), 
+    "assignedUserId" : ObjectId("58d0c260025b5c03716128af"), 
+    "dateTime" : ISODate("2017-03-25T04:23:55.011+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d5f3379546970e41403403"), 
+    "cardTrackUid" : NumberInt(227), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58cfce9878f4044d6e9924b6"), 
+    "assignedUserId" : ObjectId("58d5ed6f9546970e41402e66"), 
+    "dateTime" : ISODate("2017-03-25T04:33:59.283+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d6084a9546970e41403b96"), 
+    "cardTrackUid" : NumberInt(228), 
+    "assignedUserId" : ObjectId("58d608499546970e41403b8b"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfce8778f4044d6e9924b4"), 
+    "changerId" : ObjectId("58d0a17a78f4044d6e9986be"), 
+    "dateTime" : ISODate("2017-03-25T06:03:54.094+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d60cd99546970e41403d9f"), 
+    "cardTrackUid" : NumberInt(229), 
+    "assignedUserId" : ObjectId("58d60cd99546970e41403d93"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfcd4678f4044d6e992390"), 
+    "changerId" : ObjectId("58b4f476a5915e7eb8346b29"), 
+    "dateTime" : ISODate("2017-03-25T06:23:21.379+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d60d229546970e41403e2f"), 
+    "cardTrackUid" : NumberInt(230), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58cfcd4678f4044d6e992390"), 
+    "assignedUserId" : ObjectId("58d60cd99546970e41403d93"), 
+    "dateTime" : ISODate("2017-03-25T06:24:34.664+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d60f339546970e41403e4c"), 
+    "cardTrackUid" : NumberInt(231), 
+    "assignedUserId" : ObjectId("58d60f339546970e41403e40"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfce7578f4044d6e9924b2"), 
+    "changerId" : ObjectId("58d0a17a78f4044d6e9986be"), 
+    "dateTime" : ISODate("2017-03-25T06:33:23.358+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d6116b9546970e41403e94"), 
+    "cardTrackUid" : NumberInt(232), 
+    "assignedUserId" : ObjectId("58d6116b9546970e41403e89"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfcd3278f4044d6e99238e"), 
+    "changerId" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "dateTime" : ISODate("2017-03-25T06:42:51.631+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d612019546970e41403ed3"), 
+    "cardTrackUid" : NumberInt(233), 
+    "assignedUserId" : ObjectId("58d612019546970e41403ec8"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfcc8978f4044d6e992332"), 
+    "changerId" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "dateTime" : ISODate("2017-03-25T06:45:21.647+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d616909546970e41404295"), 
+    "cardTrackUid" : NumberInt(234), 
+    "assignedUserId" : ObjectId("58d616909546970e4140428a"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfccc878f4044d6e99233b"), 
+    "changerId" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "dateTime" : ISODate("2017-03-25T07:04:48.992+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d617699546970e414042d0"), 
+    "cardTrackUid" : NumberInt(235), 
+    "assignedUserId" : ObjectId("58d617699546970e414042c5"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfcd8478f4044d6e992460"), 
+    "changerId" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "dateTime" : ISODate("2017-03-25T07:08:25.699+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d6182f9546970e4140430d"), 
+    "cardTrackUid" : NumberInt(236), 
+    "assignedUserId" : ObjectId("58d6182f9546970e41404302"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfcd4678f4044d6e992390"), 
+    "changerId" : ObjectId("58b4f476a5915e7eb8346b29"), 
+    "dateTime" : ISODate("2017-03-25T07:11:43.223+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d618629546970e4140439b"), 
+    "cardTrackUid" : NumberInt(237), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58cfcd4678f4044d6e992390"), 
+    "assignedUserId" : ObjectId("58d6182f9546970e41404302"), 
+    "dateTime" : ISODate("2017-03-25T07:12:34.193+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d618689546970e414043a9"), 
+    "cardTrackUid" : NumberInt(238), 
+    "assignedUserId" : ObjectId("58d618689546970e4140439d"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfcca778f4044d6e992338"), 
+    "changerId" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "dateTime" : ISODate("2017-03-25T07:12:40.138+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d61a609546970e414043e8"), 
+    "cardTrackUid" : NumberInt(239), 
+    "assignedUserId" : ObjectId("58d61a609546970e414043dd"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfcdc478f4044d6e99249f"), 
+    "changerId" : ObjectId("58d09fff78f4044d6e99868c"), 
+    "dateTime" : ISODate("2017-03-25T07:21:04.193+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d61b4a9546970e41404477"), 
+    "cardTrackUid" : NumberInt(240), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58cfcdc478f4044d6e99249f"), 
+    "assignedUserId" : ObjectId("58d61a609546970e414043dd"), 
+    "dateTime" : ISODate("2017-03-25T07:24:58.435+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d61c099546970e4140448a"), 
+    "cardTrackUid" : NumberInt(241), 
+    "assignedUserId" : ObjectId("58d61c099546970e4140447d"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfceb078f4044d6e992505"), 
+    "changerId" : ObjectId("58d0a17a78f4044d6e9986be"), 
+    "dateTime" : ISODate("2017-03-25T07:28:09.165+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d61d759546970e414044ce"), 
+    "cardTrackUid" : NumberInt(242), 
+    "assignedUserId" : ObjectId("58d61d759546970e414044c3"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfcd4678f4044d6e992390"), 
+    "changerId" : ObjectId("58b4f476a5915e7eb8346b29"), 
+    "dateTime" : ISODate("2017-03-25T07:34:13.587+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d61db89546970e4140455c"), 
+    "cardTrackUid" : NumberInt(243), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58cfcd4678f4044d6e992390"), 
+    "assignedUserId" : ObjectId("58d61d759546970e414044c3"), 
+    "dateTime" : ISODate("2017-03-25T07:35:20.192+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d626ac9546970e414048f2"), 
+    "cardTrackUid" : NumberInt(244), 
+    "assignedUserId" : ObjectId("58d626ac9546970e414048e7"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfcdc478f4044d6e99249f"), 
+    "changerId" : ObjectId("58d09fff78f4044d6e99868c"), 
+    "dateTime" : ISODate("2017-03-25T08:13:32.166+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d627939546970e41404986"), 
+    "cardTrackUid" : NumberInt(245), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58cfcdc478f4044d6e99249f"), 
+    "assignedUserId" : ObjectId("58d626ac9546970e414048e7"), 
+    "dateTime" : ISODate("2017-03-25T08:17:23.901+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d629009546970e41404999"), 
+    "cardTrackUid" : NumberInt(246), 
+    "assignedUserId" : ObjectId("58d628ff9546970e4140498e"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfcdc478f4044d6e99249f"), 
+    "changerId" : ObjectId("58d09fff78f4044d6e99868c"), 
+    "dateTime" : ISODate("2017-03-25T08:23:28.009+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d629869546970e41404a2c"), 
+    "cardTrackUid" : NumberInt(247), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58cfcdc478f4044d6e99249f"), 
+    "assignedUserId" : ObjectId("58d628ff9546970e4140498e"), 
+    "dateTime" : ISODate("2017-03-25T08:25:42.790+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d62fac9546970e41404aa2"), 
+    "cardTrackUid" : NumberInt(248), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58cfce7578f4044d6e9924b2"), 
+    "assignedUserId" : ObjectId("58d60f339546970e41403e40"), 
+    "dateTime" : ISODate("2017-03-25T08:51:56.989+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d630059546970e41404b02"), 
+    "cardTrackUid" : NumberInt(249), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58cfceb078f4044d6e992505"), 
+    "assignedUserId" : ObjectId("58d61c099546970e4140447d"), 
+    "dateTime" : ISODate("2017-03-25T08:53:25.874+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d633c49546970e41404e67"), 
+    "cardTrackUid" : NumberInt(250), 
+    "assignedUserId" : ObjectId("58d633c49546970e41404e5c"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfcdb078f4044d6e992462"), 
+    "changerId" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "dateTime" : ISODate("2017-03-25T09:09:24.774+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d633dc9546970e41404ea2"), 
+    "cardTrackUid" : NumberInt(251), 
+    "assignedUserId" : ObjectId("58d633dc9546970e41404e97"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfcdc478f4044d6e99249f"), 
+    "changerId" : ObjectId("58d09fff78f4044d6e99868c"), 
+    "dateTime" : ISODate("2017-03-25T09:09:48.139+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d634459546970e41404f30"), 
+    "cardTrackUid" : NumberInt(252), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58cfcdc478f4044d6e99249f"), 
+    "assignedUserId" : ObjectId("58d633dc9546970e41404e97"), 
+    "dateTime" : ISODate("2017-03-25T09:11:33.549+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d635c89546970e41404f40"), 
+    "cardTrackUid" : NumberInt(253), 
+    "assignedUserId" : ObjectId("58d635c89546970e41404f35"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfcdc478f4044d6e99249f"), 
+    "changerId" : ObjectId("58d09fff78f4044d6e99868c"), 
+    "dateTime" : ISODate("2017-03-25T09:18:00.709+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d6364c9546970e41404fcf"), 
+    "cardTrackUid" : NumberInt(254), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58cfcdc478f4044d6e99249f"), 
+    "assignedUserId" : ObjectId("58d635c89546970e41404f35"), 
+    "dateTime" : ISODate("2017-03-25T09:20:12.583+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d636f89546970e41404fdc"), 
+    "cardTrackUid" : NumberInt(255), 
+    "assignedUserId" : ObjectId("58d636f89546970e41404fd1"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfcdc478f4044d6e99249f"), 
+    "changerId" : ObjectId("58d09fff78f4044d6e99868c"), 
+    "dateTime" : ISODate("2017-03-25T09:23:04.748+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d637979546970e4140506a"), 
+    "cardTrackUid" : NumberInt(256), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58cfcdc478f4044d6e99249f"), 
+    "assignedUserId" : ObjectId("58d636f89546970e41404fd1"), 
+    "dateTime" : ISODate("2017-03-25T09:25:43.246+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d63aee9546970e414057f0"), 
+    "cardTrackUid" : NumberInt(257), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58cfccc878f4044d6e99233b"), 
+    "assignedUserId" : ObjectId("58d616909546970e4140428a"), 
+    "dateTime" : ISODate("2017-03-25T09:39:58.811+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d63b429546970e41405ad9"), 
+    "cardTrackUid" : NumberInt(258), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58cfcd8478f4044d6e992460"), 
+    "assignedUserId" : ObjectId("58d617699546970e414042c5"), 
+    "dateTime" : ISODate("2017-03-25T09:41:22.228+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d63b879546970e41405e77"), 
+    "cardTrackUid" : NumberInt(259), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58cfcca778f4044d6e992338"), 
+    "assignedUserId" : ObjectId("58d618689546970e4140439d"), 
+    "dateTime" : ISODate("2017-03-25T09:42:31.022+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d63c509546970e41405f3b"), 
+    "cardTrackUid" : NumberInt(260), 
+    "assignedUserId" : ObjectId("58d616909546970e4140428a"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfd00278f4044d6e99268b"), 
+    "changerId" : ObjectId("58b4f476a5915e7eb8346b29"), 
+    "dateTime" : ISODate("2017-03-25T09:45:52.184+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d63c909546970e4140602d"), 
+    "cardTrackUid" : NumberInt(261), 
+    "assignedUserId" : ObjectId("58d618689546970e4140439d"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfd01378f4044d6e99268d"), 
+    "changerId" : ObjectId("58b4f476a5915e7eb8346b29"), 
+    "dateTime" : ISODate("2017-03-25T09:46:56.534+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d63cd59546970e414060fd"), 
+    "cardTrackUid" : NumberInt(262), 
+    "assignedUserId" : ObjectId("58d617699546970e414042c5"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfd02578f4044d6e99268f"), 
+    "changerId" : ObjectId("58b4f476a5915e7eb8346b29"), 
+    "dateTime" : ISODate("2017-03-25T09:48:05.361+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d641b49546970e414084a5"), 
+    "cardTrackUid" : NumberInt(263), 
+    "assignedUserId" : ObjectId("58d641b49546970e4140849a"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfceb078f4044d6e992505"), 
+    "changerId" : ObjectId("58d0a17a78f4044d6e9986be"), 
+    "dateTime" : ISODate("2017-03-25T10:08:52.559+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d6437f9546970e414092ab"), 
+    "cardTrackUid" : NumberInt(264), 
+    "assignedUserId" : ObjectId("58d6437f9546970e414092a0"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfcd4678f4044d6e992390"), 
+    "changerId" : ObjectId("58b4f476a5915e7eb8346b29"), 
+    "dateTime" : ISODate("2017-03-25T10:16:31.703+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d645439546970e41409f0c"), 
+    "cardTrackUid" : NumberInt(265), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58cfcd4678f4044d6e992390"), 
+    "assignedUserId" : ObjectId("58d6437f9546970e414092a0"), 
+    "dateTime" : ISODate("2017-03-25T10:24:03.374+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d64a7d9546970e4140bc2c"), 
+    "cardTrackUid" : NumberInt(266), 
+    "assignedUserId" : ObjectId("58d64a7d9546970e4140bc20"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfcdc478f4044d6e99249f"), 
+    "changerId" : ObjectId("58d09fff78f4044d6e99868c"), 
+    "dateTime" : ISODate("2017-03-25T10:46:21.130+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d64ad69546970e4140bcf8"), 
+    "cardTrackUid" : NumberInt(267), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58cfcdc478f4044d6e99249f"), 
+    "assignedUserId" : ObjectId("58d64a7d9546970e4140bc20"), 
+    "dateTime" : ISODate("2017-03-25T10:47:50.255+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d64d2e9546970e4140bef2"), 
+    "cardTrackUid" : NumberInt(268), 
+    "assignedUserId" : ObjectId("58d64d2e9546970e4140bee7"), 
+    "preStatus" : NumberInt(1), 
+    "postStatus" : NumberInt(2), 
+    "cardId" : ObjectId("58cfcdc478f4044d6e99249f"), 
+    "changerId" : ObjectId("58d09fff78f4044d6e99868c"), 
+    "dateTime" : ISODate("2017-03-25T10:57:50.198+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d64d679546970e4140c0de"), 
+    "cardTrackUid" : NumberInt(269), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58cfcdc478f4044d6e99249f"), 
+    "assignedUserId" : ObjectId("58d64d2e9546970e4140bee7"), 
+    "dateTime" : ISODate("2017-03-25T10:58:47.483+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d659d89546970e4140efdf"), 
+    "cardTrackUid" : NumberInt(270), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58cfce8778f4044d6e9924b4"), 
+    "assignedUserId" : ObjectId("58d608499546970e41403b8b"), 
+    "dateTime" : ISODate("2017-03-25T11:51:52.963+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d65a299546970e4140f0e4"), 
+    "cardTrackUid" : NumberInt(271), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58cfceb078f4044d6e992505"), 
+    "assignedUserId" : ObjectId("58d641b49546970e4140849a"), 
+    "dateTime" : ISODate("2017-03-25T11:53:13.839+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d667d09546970e41411e4f"), 
+    "cardTrackUid" : NumberInt(272), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58cfcd3278f4044d6e99238e"), 
+    "assignedUserId" : ObjectId("58d6116b9546970e41403e89"), 
+    "dateTime" : ISODate("2017-03-25T12:51:28.490+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d6681c9546970e41412085"), 
+    "cardTrackUid" : NumberInt(273), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58cfcc8978f4044d6e992332"), 
+    "assignedUserId" : ObjectId("58d612019546970e41403ec8"), 
+    "dateTime" : ISODate("2017-03-25T12:52:44.714+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d668409546970e4141239b"), 
+    "cardTrackUid" : NumberInt(274), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58cfcdb078f4044d6e992462"), 
+    "assignedUserId" : ObjectId("58d633c49546970e41404e5c"), 
+    "dateTime" : ISODate("2017-03-25T12:53:20.560+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d672db9546970e41415dc6"), 
+    "cardTrackUid" : NumberInt(275), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58cfd00278f4044d6e99268b"), 
+    "assignedUserId" : ObjectId("58d616909546970e4140428a"), 
+    "dateTime" : ISODate("2017-03-25T13:38:35.517+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d673319546970e41416069"), 
+    "cardTrackUid" : NumberInt(276), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58cfd02578f4044d6e99268f"), 
+    "assignedUserId" : ObjectId("58d617699546970e414042c5"), 
+    "dateTime" : ISODate("2017-03-25T13:40:01.962+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d673709546970e41416399"), 
+    "cardTrackUid" : NumberInt(277), 
+    "preStatus" : NumberInt(2), 
+    "postStatus" : NumberInt(1), 
+    "cardId" : ObjectId("58cfd01378f4044d6e99268d"), 
+    "assignedUserId" : ObjectId("58d618689546970e4140439d"), 
+    "dateTime" : ISODate("2017-03-25T13:41:04.973+0000"), 
+    "cardUid" : "66f1eb8b-ad33-4bd3-b8b8-5500b8259a2c", 
+    "__v" : NumberInt(0)
+}

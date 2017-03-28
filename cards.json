@@ -1,356 +1,1464 @@
 { 
-    "_id" : ObjectId("584927aec31f7c020a0f6cf1"), 
-    "cardNumber" : NumberInt(4), 
-    "cardRFID" : "43B5AD5E00000000", 
-    "cardType" : NumberInt(0), 
-    "status" : NumberInt(0), 
-    "balance" : NumberInt(0), 
-    "__v" : NumberInt(0), 
-    "membershipId" : ObjectId("58492fdfc31f7c020a0f6e8d"), 
-    "assignedTo" : ObjectId("58492a7fc31f7c020a0f6e6e")
-}
-{ 
-    "_id" : ObjectId("584927d5c31f7c020a0f6cf2"), 
-    "cardNumber" : NumberInt(44), 
-    "cardRFID" : "E3F4AD5E00000000", 
-    "cardType" : NumberInt(0), 
-    "status" : NumberInt(0), 
-    "balance" : NumberInt(0), 
-    "__v" : NumberInt(0), 
-    "membershipId" : ObjectId("58492eaec31f7c020a0f6e88"), 
-    "assignedTo" : ObjectId("584930fcc31f7c020a0f6e9e")
-}
-{ 
-    "_id" : ObjectId("584927f6c31f7c020a0f6cf3"), 
-    "cardNumber" : NumberInt(48), 
-    "cardRFID" : "63F4AD5E00000000", 
-    "cardType" : NumberInt(0), 
-    "status" : NumberInt(0), 
-    "balance" : NumberInt(0), 
-    "__v" : NumberInt(0), 
-    "membershipId" : ObjectId("58492eecc31f7c020a0f6e89"), 
-    "assignedTo" : ObjectId("58493211c31f7c020a0f6ea6")
-}
-{ 
-    "_id" : ObjectId("584a90f02e7b846da3b0b14a"), 
-    "cardNumber" : NumberInt(54), 
-    "cardRFID" : "135FAE5E00000000", 
-    "cardType" : NumberInt(0), 
-    "status" : NumberInt(0), 
-    "balance" : NumberInt(0), 
-    "__v" : NumberInt(0), 
-    "membershipId" : ObjectId("58492f1fc31f7c020a0f6e8a"), 
-    "assignedTo" : ObjectId("584a8e4a2e7b846da3b0b131")
-}
-{ 
-    "_id" : ObjectId("584a9a632e7b846da3b0b2a5"), 
-    "cardNumber" : NumberInt(60), 
-    "cardRFID" : "B35FAE5E00000000", 
-    "cardType" : NumberInt(0), 
-    "status" : NumberInt(0), 
-    "balance" : NumberInt(0), 
-    "__v" : NumberInt(0), 
-    "membershipId" : ObjectId("58492f1fc31f7c020a0f6e8a"), 
-    "assignedTo" : ObjectId("584a98a72e7b846da3b0b28b")
-}
-{ 
-    "_id" : ObjectId("584a9a842e7b846da3b0b2a6"), 
-    "cardNumber" : NumberInt(55), 
-    "cardRFID" : "0360AE5E00000000", 
-    "cardType" : NumberInt(0), 
-    "status" : NumberInt(0), 
-    "balance" : NumberInt(0), 
-    "__v" : NumberInt(0), 
-    "membershipId" : ObjectId("58492f1fc31f7c020a0f6e8a"), 
-    "assignedTo" : ObjectId("584a9bbd2e7b846da3b0b37f")
-}
-{ 
-    "_id" : ObjectId("584a9d882e7b846da3b0b39d"), 
-    "cardNumber" : NumberInt(51), 
-    "cardRFID" : "235FAE5E00000000", 
-    "cardType" : NumberInt(0), 
-    "status" : NumberInt(0), 
-    "balance" : NumberInt(0), 
-    "__v" : NumberInt(0), 
-    "membershipId" : ObjectId("58492f1fc31f7c020a0f6e8a"), 
-    "assignedTo" : ObjectId("584a9d482e7b846da3b0b397")
-}
-{ 
-    "_id" : ObjectId("584fcad59fd6a10dc7314482"), 
-    "cardNumber" : NumberInt(56), 
-    "cardRFID" : "F35FAE5E00000000", 
-    "cardType" : NumberInt(0), 
-    "status" : NumberInt(0), 
-    "balance" : NumberInt(0), 
-    "__v" : NumberInt(0), 
-    "membershipId" : ObjectId("58492eecc31f7c020a0f6e89"), 
-    "assignedTo" : ObjectId("584fca609fd6a10dc7314410")
-}
-{ 
-    "_id" : ObjectId("5850ee3a3bbb1512b286f3c1"), 
-    "cardNumber" : NumberInt(18), 
-    "cardRFID" : "63B5AD5E00000000", 
-    "cardType" : NumberInt(0), 
-    "status" : NumberInt(0), 
-    "balance" : NumberInt(0), 
-    "__v" : NumberInt(0), 
-    "membershipId" : ObjectId("58492fdfc31f7c020a0f6e8d"), 
-    "assignedTo" : ObjectId("584fe9c84234e367013c03bf")
-}
-{ 
-    "_id" : ObjectId("5850f47b3bbb1512b286f516"), 
-    "cardNumber" : NumberInt(19), 
-    "cardRFID" : "E3B5AD5E00000000", 
-    "cardType" : NumberInt(0), 
-    "status" : NumberInt(0), 
-    "balance" : NumberInt(0), 
-    "__v" : NumberInt(0), 
-    "membershipId" : ObjectId("58492fdfc31f7c020a0f6e8d"), 
-    "assignedTo" : ObjectId("5850e461a7e0730688ea8fa8")
-}
-{ 
-    "_id" : ObjectId("585110233bbb1512b286f7cc"), 
-    "cardNumber" : NumberInt(58), 
-    "cardRFID" : "1360AE5E00000000", 
-    "cardType" : NumberInt(0), 
-    "status" : NumberInt(0), 
-    "balance" : NumberInt(0), 
-    "__v" : NumberInt(0), 
-    "membershipId" : ObjectId("58492fdfc31f7c020a0f6e8d"), 
-    "assignedTo" : ObjectId("5850e17fa7e0730688ea8f0f")
-}
-{ 
-    "_id" : ObjectId("585110853bbb1512b286f7ff"), 
-    "cardNumber" : NumberInt(53), 
-    "cardRFID" : "635FAE5E00000000", 
-    "cardType" : NumberInt(0), 
-    "status" : NumberInt(0), 
-    "balance" : NumberInt(0), 
-    "__v" : NumberInt(0), 
-    "membershipId" : ObjectId("58492f1fc31f7c020a0f6e8a"), 
-    "assignedTo" : ObjectId("5850e17fa7e0730688ea8f12")
-}
-{ 
-    "_id" : ObjectId("585129593bbb1512b28704d4"), 
-    "cardNumber" : NumberInt(5), 
-    "cardRFID" : "E3B4AD5E00000000", 
-    "cardType" : NumberInt(0), 
-    "status" : NumberInt(0), 
-    "balance" : NumberInt(0), 
-    "__v" : NumberInt(0), 
-    "membershipId" : ObjectId("58492fdfc31f7c020a0f6e8d"), 
-    "assignedTo" : ObjectId("584faed99fd6a10dc73142de")
-}
-{ 
-    "_id" : ObjectId("58512cdcce292302627f40c7"), 
-    "cardNumber" : NumberInt(42), 
-    "cardRFID" : "03F5AD5E00000000", 
-    "cardType" : NumberInt(0), 
-    "status" : NumberInt(0), 
-    "balance" : NumberInt(0), 
-    "__v" : NumberInt(0), 
-    "assignedTo" : ObjectId("585cb9bd5ee5653023d60c9b")
-}
-{ 
-    "_id" : ObjectId("58512cffce292302627f40c8"), 
-    "cardNumber" : NumberInt(2), 
-    "cardRFID" : "ABCD098745632100", 
-    "cardType" : NumberInt(0), 
-    "status" : NumberInt(-1), 
-    "balance" : NumberInt(0), 
-    "__v" : NumberInt(0)
-}
-{ 
-    "_id" : ObjectId("58512d59ce292302627f40ca"), 
-    "cardNumber" : NumberInt(45), 
-    "cardRFID" : "F3F4AD5E00000000", 
-    "cardType" : NumberInt(0), 
-    "status" : NumberInt(0), 
-    "balance" : NumberInt(0), 
-    "__v" : NumberInt(0), 
-    "assignedTo" : ObjectId("58512fd7ce292302627f40e8")
-}
-{ 
-    "_id" : ObjectId("585133ccce292302627f48cc"), 
-    "cardNumber" : NumberInt(20), 
-    "cardRFID" : "93B5AD5E00000000", 
-    "cardType" : NumberInt(0), 
-    "status" : NumberInt(0), 
-    "balance" : NumberInt(0), 
-    "__v" : NumberInt(0), 
-    "membershipId" : ObjectId("58492f1fc31f7c020a0f6e8a"), 
-    "assignedTo" : ObjectId("584a9e552e7b846da3b0b3c1")
-}
-{ 
-    "_id" : ObjectId("5854c6145cf63b204505ec59"), 
-    "cardNumber" : NumberInt(123456), 
-    "cardRFID" : "12345", 
-    "cardType" : NumberInt(0), 
-    "status" : NumberInt(-1), 
-    "balance" : NumberInt(0), 
-    "__v" : NumberInt(0)
-}
-{ 
-    "_id" : ObjectId("5854dd535cf63b204505f786"), 
-    "cardNumber" : NumberInt(14), 
-    "cardRFID" : "B3B5AD5E00000000", 
-    "cardType" : NumberInt(0), 
-    "status" : NumberInt(0), 
-    "balance" : NumberInt(0), 
-    "__v" : NumberInt(0), 
-    "membershipId" : ObjectId("58492fdfc31f7c020a0f6e8d"), 
-    "assignedTo" : ObjectId("5854def25cf63b204505f8c7")
-}
-{ 
-    "_id" : ObjectId("5854ec415cf63b204505fd15"), 
-    "cardNumber" : NumberInt(59), 
-    "cardRFID" : "E35FAE5E0000000", 
-    "cardType" : NumberInt(0), 
-    "status" : NumberInt(-1), 
-    "balance" : NumberInt(0), 
-    "__v" : NumberInt(0)
-}
-{ 
-    "_id" : ObjectId("5854ec655cf63b204505fd16"), 
-    "cardNumber" : NumberInt(39), 
-    "cardRFID" : "13F5AD5E00000000", 
-    "cardType" : NumberInt(0), 
-    "status" : NumberInt(-1), 
-    "balance" : NumberInt(0), 
-    "__v" : NumberInt(0)
-}
-{ 
-    "_id" : ObjectId("5854ec8a5cf63b204505fd17"), 
-    "cardNumber" : NumberInt(52), 
-    "cardRFID" : "735FAE5E00000000", 
-    "cardType" : NumberInt(0), 
-    "status" : NumberInt(-1), 
-    "balance" : NumberInt(0), 
-    "__v" : NumberInt(0)
-}
-{ 
-    "_id" : ObjectId("5854eca45cf63b204505fd18"), 
+    "_id" : ObjectId("58a1782136634c580e5ebc25"), 
     "cardNumber" : NumberInt(40), 
     "cardRFID" : "A3F4AD5E00000000", 
-    "cardType" : NumberInt(0), 
-    "status" : NumberInt(-1), 
+    "cardType" : "", 
+    "status" : NumberInt(1), 
     "balance" : NumberInt(0), 
-    "__v" : NumberInt(0)
+    "__v" : NumberInt(0), 
+    "cardUid" : NumberInt(1), 
+    "assignedTo" : ObjectId("58b3a65c5109ae34395da0b7")
 }
 { 
-    "_id" : ObjectId("5854ecf15cf63b204505fd19"), 
-    "cardNumber" : NumberInt(15), 
-    "cardRFID" : "53B5AD5E00000000", 
-    "cardType" : NumberInt(0), 
-    "status" : NumberInt(-1), 
-    "balance" : NumberInt(0), 
-    "__v" : NumberInt(0)
+    "_id" : ObjectId("58a1784c36634c580e5ebc26"), 
+    "cardNumber" : NumberInt(43), 
+    "cardRFID" : "93F4AD5E00000000", 
+    "cardType" : NumberInt(1), 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(1000), 
+    "__v" : NumberInt(0), 
+    "cardUid" : NumberInt(2), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58bf8cabfe51870493112c33"), 
+    "issuedBy" : ObjectId("58bf89ddfe51870493112458"), 
+    "issuedDate" : ISODate("2017-03-08T04:46:35.371+0000")
 }
 { 
-    "_id" : ObjectId("58550742d2ad2a361b12b1a3"), 
+    "_id" : ObjectId("58a1787f36634c580e5ebc4a"), 
+    "cardNumber" : NumberInt(49), 
+    "cardRFID" : "835FAE5E00000000", 
+    "cardType" : NumberInt(1), 
+    "__v" : NumberInt(0), 
+    "balance" : NumberInt(50), 
+    "status" : NumberInt(2), 
+    "cardUid" : NumberInt(3), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58bfcb1790926c45902f4cb2"), 
+    "issuedDate" : ISODate("2017-03-08T09:12:55.969+0000")
+}
+{ 
+    "_id" : ObjectId("58a178b336634c580e5ebc4c"), 
+    "cardNumber" : NumberInt(50), 
+    "cardRFID" : "535FAE5E00000000", 
+    "cardType" : NumberInt(1), 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(990), 
+    "__v" : NumberInt(0), 
+    "cardUid" : NumberInt(4), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58b4ea5ba5915e7eb83468b1"), 
+    "issuedDate" : ISODate("2017-02-28T03:11:23.061+0000")
+}
+{ 
+    "_id" : ObjectId("58a25b8de23b21178e942286"), 
     "cardNumber" : NumberInt(83), 
     "cardRFID" : "0304AE5E00000000", 
-    "cardType" : NumberInt(0), 
-    "status" : NumberInt(0), 
-    "balance" : NumberInt(0), 
+    "cardType" : "", 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(1000), 
     "__v" : NumberInt(0), 
-    "membershipId" : ObjectId("58492eecc31f7c020a0f6e89"), 
-    "assignedTo" : ObjectId("584fcb059fd6a10dc7314497")
+    "cardUid" : NumberInt(5), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58b4e861a5915e7eb83466cc"), 
+    "issuedDate" : ISODate("2017-02-28T03:02:57.484+0000")
 }
 { 
-    "_id" : ObjectId("58550791d2ad2a361b12b1ca"), 
-    "cardNumber" : NumberInt(90), 
-    "cardRFID" : "7304AE5E00000000", 
-    "cardType" : NumberInt(0), 
-    "status" : NumberInt(0), 
-    "balance" : NumberInt(0), 
+    "_id" : ObjectId("58a25ba6e23b21178e942288"), 
+    "cardNumber" : NumberInt(98), 
+    "cardRFID" : "43DD8C6C00000000", 
+    "cardType" : NumberInt(1), 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(1), 
     "__v" : NumberInt(0), 
-    "membershipId" : ObjectId("58492eecc31f7c020a0f6e89"), 
-    "assignedTo" : ObjectId("584fbdfd9fd6a10dc73142f2")
+    "cardUid" : NumberInt(6), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58c1087c62e5875c9d9dd030"), 
+    "issuedBy" : null, 
+    "issuedDate" : ISODate("2017-03-09T08:04:46.708+0000")
 }
 { 
-    "_id" : ObjectId("58550845d2ad2a361b12b216"), 
-    "cardNumber" : NumberInt(84), 
-    "cardRFID" : "D303AE5E00000000", 
-    "cardType" : NumberInt(0), 
-    "status" : NumberInt(-1), 
+    "_id" : ObjectId("58a25dae7c6d496d9e103715"), 
+    "cardNumber" : NumberInt(86), 
+    "cardRFID" : "F303AE5E00000000", 
+    "cardType" : "1", 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "cardUid" : NumberInt(7), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58c92e7e9d29910e85bb1130"), 
+    "issuedDate" : ISODate("2017-03-15T12:07:27.056+0000")
+}
+{ 
+    "_id" : ObjectId("58a27d0df14a121cffcf58d4"), 
+    "cardNumber" : NumberInt(3), 
+    "cardRFID" : "43B4AD5E00000000", 
+    "cardType" : NumberInt(1), 
+    "status" : NumberInt(1), 
+    "balance" : NumberInt(0), 
+    "__v" : NumberInt(0), 
+    "cardUid" : NumberInt(8), 
+    "assignedTo" : ObjectId("58ba49782a29d16bf8a31b69")
+}
+{ 
+    "_id" : ObjectId("58a27d74f14a121cffcf58d5"), 
+    "cardNumber" : NumberInt(61), 
+    "cardRFID" : "2360AE5E00000000", 
+    "cardType" : NumberInt(1), 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(990), 
+    "__v" : NumberInt(0), 
+    "cardUid" : NumberInt(9), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58b4e901a5915e7eb834676a"), 
+    "issuedDate" : ISODate("2017-02-28T03:05:37.775+0000")
+}
+{ 
+    "_id" : ObjectId("58a27da4f14a121cffcf58d6"), 
+    "cardNumber" : NumberInt(64), 
+    "cardRFID" : "B360AE5E00000000", 
+    "cardType" : NumberInt(1), 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(990), 
+    "__v" : NumberInt(0), 
+    "cardUid" : NumberInt(10), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58b4e786a5915e7eb834651d"), 
+    "issuedDate" : ISODate("2017-02-28T02:59:18.769+0000")
+}
+{ 
+    "_id" : ObjectId("58a27dd4f14a121cffcf58d7"), 
+    "cardNumber" : NumberInt(48), 
+    "cardRFID" : "63F4AD5E00000000", 
+    "cardType" : NumberInt(1), 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "cardUid" : NumberInt(11), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58c2337bbb81aa11bc88df40"), 
+    "issuedBy" : null, 
+    "issuedDate" : ISODate("2017-03-10T10:23:00.544+0000")
+}
+{ 
+    "_id" : ObjectId("58a27e06f14a121cffcf58d8"), 
+    "cardNumber" : NumberInt(37), 
+    "cardRFID" : "B3F4AD5E00000000", 
+    "cardType" : NumberInt(1), 
+    "status" : NumberInt(1), 
+    "balance" : NumberInt(0), 
+    "__v" : NumberInt(0), 
+    "cardUid" : NumberInt(12), 
+    "assignedTo" : ObjectId("58b3a7785109ae34395da0d1")
+}
+{ 
+    "_id" : ObjectId("58a27e2ef14a121cffcf58d9"), 
+    "cardNumber" : NumberInt(10), 
+    "cardRFID" : "23B5AD5E00000000", 
+    "cardType" : NumberInt(1), 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(1000), 
+    "__v" : NumberInt(0), 
+    "cardUid" : NumberInt(13), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58b4e98fa5915e7eb8346893"), 
+    "issuedDate" : ISODate("2017-02-28T03:07:59.633+0000")
+}
+{ 
+    "_id" : ObjectId("58a27e53f14a121cffcf58da"), 
+    "cardNumber" : NumberInt(58), 
+    "cardRFID" : "1360AE5E00000000", 
+    "cardType" : NumberInt(1), 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "cardUid" : NumberInt(14), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58c153fdbb81aa11bc887cce"), 
+    "issuedBy" : ObjectId("58a175be36634c580e5ebc0e"), 
+    "issuedDate" : ISODate("2017-03-09T13:09:17.898+0000")
+}
+{ 
+    "_id" : ObjectId("58a27eabf14a121cffcf58db"), 
+    "cardNumber" : NumberInt(12), 
+    "cardRFID" : "B3B4AD5E00000000", 
+    "cardType" : NumberInt(1), 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "cardUid" : NumberInt(15), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58c0068521583a1b9ce006b3"), 
+    "issuedBy" : null, 
+    "issuedDate" : ISODate("2017-03-10T13:07:24.746+0000")
+}
+{ 
+    "_id" : ObjectId("58a2d20828c63875cd3a2779"), 
+    "cardNumber" : NumberInt(4), 
+    "cardRFID" : "43B5AD5E00000000", 
+    "cardType" : NumberInt(1), 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "cardUid" : NumberInt(16), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58ca710a4a9e820ccd191c5e"), 
+    "issuedBy" : null, 
+    "issuedDate" : ISODate("2017-03-17T07:06:19.773+0000")
+}
+{ 
+    "_id" : ObjectId("58a3c45a29095f06c6c12b73"), 
+    "cardUid" : NumberInt(17), 
+    "cardNumber" : NumberInt(44), 
+    "cardRFID" : "E3F4AD5E00000000", 
+    "cardType" : NumberInt(1), 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58cbd4f123e2760e8d71a279"), 
+    "issuedBy" : ObjectId("58bf89ddfe51870493112458"), 
+    "issuedDate" : ISODate("2017-03-17T12:22:09.975+0000")
+}
+{ 
+    "_id" : ObjectId("58a3c48729095f06c6c12b80"), 
+    "cardUid" : NumberInt(18), 
+    "cardNumber" : NumberInt(54), 
+    "cardRFID" : "135FAE5E00000000", 
+    "cardType" : NumberInt(1), 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(990), 
+    "__v" : NumberInt(0), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58bceb08d4a17f08f0e101a9"), 
+    "issuedDate" : ISODate("2017-03-06T04:58:30.163+0000")
+}
+{ 
+    "_id" : ObjectId("58a3c7f0033e5c14af0cbe41"), 
+    "cardUid" : NumberInt(19), 
+    "cardNumber" : NumberInt(24), 
+    "cardRFID" : "23B6AD5E00000000", 
+    "cardType" : NumberInt(1), 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58d5df819546970e41402133"), 
+    "issuedBy" : ObjectId("58b4f476a5915e7eb8346b29"), 
+    "issuedDate" : ISODate("2017-03-25T03:13:07.398+0000")
+}
+{ 
+    "_id" : ObjectId("58a40434ba83b61db450dbbb"), 
+    "cardUid" : NumberInt(20), 
+    "cardNumber" : NumberInt(89), 
+    "cardRFID" : "8304AE5E00000000", 
+    "cardType" : "1", 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(990), 
+    "__v" : NumberInt(0), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58bcecce4a248009da0b00de"), 
+    "issuedDate" : ISODate("2017-03-06T05:01:18.117+0000")
+}
+{ 
+    "_id" : ObjectId("58a43416c10faa118975045f"), 
+    "cardUid" : NumberInt(21), 
+    "cardNumber" : NumberInt(66), 
+    "cardRFID" : "5360AE5E00000000", 
+    "cardType" : "1", 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58c3ab376011e669360d8aea"), 
+    "issuedBy" : ObjectId("58a175be36634c580e5ebc0e"), 
+    "issuedDate" : ISODate("2017-03-11T07:45:59.724+0000")
+}
+{ 
+    "_id" : ObjectId("58a4342dc10faa1189750691"), 
+    "cardUid" : NumberInt(22), 
+    "cardNumber" : NumberInt(67), 
+    "cardRFID" : "A360AE5E00000000", 
+    "cardType" : NumberInt(1), 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58cf746ba2fb4258a316d3e3"), 
+    "issuedBy" : null, 
+    "issuedDate" : ISODate("2017-03-20T06:20:29.730+0000")
+}
+{ 
+    "_id" : ObjectId("58a43440c10faa1189750844"), 
+    "cardUid" : NumberInt(23), 
+    "cardNumber" : NumberInt(68), 
+    "cardRFID" : "7360AE5E00000000", 
+    "cardType" : NumberInt(1), 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58cf8adfa2fb4258a316dac7"), 
+    "issuedDate" : ISODate("2017-03-20T07:55:11.207+0000")
+}
+{ 
+    "_id" : ObjectId("58a43451c10faa11897509e6"), 
+    "cardUid" : NumberInt(24), 
+    "cardNumber" : NumberInt(70), 
+    "cardRFID" : "9360AE5E00000000", 
+    "cardType" : "1", 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58cf8e14a2fb4258a316db4a"), 
+    "issuedDate" : ISODate("2017-03-20T08:08:52.503+0000")
+}
+{ 
+    "_id" : ObjectId("58a43473c10faa1189750d24"), 
+    "cardUid" : NumberInt(25), 
+    "cardNumber" : NumberInt(71), 
+    "cardRFID" : "8360AE5E00000000", 
+    "cardType" : NumberInt(1), 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58cf8fd7a2fb4258a316de76"), 
+    "issuedBy" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "issuedDate" : ISODate("2017-03-20T08:16:23.656+0000")
+}
+{ 
+    "_id" : ObjectId("58a4348cc10faa1189750f90"), 
+    "cardUid" : NumberInt(26), 
+    "cardNumber" : NumberInt(72), 
+    "cardRFID" : "3360AE5E00000000", 
+    "cardType" : NumberInt(1), 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58cf907da2fb4258a316deb1"), 
+    "issuedBy" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "issuedDate" : ISODate("2017-03-20T08:19:10.150+0000")
+}
+{ 
+    "_id" : ObjectId("58a434bfc10faa1189751446"), 
+    "cardUid" : NumberInt(27), 
+    "cardNumber" : NumberInt(73), 
+    "cardRFID" : "A303AE5E00000000", 
+    "cardType" : NumberInt(1), 
+    "status" : NumberInt(1), 
     "balance" : NumberInt(0), 
     "__v" : NumberInt(0)
 }
 { 
-    "_id" : ObjectId("58550897d2ad2a361b12b23c"), 
+    "_id" : ObjectId("58a434cbc10faa118975154b"), 
+    "cardUid" : NumberInt(28), 
+    "cardNumber" : NumberInt(74), 
+    "cardRFID" : "7303AE5E00000000", 
+    "cardType" : NumberInt(1), 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58cf9667c785be065ad76bd1"), 
+    "issuedBy" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "issuedDate" : ISODate("2017-03-20T08:46:05.317+0000")
+}
+{ 
+    "_id" : ObjectId("58a434d6c10faa1189751670"), 
+    "cardUid" : NumberInt(29), 
+    "cardNumber" : NumberInt(75), 
+    "cardRFID" : "4303AE5E00000000", 
+    "cardType" : NumberInt(1), 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58cf9578c785be065ad76b39"), 
+    "issuedBy" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "issuedDate" : ISODate("2017-03-20T08:41:24.657+0000")
+}
+{ 
+    "_id" : ObjectId("58a5276630b0bd736a9c0ccb"), 
+    "cardUid" : NumberInt(30), 
+    "cardNumber" : NumberInt(42), 
+    "cardRFID" : "03F5AD5E00000000", 
+    "cardType" : NumberInt(1), 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58c93bd89d29910e85bb14bf"), 
+    "issuedDate" : ISODate("2017-03-15T13:04:24.838+0000")
+}
+{ 
+    "_id" : ObjectId("58b4e6d0a5915e7eb8346506"), 
+    "cardUid" : NumberInt(31), 
+    "cardNumber" : NumberInt(18), 
+    "cardRFID" : "63B5AD5E00000000", 
+    "cardType" : "1", 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(990), 
+    "__v" : NumberInt(0), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58b4e6dba5915e7eb8346507"), 
+    "issuedDate" : ISODate("2017-02-28T02:56:27.355+0000")
+}
+{ 
+    "_id" : ObjectId("58b4f79c96e33160ae2a2729"), 
+    "cardUid" : NumberInt(32), 
+    "cardNumber" : NumberInt(53), 
+    "cardRFID" : "635FAE5E00000000", 
+    "cardType" : "2", 
+    "status" : NumberInt(1), 
+    "balance" : NumberInt(0), 
+    "__v" : NumberInt(0), 
+    "assignedTo" : ObjectId("58b4f74096e33160ae2a2583")
+}
+{ 
+    "_id" : ObjectId("58ba46486ba5547484abd3ce"), 
+    "cardUid" : NumberInt(33), 
+    "cardNumber" : NumberInt(35), 
+    "cardRFID" : "E306AE5E00000000", 
+    "cardType" : "1", 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(485), 
+    "__v" : NumberInt(0), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58b3b1185109ae34395da3d5"), 
+    "issuedDate" : ISODate("2017-03-04T04:55:54.752+0000")
+}
+{ 
+    "_id" : ObjectId("58ba46756ba5547484abd40c"), 
+    "cardUid" : NumberInt(34), 
     "cardNumber" : NumberInt(85), 
     "cardRFID" : "4304AE5E00000000", 
-    "cardType" : NumberInt(0), 
-    "status" : NumberInt(0), 
-    "balance" : NumberInt(0), 
+    "cardType" : "1", 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(235), 
     "__v" : NumberInt(0), 
-    "membershipId" : ObjectId("58492eaec31f7c020a0f6e88"), 
-    "assignedTo" : ObjectId("5857b2b56700d92cfe7bae60")
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58b3c3f19b0ca34d1be52ab3"), 
+    "issuedDate" : ISODate("2017-03-04T05:08:37.624+0000")
 }
 { 
-    "_id" : ObjectId("58550a07d2ad2a361b12b5a9"), 
-    "cardNumber" : NumberInt(86), 
-    "cardRFID" : "F303AE5E00000000", 
-    "cardType" : NumberInt(0), 
-    "status" : NumberInt(0), 
-    "balance" : NumberInt(0), 
+    "_id" : ObjectId("58bcf0894a248009da0b013e"), 
+    "cardUid" : NumberInt(35), 
+    "cardNumber" : NumberInt(19), 
+    "cardRFID" : "E3B5AD5E00000000", 
+    "cardType" : "1", 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(990), 
     "__v" : NumberInt(0), 
-    "membershipId" : ObjectId("58492eaec31f7c020a0f6e88"), 
-    "assignedTo" : ObjectId("58590350fae4215e299f5174")
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58bcf1e44a248009da0b0152"), 
+    "issuedDate" : ISODate("2017-03-06T05:24:53.874+0000")
 }
 { 
-    "_id" : ObjectId("58550a44d2ad2a361b12b605"), 
-    "cardNumber" : NumberInt(87), 
-    "cardRFID" : "E303AE5E00000000", 
-    "cardType" : NumberInt(0), 
-    "status" : NumberInt(0), 
-    "balance" : NumberInt(0), 
+    "_id" : ObjectId("58bcf0b54a248009da0b0140"), 
+    "cardUid" : NumberInt(36), 
+    "cardNumber" : NumberInt(56), 
+    "cardRFID" : "F35FAE5E00000000", 
+    "cardType" : "1", 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(990), 
     "__v" : NumberInt(0), 
-    "membershipId" : ObjectId("58492eaec31f7c020a0f6e88"), 
-    "assignedTo" : ObjectId("58551070d2ad2a361b12badc")
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58b675004a35a631f40edbe7"), 
+    "issuedDate" : ISODate("2017-03-06T05:28:17.088+0000")
 }
 { 
-    "_id" : ObjectId("58550a93d2ad2a361b12b63a"), 
-    "cardNumber" : NumberInt(89), 
-    "cardRFID" : "8304AE5E00000000", 
-    "cardType" : NumberInt(0), 
-    "status" : NumberInt(0), 
-    "balance" : NumberInt(0), 
+    "_id" : ObjectId("58bcf0d34a248009da0b0141"), 
+    "cardUid" : NumberInt(37), 
+    "cardNumber" : NumberInt(51), 
+    "cardRFID" : "235FAE5E00000000", 
+    "cardType" : "1", 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(990), 
     "__v" : NumberInt(0), 
-    "membershipId" : ObjectId("58492f1fc31f7c020a0f6e8a"), 
-    "assignedTo" : ObjectId("58550b97d2ad2a361b12b723")
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58a17fe536634c580e5ebf48"), 
+    "issuedDate" : ISODate("2017-03-06T05:29:28.779+0000")
 }
 { 
-    "_id" : ObjectId("58550adfd2ad2a361b12b66b"), 
-    "cardNumber" : NumberInt(28), 
-    "cardRFID" : "23F5AD5E00000000", 
-    "cardType" : NumberInt(0), 
-    "status" : NumberInt(0), 
-    "balance" : NumberInt(0), 
+    "_id" : ObjectId("58bcf1134a248009da0b0142"), 
+    "cardUid" : NumberInt(38), 
+    "cardNumber" : NumberInt(33), 
+    "cardRFID" : "A306AE5E00000000", 
+    "cardType" : "1", 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(750), 
     "__v" : NumberInt(0), 
-    "membershipId" : ObjectId("58492eecc31f7c020a0f6e89"), 
-    "assignedTo" : ObjectId("58550acad2ad2a361b12b643")
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58b81dd36ba5547484abb538"), 
+    "issuedDate" : ISODate("2017-03-06T05:29:10.085+0000")
 }
 { 
-    "_id" : ObjectId("58552913d2ad2a361b12c32f"), 
-    "cardNumber" : NumberInt(57), 
-    "cardRFID" : "A35FAE5E00000000", 
-    "cardType" : NumberInt(0), 
-    "status" : NumberInt(0), 
-    "balance" : NumberInt(0), 
+    "_id" : ObjectId("58be47cd7b371c3103f255c8"), 
+    "cardUid" : NumberInt(39), 
+    "cardNumber" : NumberInt(22), 
+    "cardRFID" : "83B6AD5E00000000", 
+    "cardType" : "1", 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
     "__v" : NumberInt(0), 
-    "membershipId" : ObjectId("58492eaec31f7c020a0f6e88"), 
-    "assignedTo" : ObjectId("585136fbce292302627f4fda")
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58cf9cf6c785be065ad76e23"), 
+    "issuedBy" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "issuedDate" : ISODate("2017-03-20T09:12:57.459+0000")
 }
 { 
-    "_id" : ObjectId("585a766ed36b4c0ccac1478d"), 
-    "cardNumber" : NumberInt(21), 
-    "cardRFID" : "73B5AD5E00000000", 
-    "cardType" : NumberInt(0), 
-    "status" : NumberInt(0), 
-    "balance" : NumberInt(0), 
+    "_id" : ObjectId("58c8efedc85459363a02f2c2"), 
+    "cardUid" : NumberInt(40), 
+    "cardNumber" : NumberInt(100), 
+    "cardRFID" : "53B5AD5E00000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "Casual Member", 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
     "__v" : NumberInt(0), 
-    "membershipId" : ObjectId("58492fdfc31f7c020a0f6e8d"), 
-    "assignedTo" : ObjectId("585a7577d36b4c0ccac14740")
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58c90a95c85459363a02fff1"), 
+    "issuedBy" : null, 
+    "issuedDate" : ISODate("2017-03-15T09:58:59.483+0000")
+}
+{ 
+    "_id" : ObjectId("58cfcc8978f4044d6e992332"), 
+    "cardUid" : NumberInt(41), 
+    "cardNumber" : NumberInt(306), 
+    "cardRFID" : "7BDFA6B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(1), 
+    "balance" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cfcca778f4044d6e992338"), 
+    "cardUid" : NumberInt(42), 
+    "cardNumber" : NumberInt(307), 
+    "cardRFID" : "6B97A7B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(1), 
+    "balance" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cfccc878f4044d6e99233b"), 
+    "cardUid" : NumberInt(43), 
+    "cardNumber" : NumberInt(308), 
+    "cardRFID" : "8B5CA7B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(1), 
+    "balance" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cfcd3278f4044d6e99238e"), 
+    "cardUid" : NumberInt(44), 
+    "cardNumber" : NumberInt(301), 
+    "cardRFID" : "4B26A7B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(1), 
+    "balance" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cfcd4678f4044d6e992390"), 
+    "cardUid" : NumberInt(45), 
+    "cardNumber" : NumberInt(302), 
+    "cardRFID" : "4BF8A6B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(1), 
+    "balance" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cfcd5678f4044d6e992393"), 
+    "cardUid" : NumberInt(46), 
+    "cardNumber" : NumberInt(303), 
+    "cardRFID" : "CBD2A6B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(1), 
+    "balance" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cfcd8478f4044d6e992460"), 
+    "cardUid" : NumberInt(47), 
+    "cardNumber" : NumberInt(305), 
+    "cardRFID" : "FBEBA6B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(1), 
+    "balance" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cfcdb078f4044d6e992462"), 
+    "cardUid" : NumberInt(48), 
+    "cardNumber" : NumberInt(304), 
+    "cardRFID" : "8BD5A0B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(1), 
+    "balance" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cfcdc478f4044d6e99249f"), 
+    "cardUid" : NumberInt(49), 
+    "cardNumber" : NumberInt(309), 
+    "cardRFID" : "0B52A7B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(1), 
+    "balance" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cfcdd578f4044d6e9924a1"), 
+    "cardUid" : NumberInt(50), 
+    "cardNumber" : NumberInt(310), 
+    "cardRFID" : "2B8EA7B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58d0d5029838911e9fa0348c"), 
+    "issuedBy" : ObjectId("58d0a24478f4044d6e9986f0"), 
+    "issuedDate" : ISODate("2017-03-21T07:23:46.248+0000")
+}
+{ 
+    "_id" : ObjectId("58cfcdf078f4044d6e9924a3"), 
+    "cardUid" : NumberInt(51), 
+    "cardNumber" : NumberInt(311), 
+    "cardRFID" : "0B71A7B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58d4b5f3a6a2163acca39c4e"), 
+    "issuedBy" : ObjectId("58d0a24478f4044d6e9986f0"), 
+    "issuedDate" : ISODate("2017-03-24T06:03:34.799+0000")
+}
+{ 
+    "_id" : ObjectId("58cfce0278f4044d6e9924a5"), 
+    "cardUid" : NumberInt(52), 
+    "cardNumber" : NumberInt(312), 
+    "cardRFID" : "6B47A7B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58d4eb4243deec647d596d47"), 
+    "issuedBy" : ObjectId("58d0a24478f4044d6e9986f0"), 
+    "issuedDate" : ISODate("2017-03-24T09:50:11.246+0000")
+}
+{ 
+    "_id" : ObjectId("58cfce1278f4044d6e9924a7"), 
+    "cardUid" : NumberInt(53), 
+    "cardNumber" : NumberInt(313), 
+    "cardRFID" : "2BD6A1B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(1), 
+    "balance" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cfce2578f4044d6e9924a9"), 
+    "cardUid" : NumberInt(54), 
+    "cardNumber" : NumberInt(314), 
+    "cardRFID" : "BB9FA1B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(1), 
+    "balance" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cfce3578f4044d6e9924ab"), 
+    "cardUid" : NumberInt(55), 
+    "cardNumber" : NumberInt(315), 
+    "cardRFID" : "0B69A1B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(1), 
+    "balance" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cfce4a78f4044d6e9924ae"), 
+    "cardUid" : NumberInt(56), 
+    "cardNumber" : NumberInt(316), 
+    "cardRFID" : "0BC4A1B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(1), 
+    "balance" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cfce5e78f4044d6e9924b0"), 
+    "cardUid" : NumberInt(57), 
+    "cardNumber" : NumberInt(317), 
+    "cardRFID" : "EBB1A1B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58d5eaa59546970e41402413"), 
+    "issuedBy" : ObjectId("58d0a17a78f4044d6e9986be"), 
+    "issuedDate" : ISODate("2017-03-25T03:57:25.747+0000")
+}
+{ 
+    "_id" : ObjectId("58cfce7578f4044d6e9924b2"), 
+    "cardUid" : NumberInt(58), 
+    "cardNumber" : NumberInt(318), 
+    "cardRFID" : "1B57A1B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(1), 
+    "balance" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cfce8778f4044d6e9924b4"), 
+    "cardUid" : NumberInt(59), 
+    "cardNumber" : NumberInt(319), 
+    "cardRFID" : "6B66A2B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(1), 
+    "balance" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cfce9878f4044d6e9924b6"), 
+    "cardUid" : NumberInt(60), 
+    "cardNumber" : NumberInt(320), 
+    "cardRFID" : "7B54A2B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(1), 
+    "balance" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cfceb078f4044d6e992505"), 
+    "cardUid" : NumberInt(61), 
+    "cardNumber" : NumberInt(321), 
+    "cardRFID" : "6BFAA1B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(1), 
+    "balance" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cfcec078f4044d6e992581"), 
+    "cardUid" : NumberInt(62), 
+    "cardNumber" : NumberInt(322), 
+    "cardRFID" : "4B78A2B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(1), 
+    "balance" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cfced078f4044d6e992586"), 
+    "cardUid" : NumberInt(63), 
+    "cardNumber" : NumberInt(323), 
+    "cardRFID" : "7B42A2B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(1), 
+    "balance" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cfcee578f4044d6e992588"), 
+    "cardUid" : NumberInt(64), 
+    "cardNumber" : NumberInt(324), 
+    "cardRFID" : "7B0CA2B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58d5ecb19546970e41402d89"), 
+    "issuedBy" : ObjectId("58d09fff78f4044d6e99868c"), 
+    "issuedDate" : ISODate("2017-03-25T04:06:09.555+0000")
+}
+{ 
+    "_id" : ObjectId("58cfcef778f4044d6e99258a"), 
+    "cardUid" : NumberInt(65), 
+    "cardNumber" : NumberInt(325), 
+    "cardRFID" : "2B8AA2B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58b5039f96e33160ae2a581d"), 
+    "issuedBy" : ObjectId("58d0a2cb78f4044d6e998722"), 
+    "issuedDate" : ISODate("2017-03-21T07:21:49.151+0000")
+}
+{ 
+    "_id" : ObjectId("58cfcf0978f4044d6e99258c"), 
+    "cardUid" : NumberInt(66), 
+    "cardNumber" : NumberInt(326), 
+    "cardRFID" : "7B30A2B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58d4e9de43deec647d596bbe"), 
+    "issuedBy" : ObjectId("58d09fff78f4044d6e99868c"), 
+    "issuedDate" : ISODate("2017-03-24T09:41:50.480+0000")
+}
+{ 
+    "_id" : ObjectId("58cfcf1a78f4044d6e99258e"), 
+    "cardUid" : NumberInt(67), 
+    "cardNumber" : NumberInt(327), 
+    "cardRFID" : "7B1EA2B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(1), 
+    "balance" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cfcf2b78f4044d6e992590"), 
+    "cardUid" : NumberInt(68), 
+    "cardNumber" : NumberInt(328), 
+    "cardRFID" : "3B28A3B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(1), 
+    "balance" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cfcf3b78f4044d6e992592"), 
+    "cardUid" : NumberInt(69), 
+    "cardNumber" : NumberInt(329), 
+    "cardRFID" : "5BD1A2B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(1), 
+    "balance" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cfcf4b78f4044d6e99262c"), 
+    "cardUid" : NumberInt(70), 
+    "cardNumber" : NumberInt(330), 
+    "cardRFID" : "9BBFA2B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(1), 
+    "balance" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cfcf5e78f4044d6e99267d"), 
+    "cardUid" : NumberInt(71), 
+    "cardNumber" : NumberInt(331), 
+    "cardRFID" : "3B16A3B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(1), 
+    "balance" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cfcf7c78f4044d6e99267f"), 
+    "cardUid" : NumberInt(72), 
+    "cardNumber" : NumberInt(332), 
+    "cardRFID" : "0BE3A2B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(1), 
+    "balance" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cfcf8f78f4044d6e992681"), 
+    "cardUid" : NumberInt(73), 
+    "cardNumber" : NumberInt(333), 
+    "cardRFID" : "DBADA2B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(1), 
+    "balance" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cfcfa078f4044d6e992683"), 
+    "cardUid" : NumberInt(74), 
+    "cardNumber" : NumberInt(334), 
+    "cardRFID" : "6B04A3B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58d5eb769546970e414027cb"), 
+    "issuedBy" : ObjectId("58b4f476a5915e7eb8346b29"), 
+    "issuedDate" : ISODate("2017-03-25T04:00:54.382+0000")
+}
+{ 
+    "_id" : ObjectId("58cfcfb178f4044d6e992685"), 
+    "cardUid" : NumberInt(75), 
+    "cardNumber" : NumberInt(335), 
+    "cardRFID" : "9BF3A2B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58d0ca245ef73f0a79acf9c8"), 
+    "issuedBy" : ObjectId("58b4f476a5915e7eb8346b29"), 
+    "issuedDate" : ISODate("2017-03-21T06:50:38.449+0000")
+}
+{ 
+    "_id" : ObjectId("58cfcfc278f4044d6e992687"), 
+    "cardUid" : NumberInt(76), 
+    "cardNumber" : NumberInt(336), 
+    "cardRFID" : "0B9CA2B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58d5ecb99546970e41402dc4"), 
+    "issuedBy" : ObjectId("58b4f476a5915e7eb8346b29"), 
+    "issuedDate" : ISODate("2017-03-25T04:06:17.052+0000")
+}
+{ 
+    "_id" : ObjectId("58cfcfd378f4044d6e992689"), 
+    "cardUid" : NumberInt(77), 
+    "cardNumber" : NumberInt(337), 
+    "cardRFID" : "8BBE98B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(1), 
+    "balance" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cfd00278f4044d6e99268b"), 
+    "cardUid" : NumberInt(78), 
+    "cardNumber" : NumberInt(338), 
+    "cardRFID" : "4BB698B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(1), 
+    "balance" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cfd01378f4044d6e99268d"), 
+    "cardUid" : NumberInt(79), 
+    "cardNumber" : NumberInt(339), 
+    "cardRFID" : "9BE198B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(1), 
+    "balance" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cfd02578f4044d6e99268f"), 
+    "cardUid" : NumberInt(80), 
+    "cardNumber" : NumberInt(340), 
+    "cardRFID" : "9BC698B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(1), 
+    "balance" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cfd04c78f4044d6e992692"), 
+    "cardUid" : NumberInt(81), 
+    "cardNumber" : NumberInt(341), 
+    "cardRFID" : "9BBE98B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(1), 
+    "balance" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cfd05c78f4044d6e992694"), 
+    "cardUid" : NumberInt(82), 
+    "cardNumber" : NumberInt(342), 
+    "cardRFID" : "5BD898B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58d23a8ea28b3a0f89df7574"), 
+    "issuedBy" : ObjectId("58d09fff78f4044d6e99868c"), 
+    "issuedDate" : ISODate("2017-03-22T08:49:18.165+0000")
+}
+{ 
+    "_id" : ObjectId("58cfd06d78f4044d6e992696"), 
+    "cardUid" : NumberInt(83), 
+    "cardNumber" : NumberInt(343), 
+    "cardRFID" : "4BCF98B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58d23b37a28b3a0f89df761c"), 
+    "issuedBy" : ObjectId("58d09fff78f4044d6e99868c"), 
+    "issuedDate" : ISODate("2017-03-22T08:52:07.694+0000")
+}
+{ 
+    "_id" : ObjectId("58cfd07f78f4044d6e992698"), 
+    "cardUid" : NumberInt(84), 
+    "cardNumber" : NumberInt(344), 
+    "cardRFID" : "ABC698B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(1), 
+    "balance" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cfd08d78f4044d6e99269a"), 
+    "cardUid" : NumberInt(85), 
+    "cardNumber" : NumberInt(345), 
+    "cardRFID" : "5BCF98B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58d23d0da28b3a0f89df786e"), 
+    "issuedBy" : ObjectId("58d09fff78f4044d6e99868c"), 
+    "issuedDate" : ISODate("2017-03-22T08:59:57.359+0000")
+}
+{ 
+    "_id" : ObjectId("58cfd09d78f4044d6e99269c"), 
+    "cardUid" : NumberInt(86), 
+    "cardNumber" : NumberInt(346), 
+    "cardRFID" : "3B2899B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58d23e18a28b3a0f89df78ab"), 
+    "issuedBy" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "issuedDate" : ISODate("2017-03-22T09:04:24.483+0000")
+}
+{ 
+    "_id" : ObjectId("58cfd0ab78f4044d6e99269e"), 
+    "cardUid" : NumberInt(87), 
+    "cardNumber" : NumberInt(347), 
+    "cardRFID" : "BBF498B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(1), 
+    "balance" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cfd0bc78f4044d6e9926a0"), 
+    "cardUid" : NumberInt(88), 
+    "cardNumber" : NumberInt(348), 
+    "cardRFID" : "0BEB98B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(1), 
+    "balance" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cfd0cd78f4044d6e9926a2"), 
+    "cardUid" : NumberInt(89), 
+    "cardNumber" : NumberInt(349), 
+    "cardRFID" : "8B1D99B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(1), 
+    "balance" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cfd0df78f4044d6e9926a4"), 
+    "cardUid" : NumberInt(90), 
+    "cardNumber" : NumberInt(350), 
+    "cardRFID" : "9BFE98B600000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(1), 
+    "balance" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d099fd78f4044d6e998183"), 
+    "cardUid" : NumberInt(91), 
+    "cardNumber" : NumberInt(901), 
+    "cardRFID" : "ADSFAKJSHD154545", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58d0b73c78f4044d6e998b63"), 
+    "issuedBy" : ObjectId("58d0a2cb78f4044d6e998722"), 
+    "issuedDate" : ISODate("2017-03-21T05:16:45.012+0000")
+}
+{ 
+    "_id" : ObjectId("58d09a1378f4044d6e998185"), 
+    "cardUid" : NumberInt(92), 
+    "cardNumber" : NumberInt(902), 
+    "cardRFID" : "JAKSDJKFASHJDK78", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58d0b903081ba478e9b26115"), 
+    "issuedDate" : ISODate("2017-03-21T05:24:19.260+0000")
+}
+{ 
+    "_id" : ObjectId("58d09a2478f4044d6e998187"), 
+    "cardUid" : NumberInt(93), 
+    "cardNumber" : NumberInt(903), 
+    "cardRFID" : "ASDHJH1267176212", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(1), 
+    "balance" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d09a3978f4044d6e998189"), 
+    "cardUid" : NumberInt(94), 
+    "cardNumber" : NumberInt(904), 
+    "cardRFID" : "AODSHF2364762342", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(1), 
+    "balance" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d09a4578f4044d6e99818b"), 
+    "cardUid" : NumberInt(95), 
+    "cardNumber" : NumberInt(905), 
+    "cardRFID" : "AKSDHFH687W23647", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58d0bb2678e5107a70c05dd5"), 
+    "issuedBy" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "issuedDate" : ISODate("2017-03-21T05:33:26.898+0000")
+}
+{ 
+    "_id" : ObjectId("58d09a9c78f4044d6e9981cb"), 
+    "cardUid" : NumberInt(96), 
+    "cardNumber" : NumberInt(906), 
+    "cardRFID" : "SJKFHDKJASDSHASD", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58d0ba7878e5107a70c05d94"), 
+    "issuedBy" : ObjectId("58d0a24478f4044d6e9986f0"), 
+    "issuedDate" : ISODate("2017-03-21T05:42:12.008+0000")
+}
+{ 
+    "_id" : ObjectId("58d09c5e78f4044d6e9982d4"), 
+    "cardUid" : NumberInt(97), 
+    "cardNumber" : NumberInt(907), 
+    "cardRFID" : "ASDFASD123234214", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(1), 
+    "balance" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d09c9978f4044d6e9982d7"), 
+    "cardUid" : NumberInt(98), 
+    "cardNumber" : NumberInt(908), 
+    "cardRFID" : "ZXCV324FGFGDHFHG", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58d0b960df038d79b7efb756"), 
+    "issuedBy" : ObjectId("58d0a17a78f4044d6e9986be"), 
+    "issuedDate" : ISODate("2017-03-21T05:25:52.421+0000")
+}
+{ 
+    "_id" : ObjectId("58d09ca978f4044d6e9982d9"), 
+    "cardUid" : NumberInt(99), 
+    "cardNumber" : NumberInt(909), 
+    "cardRFID" : "ASNMDBF872347867", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58d0bca878e5107a70c05eab"), 
+    "issuedBy" : ObjectId("58d09fff78f4044d6e99868c"), 
+    "issuedDate" : ISODate("2017-03-21T05:39:52.217+0000")
+}
+{ 
+    "_id" : ObjectId("58d0c3cb025b5c03716129a9"), 
+    "cardUid" : NumberInt(100), 
+    "cardNumber" : NumberInt(910), 
+    "cardRFID" : "1010101010111111", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58d0d2103c094c1d72e27b2d"), 
+    "issuedBy" : ObjectId("58a175be36634c580e5ebc0e"), 
+    "issuedDate" : ISODate("2017-03-21T07:11:12.614+0000")
+}
+{ 
+    "_id" : ObjectId("58d0c4fa5ef73f0a79acf6be"), 
+    "cardUid" : NumberInt(101), 
+    "cardNumber" : NumberInt(911), 
+    "cardRFID" : "1201010101010101", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58d12f92a28b3a0f89de9915"), 
+    "issuedBy" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "issuedDate" : ISODate("2017-03-21T13:50:10.411+0000")
+}
+{ 
+    "_id" : ObjectId("58d0c62c5ef73f0a79acf6d9"), 
+    "cardUid" : NumberInt(102), 
+    "cardNumber" : NumberInt(912), 
+    "cardRFID" : "1301010101000000", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58d0d6a99838911e9fa03525"), 
+    "issuedBy" : ObjectId("58b4f476a5915e7eb8346b29"), 
+    "issuedDate" : ISODate("2017-03-21T07:30:49.362+0000")
+}
+{ 
+    "_id" : ObjectId("58d0cea55ef73f0a79acfc9f"), 
+    "cardUid" : NumberInt(103), 
+    "cardNumber" : NumberInt(913), 
+    "cardRFID" : "SAHJDGAHJSDG3456", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58d0d6d49838911e9fa03560"), 
+    "issuedBy" : ObjectId("58b4f476a5915e7eb8346b29"), 
+    "issuedDate" : ISODate("2017-03-21T07:31:32.193+0000")
+}
+{ 
+    "_id" : ObjectId("58d0d9088389fe26c25c530f"), 
+    "cardUid" : NumberInt(104), 
+    "cardNumber" : NumberInt(915), 
+    "cardRFID" : "ASDFASDF234234EW", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58d0d9463e255f277cc93291"), 
+    "issuedBy" : ObjectId("58b4f476a5915e7eb8346b29"), 
+    "issuedDate" : ISODate("2017-03-21T07:41:58.201+0000")
+}
+{ 
+    "_id" : ObjectId("58d0d91f8389fe26c25c5311"), 
+    "cardUid" : NumberInt(105), 
+    "cardNumber" : NumberInt(916), 
+    "cardRFID" : "SDAFASDFWR234234", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58d0d9843e255f277cc93378"), 
+    "issuedBy" : ObjectId("58b4f476a5915e7eb8346b29"), 
+    "issuedDate" : ISODate("2017-03-21T07:43:00.848+0000")
+}
+{ 
+    "_id" : ObjectId("58d0d95c3e255f277cc9332a"), 
+    "cardUid" : NumberInt(106), 
+    "cardNumber" : NumberInt(917), 
+    "cardRFID" : "ASDHGFASHGFDG251", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58d0d9e93e255f277cc93410"), 
+    "issuedBy" : ObjectId("58b4f476a5915e7eb8346b29"), 
+    "issuedDate" : ISODate("2017-03-21T07:45:36.285+0000")
+}
+{ 
+    "_id" : ObjectId("58d0d9753e255f277cc93376"), 
+    "cardUid" : NumberInt(107), 
+    "cardNumber" : NumberInt(918), 
+    "cardRFID" : "FAG2T67863478236", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58d0daa5cf921c297564ba13"), 
+    "issuedBy" : ObjectId("58b4f476a5915e7eb8346b29"), 
+    "issuedDate" : ISODate("2017-03-21T07:47:49.579+0000")
+}
+{ 
+    "_id" : ObjectId("58d10c24db42476d244ab346"), 
+    "cardUid" : NumberInt(108), 
+    "cardNumber" : NumberInt(919), 
+    "cardRFID" : "GFHJSDGHF7676786", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58d10dc0db42476d244ab3b4"), 
+    "issuedBy" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "issuedDate" : ISODate("2017-03-21T11:25:52.677+0000")
+}
+{ 
+    "_id" : ObjectId("58d10c37db42476d244ab348"), 
+    "cardUid" : NumberInt(109), 
+    "cardNumber" : NumberInt(920), 
+    "cardRFID" : "SDFA324234234234", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58d10dffdb42476d244ab3ef"), 
+    "issuedBy" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "issuedDate" : ISODate("2017-03-21T11:26:55.212+0000")
+}
+{ 
+    "_id" : ObjectId("58d10c4fdb42476d244ab34a"), 
+    "cardUid" : NumberInt(110), 
+    "cardNumber" : NumberInt(921), 
+    "cardRFID" : "DSFF3243413456DG", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58d10e3ddb42476d244ab42a"), 
+    "issuedBy" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "issuedDate" : ISODate("2017-03-21T11:27:57.213+0000")
+}
+{ 
+    "_id" : ObjectId("58d10c7edb42476d244ab34c"), 
+    "cardUid" : NumberInt(111), 
+    "cardNumber" : NumberInt(922), 
+    "cardRFID" : "GDFG56456GHFHGFG", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58d10f14db42476d244ab464"), 
+    "issuedBy" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "issuedDate" : ISODate("2017-03-21T11:32:31.561+0000")
+}
+{ 
+    "_id" : ObjectId("58d10ca0db42476d244ab34e"), 
+    "cardUid" : NumberInt(112), 
+    "cardNumber" : NumberInt(925), 
+    "cardRFID" : "FGHGHRFDSHBNVGHF", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58d13074a28b3a0f89de9a24"), 
+    "issuedBy" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "issuedDate" : ISODate("2017-03-21T13:53:56.395+0000")
+}
+{ 
+    "_id" : ObjectId("58d13352a28b3a0f89de9e47"), 
+    "cardUid" : NumberInt(113), 
+    "cardNumber" : NumberInt(926), 
+    "cardRFID" : "SDFJHSDJF2348972", 
+    "currentLocation" : ObjectId("58bed5e84b0ec21e37c69aa5"), 
+    "cardType" : "1", 
+    "status" : NumberInt(2), 
+    "balance" : NumberInt(50), 
+    "__v" : NumberInt(0), 
+    "membershipId" : ObjectId("58a1774036634c580e5ebc24"), 
+    "assignedTo" : ObjectId("58d13412a28b3a0f89de9e49"), 
+    "issuedBy" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "issuedDate" : ISODate("2017-03-21T14:09:22.805+0000")
 }

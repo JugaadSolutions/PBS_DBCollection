@@ -1,185 +1,103 @@
 { 
-    "_id" : ObjectId("58492da1c31f7c020a0f6e75"), 
-    "lastModifiedAt" : ISODate("2016-12-08T09:53:37.892+0000"), 
-    "createdAt" : ISODate("2016-12-08T09:53:37.892+0000"), 
+    "_id" : ObjectId("58a176df36634c580e5ebc1f"), 
+    "lastModifiedAt" : ISODate("2017-03-10T07:42:20.280+0000"), 
+    "createdAt" : ISODate("2017-02-13T09:05:35.773+0000"), 
+    "fareplanUid" : NumberInt(1), 
     "planName" : "Plan A", 
+    "successIp" : [
+
+    ], 
+    "unsuccessIp" : [
+        "13.13.13.2", 
+        "13.13.13.4", 
+        "13.13.13.5", 
+        "13.13.13.3", 
+        "13.13.13.6", 
+        "13.13.13.14", 
+        "13.13.13.34", 
+        "13.13.13.7", 
+        "13.13.13.19", 
+        "13.13.13.18", 
+        "13.13.13.43", 
+        "13.13.13.15", 
+        "13.13.13.10", 
+        "13.13.13.16", 
+        "13.13.13.8", 
+        "13.13.13.21", 
+        "13.13.13.17", 
+        "13.13.13.13", 
+        "13.13.13.11", 
+        "13.13.13.22", 
+        "13.13.13.12", 
+        "13.13.13.23", 
+        "13.13.13.24", 
+        "13.13.13.25", 
+        "13.13.13.26", 
+        "13.13.13.27", 
+        "13.13.13.50", 
+        "13.13.13.29", 
+        "13.13.13.28", 
+        "13.13.13.31", 
+        "13.13.13.33", 
+        "13.13.13.30", 
+        "13.13.13.32", 
+        "13.13.13.40", 
+        "13.13.13.20", 
+        "13.13.13.35", 
+        "13.13.13.39", 
+        "13.13.13.41", 
+        "13.13.13.44", 
+        "13.13.13.45", 
+        "13.13.13.46", 
+        "13.13.13.47", 
+        "13.13.13.48", 
+        "13.13.13.49"
+    ], 
+    "updateCount" : NumberInt(0), 
+    "lastSyncedAt" : ISODate("2017-02-13T09:05:35.767+0000"), 
     "status" : NumberInt(0), 
     "plans" : [
         {
-            "startTime" : NumberInt(0), 
-            "endTime" : NumberInt(30), 
+            "_id" : ObjectId("58a176df36634c580e5ebc23"), 
             "fee" : NumberInt(0), 
-            "_id" : ObjectId("58492da1c31f7c020a0f6e7d")
-        }, 
-        {
-            "startTime" : NumberInt(31), 
             "endTime" : NumberInt(60), 
-            "fee" : NumberInt(5), 
-            "_id" : ObjectId("58492da1c31f7c020a0f6e7c")
+            "startTime" : NumberInt(0)
         }, 
         {
-            "startTime" : NumberInt(61), 
-            "endTime" : NumberInt(90), 
+            "_id" : ObjectId("58a176df36634c580e5ebc22"), 
+            "fee" : NumberInt(5), 
+            "endTime" : NumberInt(120), 
+            "startTime" : NumberInt(61)
+        }, 
+        {
+            "_id" : ObjectId("58a176df36634c580e5ebc21"), 
             "fee" : NumberInt(10), 
-            "_id" : ObjectId("58492da1c31f7c020a0f6e7b")
+            "endTime" : NumberInt(180), 
+            "startTime" : NumberInt(121)
         }, 
         {
-            "startTime" : NumberInt(91), 
-            "endTime" : NumberInt(120), 
-            "fee" : NumberInt(15), 
-            "_id" : ObjectId("58492da1c31f7c020a0f6e7a")
-        }, 
-        {
-            "startTime" : NumberInt(121), 
-            "endTime" : NumberInt(150), 
+            "_id" : ObjectId("58a176df36634c580e5ebc20"), 
             "fee" : NumberInt(20), 
-            "_id" : ObjectId("58492da1c31f7c020a0f6e79")
-        }, 
-        {
-            "startTime" : NumberInt(151), 
-            "endTime" : NumberInt(180), 
-            "fee" : NumberInt(25), 
-            "_id" : ObjectId("58492da1c31f7c020a0f6e78")
-        }, 
-        {
-            "startTime" : NumberInt(181), 
-            "endTime" : NumberInt(210), 
-            "fee" : NumberInt(30), 
-            "_id" : ObjectId("58492da1c31f7c020a0f6e77")
-        }, 
-        {
-            "startTime" : NumberInt(211), 
             "endTime" : NumberInt(240), 
-            "fee" : NumberInt(250), 
-            "_id" : ObjectId("58492da1c31f7c020a0f6e76")
-        }
-    ], 
-    "__v" : NumberInt(0)
-}
-{ 
-    "_id" : ObjectId("58492e23c31f7c020a0f6e7f"), 
-    "lastModifiedAt" : ISODate("2016-12-08T09:55:47.676+0000"), 
-    "createdAt" : ISODate("2016-12-08T09:55:47.676+0000"), 
-    "planName" : "Plan B", 
-    "status" : NumberInt(0), 
-    "plans" : [
-        {
-            "startTime" : NumberInt(0), 
-            "endTime" : NumberInt(30), 
-            "fee" : NumberInt(5), 
-            "_id" : ObjectId("58492e23c31f7c020a0f6e87")
+            "startTime" : NumberInt(181)
         }, 
         {
-            "startTime" : NumberInt(31), 
-            "endTime" : NumberInt(60), 
-            "fee" : NumberInt(10), 
-            "_id" : ObjectId("58492e23c31f7c020a0f6e86")
-        }, 
-        {
-            "startTime" : NumberInt(61), 
-            "endTime" : NumberInt(90), 
-            "fee" : NumberInt(15), 
-            "_id" : ObjectId("58492e23c31f7c020a0f6e85")
-        }, 
-        {
-            "startTime" : NumberInt(91), 
-            "endTime" : NumberInt(120), 
-            "fee" : NumberInt(20), 
-            "_id" : ObjectId("58492e23c31f7c020a0f6e84")
-        }, 
-        {
-            "startTime" : NumberInt(121), 
-            "endTime" : NumberInt(150), 
-            "fee" : NumberInt(25), 
-            "_id" : ObjectId("58492e23c31f7c020a0f6e83")
-        }, 
-        {
-            "startTime" : NumberInt(151), 
-            "endTime" : NumberInt(180), 
-            "fee" : NumberInt(30), 
-            "_id" : ObjectId("58492e23c31f7c020a0f6e82")
-        }, 
-        {
-            "startTime" : NumberInt(181), 
-            "endTime" : NumberInt(210), 
-            "fee" : NumberInt(35), 
-            "_id" : ObjectId("58492e23c31f7c020a0f6e81")
-        }, 
-        {
-            "startTime" : NumberInt(211), 
-            "endTime" : NumberInt(240), 
-            "fee" : NumberInt(250), 
-            "_id" : ObjectId("58492e23c31f7c020a0f6e80")
-        }
-    ], 
-    "__v" : NumberInt(0)
-}
-{ 
-    "_id" : ObjectId("58576adc91cb347b3044d739"), 
-    "lastModifiedAt" : ISODate("2016-12-19T05:06:37.075+0000"), 
-    "createdAt" : ISODate("2016-12-19T05:06:37.075+0000"), 
-    "planName" : "Plan C", 
-    "status" : NumberInt(0), 
-    "plans" : [
-        {
-            "startTime" : NumberInt(0), 
-            "endTime" : NumberInt(30), 
-            "fee" : NumberInt(1), 
-            "_id" : ObjectId("58576adc91cb347b3044d743")
-        }, 
-        {
-            "startTime" : NumberInt(31), 
-            "endTime" : NumberInt(60), 
-            "fee" : NumberInt(2), 
-            "_id" : ObjectId("58576adc91cb347b3044d742")
-        }, 
-        {
-            "startTime" : NumberInt(61), 
-            "endTime" : NumberInt(90), 
-            "fee" : NumberInt(3), 
-            "_id" : ObjectId("58576adc91cb347b3044d741")
-        }, 
-        {
-            "startTime" : NumberInt(91), 
-            "endTime" : NumberInt(120), 
-            "fee" : NumberInt(4), 
-            "_id" : ObjectId("58576adc91cb347b3044d740")
-        }, 
-        {
-            "startTime" : NumberInt(121), 
-            "endTime" : NumberInt(150), 
-            "fee" : NumberInt(5), 
-            "_id" : ObjectId("58576adc91cb347b3044d73f")
-        }, 
-        {
-            "startTime" : NumberInt(151), 
-            "endTime" : NumberInt(180), 
-            "fee" : NumberInt(6), 
-            "_id" : ObjectId("58576adc91cb347b3044d73e")
-        }, 
-        {
-            "startTime" : NumberInt(181), 
-            "endTime" : NumberInt(210), 
-            "fee" : NumberInt(7), 
-            "_id" : ObjectId("58576adc91cb347b3044d73d")
-        }, 
-        {
-            "startTime" : NumberInt(211), 
-            "endTime" : NumberInt(240), 
-            "fee" : NumberInt(8), 
-            "_id" : ObjectId("58576adc91cb347b3044d73c")
-        }, 
-        {
+            "fee" : NumberInt(50), 
+            "endTime" : NumberInt(360), 
             "startTime" : NumberInt(241), 
-            "endTime" : NumberInt(270), 
-            "fee" : NumberInt(9), 
-            "_id" : ObjectId("58576adc91cb347b3044d73b")
+            "_id" : ObjectId("58c258dcbb81aa11bc891f88")
         }, 
         {
-            "startTime" : NumberInt(271), 
-            "endTime" : NumberInt(600), 
-            "fee" : NumberInt(10), 
-            "_id" : ObjectId("58576adc91cb347b3044d73a")
+            "fee" : NumberInt(100), 
+            "endTime" : NumberInt(480), 
+            "startTime" : NumberInt(361), 
+            "_id" : ObjectId("58c258dcbb81aa11bc891f87")
+        }, 
+        {
+            "fee" : NumberInt(150), 
+            "endTime" : NumberInt(720), 
+            "startTime" : NumberInt(481), 
+            "_id" : ObjectId("58c258dcbb81aa11bc891f86")
         }
     ], 
     "__v" : NumberInt(0)

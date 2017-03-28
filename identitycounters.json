@@ -1,49 +1,147 @@
 { 
-    "_id" : ObjectId("5849121b9731111455745821"), 
-    "model" : "function model(doc, fields, skipId) {\n    if (!(this instanceof model)) {\n      return new model(doc, fields, skipId);\n    }\n    Model.call(this, doc, fields, skipId);\n  }", 
-    "field" : "UserID", 
-    "count" : NumberInt(276), 
-    "__v" : NumberInt(0)
-}
-{ 
-    "_id" : ObjectId("5849121b9731111455745822"), 
-    "model" : "function model(doc, fields, skipId) {\n    if (!(this instanceof model)) {\n      return new model(doc, fields, skipId);\n    }\n    Model.call(this, doc, fields, skipId);\n  }", 
-    "field" : "PortID", 
-    "count" : NumberInt(95), 
-    "__v" : NumberInt(0)
-}
-{ 
-    "_id" : ObjectId("5849121b9731111455745823"), 
-    "model" : "function model(doc, fields, skipId) {\n    if (!(this instanceof model)) {\n      return new model(doc, fields, skipId);\n    }\n    Model.call(this, doc, fields, skipId);\n  }", 
+    "_id" : ObjectId("58a175be36634c580e5ebc10"), 
+    "model" : "function model(doc, fields, skipId) {\n      if (!(this instanceof model)) {\n        return new model(doc, fields, skipId);\n      }\n      Model.call(this, doc, fields, skipId);\n    }", 
     "field" : "StationID", 
-    "count" : NumberInt(18), 
+    "count" : NumberInt(81), 
     "__v" : NumberInt(0)
 }
 { 
-    "_id" : ObjectId("5849121b9731111455745824"), 
-    "model" : "function model(doc, fields, skipId) {\n    if (!(this instanceof model)) {\n      return new model(doc, fields, skipId);\n    }\n    Model.call(this, doc, fields, skipId);\n  }", 
+    "_id" : ObjectId("58a175be36634c580e5ebc11"), 
+    "model" : "function model(doc, fields, skipId) {\n      if (!(this instanceof model)) {\n        return new model(doc, fields, skipId);\n      }\n      Model.call(this, doc, fields, skipId);\n    }", 
+    "field" : "UserID", 
+    "count" : NumberInt(196), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58a175be36634c580e5ebc12"), 
+    "model" : "function model(doc, fields, skipId) {\n      if (!(this instanceof model)) {\n        return new model(doc, fields, skipId);\n      }\n      Model.call(this, doc, fields, skipId);\n    }", 
+    "field" : "PortID", 
+    "count" : NumberInt(667), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58a175be36634c580e5ebc13"), 
+    "model" : "function model(doc, fields, skipId) {\n      if (!(this instanceof model)) {\n        return new model(doc, fields, skipId);\n      }\n      Model.call(this, doc, fields, skipId);\n    }", 
+    "field" : "membershipId", 
+    "count" : NumberInt(5), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58a175be36634c580e5ebc14"), 
+    "model" : "function model(doc, fields, skipId) {\n      if (!(this instanceof model)) {\n        return new model(doc, fields, skipId);\n      }\n      Model.call(this, doc, fields, skipId);\n    }", 
     "field" : "depositUid", 
     "count" : NumberInt(0), 
     "__v" : NumberInt(0)
 }
 { 
-    "_id" : ObjectId("5849121b9731111455745825"), 
-    "model" : "function model(doc, fields, skipId) {\n    if (!(this instanceof model)) {\n      return new model(doc, fields, skipId);\n    }\n    Model.call(this, doc, fields, skipId);\n  }", 
+    "_id" : ObjectId("58a175be36634c580e5ebc15"), 
+    "model" : "function model(doc, fields, skipId) {\n      if (!(this instanceof model)) {\n        return new model(doc, fields, skipId);\n      }\n      Model.call(this, doc, fields, skipId);\n    }", 
+    "field" : "globalId", 
+    "count" : NumberInt(4), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58a175be36634c580e5ebc16"), 
+    "model" : "function model(doc, fields, skipId) {\n      if (!(this instanceof model)) {\n        return new model(doc, fields, skipId);\n      }\n      Model.call(this, doc, fields, skipId);\n    }", 
+    "field" : "ccId", 
+    "count" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58a175be36634c580e5ebc17"), 
+    "model" : "function model(doc, fields, skipId) {\n      if (!(this instanceof model)) {\n        return new model(doc, fields, skipId);\n      }\n      Model.call(this, doc, fields, skipId);\n    }", 
+    "field" : "vehicleUid", 
+    "count" : NumberInt(164), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58a175be36634c580e5ebc18"), 
+    "model" : "function model(doc, fields, skipId) {\n      if (!(this instanceof model)) {\n        return new model(doc, fields, skipId);\n      }\n      Model.call(this, doc, fields, skipId);\n    }", 
     "field" : "featureUid", 
     "count" : NumberInt(0), 
     "__v" : NumberInt(0)
 }
 { 
-    "_id" : ObjectId("5849121b9731111455745826"), 
-    "model" : "function model(doc, fields, skipId) {\n    if (!(this instanceof model)) {\n      return new model(doc, fields, skipId);\n    }\n    Model.call(this, doc, fields, skipId);\n  }", 
-    "field" : "vehicleUid", 
-    "count" : NumberInt(48), 
+    "_id" : ObjectId("58a175be36634c580e5ebc19"), 
+    "model" : "function model(doc, fields, skipId) {\n      if (!(this instanceof model)) {\n        return new model(doc, fields, skipId);\n      }\n      Model.call(this, doc, fields, skipId);\n    }", 
+    "field" : "gatewayId", 
+    "count" : NumberInt(7), 
     "__v" : NumberInt(0)
 }
 { 
-    "_id" : ObjectId("58639a432a63a54d5c037adb"), 
-    "model" : "function model(doc, fields, skipId) {\n    if (!(this instanceof model)) {\n      return new model(doc, fields, skipId);\n    }\n    Model.call(this, doc, fields, skipId);\n  }", 
+    "_id" : ObjectId("58a175be36634c580e5ebc1a"), 
+    "model" : "function model(doc, fields, skipId) {\n      if (!(this instanceof model)) {\n        return new model(doc, fields, skipId);\n      }\n      Model.call(this, doc, fields, skipId);\n    }", 
+    "field" : "transId", 
+    "count" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58a175be36634c580e5ebc1b"), 
+    "model" : "function model(doc, fields, skipId) {\n      if (!(this instanceof model)) {\n        return new model(doc, fields, skipId);\n      }\n      Model.call(this, doc, fields, skipId);\n    }", 
+    "field" : "reportId", 
+    "count" : NumberInt(937), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58a175be36634c580e5ebc1c"), 
+    "model" : "function model(doc, fields, skipId) {\n      if (!(this instanceof model)) {\n        return new model(doc, fields, skipId);\n      }\n      Model.call(this, doc, fields, skipId);\n    }", 
+    "field" : "usageId", 
+    "count" : NumberInt(6), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58a175be36634c580e5ebc1d"), 
+    "model" : "function model(doc, fields, skipId) {\n      if (!(this instanceof model)) {\n        return new model(doc, fields, skipId);\n      }\n      Model.call(this, doc, fields, skipId);\n    }", 
+    "field" : "uuId", 
+    "count" : NumberInt(30), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58a175be36634c580e5ebc1e"), 
+    "model" : "function model(doc, fields, skipId) {\n      if (!(this instanceof model)) {\n        return new model(doc, fields, skipId);\n      }\n      Model.call(this, doc, fields, skipId);\n    }", 
     "field" : "RecordID", 
-    "count" : NumberInt(54), 
+    "count" : NumberInt(1315), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58a3a1cb18422463ce9fd365"), 
+    "model" : "function model(doc, fields, skipId) {\n      if (!(this instanceof model)) {\n        return new model(doc, fields, skipId);\n      }\n      Model.call(this, doc, fields, skipId);\n    }", 
+    "field" : "cardUid", 
+    "count" : NumberInt(113), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58a3a1cb18422463ce9fd366"), 
+    "model" : "function model(doc, fields, skipId) {\n      if (!(this instanceof model)) {\n        return new model(doc, fields, skipId);\n      }\n      Model.call(this, doc, fields, skipId);\n    }", 
+    "field" : "cardTrackUid", 
+    "count" : NumberInt(277), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58a3a1cb18422463ce9fd367"), 
+    "model" : "function model(doc, fields, skipId) {\n      if (!(this instanceof model)) {\n        return new model(doc, fields, skipId);\n      }\n      Model.call(this, doc, fields, skipId);\n    }", 
+    "field" : "maintainId", 
+    "count" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58a3a1cb18422463ce9fd368"), 
+    "model" : "function model(doc, fields, skipId) {\n      if (!(this instanceof model)) {\n        return new model(doc, fields, skipId);\n      }\n      Model.call(this, doc, fields, skipId);\n    }", 
+    "field" : "repairId", 
+    "count" : NumberInt(0), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58b2d0d9f84c39307ad3948f"), 
+    "model" : "function model(doc, fields, skipId) {\n      if (!(this instanceof model)) {\n        return new model(doc, fields, skipId);\n      }\n      Model.call(this, doc, fields, skipId);\n    }", 
+    "field" : "fareplanUid", 
+    "count" : NumberInt(2), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58bed5e84b0ec21e37c69aa4"), 
+    "model" : "function model(doc, fields, skipId) {\n      if (!(this instanceof model)) {\n        return new model(doc, fields, skipId);\n      }\n      Model.call(this, doc, fields, skipId);\n    }", 
+    "field" : "topupId", 
+    "count" : NumberInt(5), 
     "__v" : NumberInt(0)
 }

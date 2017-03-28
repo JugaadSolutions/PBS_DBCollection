@@ -1,0 +1,84 @@
+{ 
+    "_id" : ObjectId("58af7e88baab292e3f77afb4"), 
+    "usageId" : NumberInt(1), 
+    "noOfTrips" : NumberInt(348), 
+    "requiredNoOfCycles" : NumberInt(0), 
+    "totalDuration" : 899.6930833333334, 
+    "tripsPerCycle" : Infinity, 
+    "durationPerCycle" : Infinity, 
+    "noOfCyclesUsed" : NumberInt(28), 
+    "noOfPeopleUsed" : NumberInt(9), 
+    "reportDate" : ISODate("2017-02-23T00:00:00.000+0000"), 
+    "createdDate" : ISODate("2017-02-24T00:30:00.063+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58c88b0bc85459363a027d0d"), 
+    "usageId" : NumberInt(2), 
+    "noOfTrips" : NumberInt(173), 
+    "requiredNoOfCycles" : NumberInt(52), 
+    "totalDuration" : 717.19725, 
+    "tripsPerCycle" : 3.326923076923077, 
+    "durationPerCycle" : 13.79225480769231, 
+    "noOfCyclesUsed" : NumberInt(11), 
+    "noOfPeopleUsed" : NumberInt(6), 
+    "reportDate" : ISODate("2017-03-14T00:00:00.000+0000"), 
+    "createdDate" : ISODate("2017-03-15T00:30:03.414+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cdd10823e2760e8d72b0a4"), 
+    "usageId" : NumberInt(3), 
+    "noOfTrips" : NumberInt(172), 
+    "requiredNoOfCycles" : NumberInt(52), 
+    "totalDuration" : 638.6547833333332, 
+    "tripsPerCycle" : 3.3076923076923075, 
+    "durationPerCycle" : 12.281822756410254, 
+    "noOfCyclesUsed" : NumberInt(5), 
+    "noOfPeopleUsed" : NumberInt(5), 
+    "reportDate" : ISODate("2017-03-18T00:00:00.000+0000"), 
+    "createdDate" : ISODate("2017-03-19T00:30:00.046+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cf228823e2760e8d72f71b"), 
+    "usageId" : NumberInt(4), 
+    "noOfTrips" : NumberInt(0), 
+    "requiredNoOfCycles" : NumberInt(52), 
+    "totalDuration" : NumberInt(0), 
+    "tripsPerCycle" : NumberInt(0), 
+    "durationPerCycle" : NumberInt(0), 
+    "noOfCyclesUsed" : NumberInt(0), 
+    "noOfPeopleUsed" : NumberInt(0), 
+    "reportDate" : ISODate("2017-03-19T00:00:00.000+0000"), 
+    "createdDate" : ISODate("2017-03-20T00:30:00.057+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d70b889546970e4141af72"), 
+    "usageId" : NumberInt(5), 
+    "noOfTrips" : NumberInt(868), 
+    "requiredNoOfCycles" : NumberInt(52), 
+    "totalDuration" : 1055.4864333333326, 
+    "tripsPerCycle" : 16.692307692307693, 
+    "durationPerCycle" : 20.297816025641012, 
+    "noOfCyclesUsed" : NumberInt(9), 
+    "noOfPeopleUsed" : NumberInt(9), 
+    "reportDate" : ISODate("2017-03-25T00:00:00.000+0000"), 
+    "createdDate" : ISODate("2017-03-26T00:30:00.166+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d85d089546970e41425ca3"), 
+    "usageId" : NumberInt(6), 
+    "noOfTrips" : NumberInt(128), 
+    "requiredNoOfCycles" : NumberInt(52), 
+    "totalDuration" : 461.9905000000001, 
+    "tripsPerCycle" : 2.4615384615384617, 
+    "durationPerCycle" : 8.884432692307694, 
+    "noOfCyclesUsed" : NumberInt(17), 
+    "noOfPeopleUsed" : NumberInt(8), 
+    "reportDate" : ISODate("2017-03-26T00:00:00.000+0000"), 
+    "createdDate" : ISODate("2017-03-27T00:30:00.055+0000"), 
+    "__v" : NumberInt(0)
+}

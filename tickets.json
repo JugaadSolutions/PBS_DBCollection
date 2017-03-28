@@ -1,0 +1,596 @@
+{ 
+    "_id" : ObjectId("58bd7ccc7b371c3103f1b14c"), 
+    "uuId" : NumberInt(1), 
+    "createdBy" : ObjectId("58bd7bbb7b371c3103f1b116"), 
+    "channel" : "2", 
+    "priority" : NumberInt(2), 
+    "description" : "heloo shivu", 
+    "subject" : "user feedback", 
+    "name" : "shivu", 
+    "duration" : NumberInt(0), 
+    "transactions" : [
+
+    ], 
+    "ticketdate" : ISODate("2017-03-06T15:25:30.948+0000"), 
+    "status" : "Open", 
+    "complaintType" : NumberInt(2), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58bfe73d7ab0b97f2fe49e55"), 
+    "uuId" : NumberInt(2), 
+    "name" : "test", 
+    "subject" : "test", 
+    "description" : "test", 
+    "priority" : NumberInt(1), 
+    "department" : "Maintenance", 
+    "assignedEmp" : ObjectId("58b54b9fb7dedf1b7243656d"), 
+    "tickettype" : "", 
+    "createdBy" : ObjectId("58a175be36634c580e5ebc0e"), 
+    "duration" : NumberInt(0), 
+    "transactions" : [
+
+    ], 
+    "ticketdate" : ISODate("2017-03-08T11:13:01.065+0000"), 
+    "status" : "Open", 
+    "complaintType" : NumberInt(2), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58c0e12562e5875c9d9d50c8"), 
+    "uuId" : NumberInt(3), 
+    "name" : "test", 
+    "subject" : "problem", 
+    "description" : "issue", 
+    "priority" : NumberInt(1), 
+    "department" : "Maintenance", 
+    "assignedEmp" : ObjectId("58b54b9fb7dedf1b7243656d"), 
+    "tickettype" : "", 
+    "createdBy" : ObjectId("58a175be36634c580e5ebc0e"), 
+    "duration" : NumberInt(0), 
+    "transactions" : [
+
+    ], 
+    "ticketdate" : ISODate("2017-03-09T04:59:17.149+0000"), 
+    "status" : "Open", 
+    "complaintType" : NumberInt(2), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58c156c1bb81aa11bc887d55"), 
+    "uuId" : NumberInt(4), 
+    "name" : "ashok", 
+    "subject" : "asdasda", 
+    "description" : "asfdasfaf", 
+    "priority" : NumberInt(1), 
+    "department" : "Registration", 
+    "assignedEmp" : ObjectId("58b4f476a5915e7eb8346b29"), 
+    "tickettype" : "", 
+    "createdBy" : ObjectId("58a175be36634c580e5ebc0e"), 
+    "duration" : NumberInt(0), 
+    "transactions" : [
+        {
+            "description" : "gfgfau", 
+            "_id" : ObjectId("58c160a6bb81aa11bc888068"), 
+            "internal" : NumberInt(0), 
+            "replydate" : ISODate("2017-03-09T14:02:54.828+0000"), 
+            "status" : "Open"
+        }
+    ], 
+    "ticketdate" : ISODate("2017-03-09T13:21:05.597+0000"), 
+    "status" : "Open", 
+    "complaintType" : NumberInt(2), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58c16159bb81aa11bc88806c"), 
+    "uuId" : NumberInt(5), 
+    "name" : "Ashok", 
+    "subject" : "NewType", 
+    "description" : "Punchure", 
+    "priority" : NumberInt(2), 
+    "department" : "Registration", 
+    "assignedEmp" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "tickettype" : "", 
+    "createdBy" : ObjectId("58a175be36634c580e5ebc0e"), 
+    "duration" : NumberInt(0), 
+    "transactions" : [
+
+    ], 
+    "ticketdate" : ISODate("2017-03-09T14:06:17.138+0000"), 
+    "status" : "Open", 
+    "complaintType" : NumberInt(2), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58c161cabb81aa11bc888071"), 
+    "uuId" : NumberInt(6), 
+    "name" : "Ashok", 
+    "subject" : "newticket", 
+    "description" : "break", 
+    "priority" : NumberInt(1), 
+    "department" : "Maintenance", 
+    "assignedEmp" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "tickettype" : "", 
+    "createdBy" : ObjectId("58a175be36634c580e5ebc0e"), 
+    "duration" : NumberInt(0), 
+    "transactions" : [
+        {
+            "description" : "reasssign to yashwanth for furthur usage", 
+            "_id" : ObjectId("58c162f6bb81aa11bc888074"), 
+            "internal" : NumberInt(0), 
+            "replydate" : ISODate("2017-03-09T14:12:32.948+0000"), 
+            "status" : "Open"
+        }
+    ], 
+    "ticketdate" : ISODate("2017-03-09T14:08:10.841+0000"), 
+    "status" : "Open", 
+    "complaintType" : NumberInt(2), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58c25670bb81aa11bc891c49"), 
+    "uuId" : NumberInt(7), 
+    "name" : "Raghu", 
+    "subject" : "Testing", 
+    "description" : "Testing now for the issue", 
+    "priority" : NumberInt(1), 
+    "department" : "Registration", 
+    "assignedEmp" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "tickettype" : "", 
+    "createdBy" : ObjectId("58a175be36634c580e5ebc0e"), 
+    "duration" : NumberInt(0), 
+    "transactions" : [
+
+    ], 
+    "ticketdate" : ISODate("2017-03-10T07:32:00.248+0000"), 
+    "status" : "Open", 
+    "complaintType" : NumberInt(2), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58c256dbbb81aa11bc891c80"), 
+    "uuId" : NumberInt(8), 
+    "name" : "Raghu", 
+    "subject" : "the are", 
+    "description" : "now here", 
+    "priority" : NumberInt(1), 
+    "department" : "Maintenance", 
+    "assignedEmp" : ObjectId("58b54b9fb7dedf1b7243656d"), 
+    "tickettype" : "", 
+    "createdBy" : ObjectId("58a175be36634c580e5ebc0e"), 
+    "duration" : NumberInt(0), 
+    "transactions" : [
+
+    ], 
+    "ticketdate" : ISODate("2017-03-10T07:33:47.280+0000"), 
+    "status" : "Open", 
+    "complaintType" : NumberInt(2), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58c25740bb81aa11bc891c8a"), 
+    "uuId" : NumberInt(9), 
+    "name" : "Asghgh", 
+    "subject" : "Nothing", 
+    "description" : "Simply", 
+    "priority" : NumberInt(4), 
+    "department" : "Registration", 
+    "assignedEmp" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "tickettype" : "", 
+    "createdBy" : ObjectId("58a175be36634c580e5ebc0e"), 
+    "duration" : NumberInt(0), 
+    "transactions" : [
+
+    ], 
+    "ticketdate" : ISODate("2017-03-10T07:35:28.395+0000"), 
+    "status" : "Open", 
+    "complaintType" : NumberInt(2), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58c257a1bb81aa11bc891c8c"), 
+    "uuId" : NumberInt(10), 
+    "name" : "Ragu", 
+    "subject" : "dgfjasg", 
+    "description" : "sdfsdf", 
+    "priority" : NumberInt(1), 
+    "department" : "Maintenance", 
+    "assignedEmp" : ObjectId("58b54b9fb7dedf1b7243656d"), 
+    "tickettype" : "", 
+    "createdBy" : ObjectId("58a175be36634c580e5ebc0e"), 
+    "duration" : NumberInt(0), 
+    "transactions" : [
+
+    ], 
+    "ticketdate" : ISODate("2017-03-10T07:37:05.854+0000"), 
+    "status" : "Open", 
+    "complaintType" : NumberInt(2), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58c2683fbb81aa11bc896cba"), 
+    "uuId" : NumberInt(11), 
+    "name" : "test", 
+    "subject" : "test", 
+    "description" : "test", 
+    "priority" : NumberInt(1), 
+    "department" : "Registration", 
+    "assignedEmp" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "tickettype" : "", 
+    "createdBy" : ObjectId("58a175be36634c580e5ebc0e"), 
+    "duration" : NumberInt(0), 
+    "transactions" : [
+
+    ], 
+    "ticketdate" : ISODate("2017-03-10T08:47:59.936+0000"), 
+    "status" : "Open", 
+    "complaintType" : NumberInt(2), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58c26843bb81aa11bc896cbc"), 
+    "uuId" : NumberInt(12), 
+    "name" : "test", 
+    "subject" : "test", 
+    "description" : "test", 
+    "priority" : NumberInt(1), 
+    "department" : "Registration", 
+    "assignedEmp" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "tickettype" : "", 
+    "createdBy" : ObjectId("58a175be36634c580e5ebc0e"), 
+    "duration" : NumberInt(0), 
+    "transactions" : [
+
+    ], 
+    "ticketdate" : ISODate("2017-03-10T08:48:03.609+0000"), 
+    "status" : "Open", 
+    "complaintType" : NumberInt(2), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58c26846bb81aa11bc896cbe"), 
+    "uuId" : NumberInt(13), 
+    "name" : "test", 
+    "subject" : "test", 
+    "description" : "test", 
+    "priority" : NumberInt(1), 
+    "department" : "Registration", 
+    "assignedEmp" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "tickettype" : "", 
+    "createdBy" : ObjectId("58a175be36634c580e5ebc0e"), 
+    "duration" : NumberInt(0), 
+    "transactions" : [
+
+    ], 
+    "ticketdate" : ISODate("2017-03-10T08:48:06.020+0000"), 
+    "status" : "Open", 
+    "complaintType" : NumberInt(2), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58c26847bb81aa11bc896cc0"), 
+    "uuId" : NumberInt(14), 
+    "name" : "test", 
+    "subject" : "test", 
+    "description" : "test", 
+    "priority" : NumberInt(1), 
+    "department" : "Registration", 
+    "assignedEmp" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "tickettype" : "", 
+    "createdBy" : ObjectId("58a175be36634c580e5ebc0e"), 
+    "duration" : NumberInt(0), 
+    "transactions" : [
+
+    ], 
+    "ticketdate" : ISODate("2017-03-10T08:48:07.274+0000"), 
+    "status" : "Open", 
+    "complaintType" : NumberInt(2), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58c2684cbb81aa11bc896cc2"), 
+    "uuId" : NumberInt(15), 
+    "name" : "test", 
+    "subject" : "test", 
+    "description" : "test", 
+    "priority" : NumberInt(1), 
+    "department" : "Registration", 
+    "assignedEmp" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "tickettype" : "", 
+    "createdBy" : ObjectId("58a175be36634c580e5ebc0e"), 
+    "duration" : NumberInt(0), 
+    "transactions" : [
+
+    ], 
+    "ticketdate" : ISODate("2017-03-10T08:48:12.226+0000"), 
+    "status" : "Open", 
+    "complaintType" : NumberInt(2), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58c2684ebb81aa11bc896cc4"), 
+    "uuId" : NumberInt(16), 
+    "name" : "test", 
+    "subject" : "test", 
+    "description" : "test", 
+    "priority" : NumberInt(1), 
+    "department" : "Registration", 
+    "assignedEmp" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "tickettype" : "", 
+    "createdBy" : ObjectId("58a175be36634c580e5ebc0e"), 
+    "duration" : NumberInt(0), 
+    "transactions" : [
+
+    ], 
+    "ticketdate" : ISODate("2017-03-10T08:48:14.735+0000"), 
+    "status" : "Open", 
+    "complaintType" : NumberInt(2), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58c2685cbb81aa11bc896cc6"), 
+    "uuId" : NumberInt(17), 
+    "name" : "test", 
+    "subject" : "test", 
+    "description" : "test", 
+    "priority" : NumberInt(1), 
+    "department" : "Registration", 
+    "assignedEmp" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "tickettype" : "", 
+    "createdBy" : ObjectId("58a175be36634c580e5ebc0e"), 
+    "duration" : NumberInt(0), 
+    "transactions" : [
+
+    ], 
+    "ticketdate" : ISODate("2017-03-10T08:48:28.792+0000"), 
+    "status" : "Open", 
+    "complaintType" : NumberInt(2), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58c38034e363354f3bb5b2aa"), 
+    "uuId" : NumberInt(18), 
+    "name" : "Prakash", 
+    "createdBy" : ObjectId("58c3746ee363354f3bb5a145"), 
+    "subject" : "UserFeedBack", 
+    "channel" : NumberInt(5), 
+    "priority" : NumberInt(2), 
+    "description" : "Hi Shivu...", 
+    "duration" : NumberInt(0), 
+    "transactions" : [
+
+    ], 
+    "ticketdate" : ISODate("2017-03-11T04:42:00.662+0000"), 
+    "status" : "Open", 
+    "complaintType" : NumberInt(2), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cbf2e823e2760e8d71abba"), 
+    "uuId" : NumberInt(19), 
+    "name" : "lazy", 
+    "subject" : "user feedback", 
+    "priority" : NumberInt(2), 
+    "description" : "wow wow wow", 
+    "createdBy" : ObjectId("58cbe41a23e2760e8d71a884"), 
+    "channel" : "2", 
+    "duration" : NumberInt(0), 
+    "transactions" : [
+
+    ], 
+    "ticketdate" : ISODate("2017-03-17T14:29:58.383+0000"), 
+    "status" : "Open", 
+    "complaintType" : NumberInt(2), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cf7a1aa2fb4258a316d53f"), 
+    "uuId" : NumberInt(20), 
+    "user" : ObjectId("58ca3aca9d29910e85bc3cef"), 
+    "name" : "Saurabh Bhattacharya", 
+    "createdBy" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "subject" : "Test", 
+    "channel" : "4", 
+    "description" : "Test", 
+    "priority" : NumberInt(2), 
+    "duration" : NumberInt(0), 
+    "transactions" : [
+
+    ], 
+    "ticketdate" : ISODate("2017-03-20T06:29:27.834+0000"), 
+    "status" : "Open", 
+    "complaintType" : NumberInt(2), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58cfddb778f4044d6e992aff"), 
+    "uuId" : NumberInt(21), 
+    "user" : ObjectId("58cfcdba78f4044d6e992463"), 
+    "name" : "Umakant Singh", 
+    "createdBy" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "subject" : "good", 
+    "channel" : "4", 
+    "description" : "bad", 
+    "priority" : NumberInt(2), 
+    "duration" : NumberInt(0), 
+    "transactions" : [
+        {
+            "description" : "rtserhsyjs", 
+            "_id" : ObjectId("58cfddd278f4044d6e992b00"), 
+            "internal" : NumberInt(0), 
+            "replydate" : ISODate("2017-03-20T13:48:54.987+0000"), 
+            "status" : "Open"
+        }
+    ], 
+    "ticketdate" : ISODate("2017-03-20T13:34:27.898+0000"), 
+    "status" : "Open", 
+    "complaintType" : NumberInt(2), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d09b7178f4044d6e998298"), 
+    "uuId" : NumberInt(22), 
+    "user" : ObjectId("58cf8fd7a2fb4258a316de76"), 
+    "name" : "Prashh gxdgj", 
+    "createdBy" : ObjectId("58b4f476a5915e7eb8346b29"), 
+    "subject" : "rahul", 
+    "channel" : "4", 
+    "description" : "I t the yfvytvyf", 
+    "priority" : NumberInt(2), 
+    "duration" : NumberInt(0), 
+    "transactions" : [
+
+    ], 
+    "ticketdate" : ISODate("2017-03-21T03:18:02.845+0000"), 
+    "status" : "Open", 
+    "complaintType" : NumberInt(2), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d3a994a6a2163acca315ab"), 
+    "uuId" : NumberInt(23), 
+    "createdBy" : ObjectId("58b5039f96e33160ae2a581d"), 
+    "subject" : "UserFeedBack", 
+    "channel" : NumberInt(5), 
+    "priority" : NumberInt(2), 
+    "description" : "Test Message to check where it goes", 
+    "duration" : NumberInt(0), 
+    "transactions" : [
+
+    ], 
+    "ticketdate" : ISODate("2017-03-23T10:54:21.727+0000"), 
+    "status" : "Open", 
+    "complaintType" : NumberInt(2), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d500da9546970e413fe2d2"), 
+    "uuId" : NumberInt(24), 
+    "name" : "anil", 
+    "createdBy" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "subject" : "yigyigiygi", 
+    "channel" : "4", 
+    "description" : "ukgyivyiyfyi", 
+    "priority" : NumberInt(2), 
+    "duration" : NumberInt(0), 
+    "transactions" : [
+
+    ], 
+    "ticketdate" : ISODate("2017-03-24T11:19:52.594+0000"), 
+    "status" : "Open", 
+    "complaintType" : NumberInt(2), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d500f09546970e413fe2d8"), 
+    "uuId" : NumberInt(25), 
+    "user" : ObjectId("58d4e88d050e4617b44d8cde"), 
+    "name" : "Anil Kumar", 
+    "createdBy" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "subject" : "iygiygyig", 
+    "channel" : "4", 
+    "description" : "FYI fought", 
+    "priority" : NumberInt(2), 
+    "duration" : NumberInt(0), 
+    "transactions" : [
+
+    ], 
+    "ticketdate" : ISODate("2017-03-24T11:20:15.727+0000"), 
+    "status" : "Open", 
+    "complaintType" : NumberInt(2), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d501089546970e413fe2dd"), 
+    "uuId" : NumberInt(26), 
+    "user" : ObjectId("58d4e88d050e4617b44d8cde"), 
+    "name" : "Anil Kumar", 
+    "createdBy" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "subject" : "fgjfyur", 
+    "channel" : "4", 
+    "description" : "giffyiy", 
+    "priority" : NumberInt(2), 
+    "duration" : NumberInt(0), 
+    "transactions" : [
+
+    ], 
+    "ticketdate" : ISODate("2017-03-24T11:20:39.516+0000"), 
+    "status" : "Open", 
+    "complaintType" : NumberInt(2), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d5011d9546970e413fe2e2"), 
+    "uuId" : NumberInt(27), 
+    "user" : ObjectId("58d4e88d050e4617b44d8cde"), 
+    "name" : "Anil Kumar", 
+    "createdBy" : ObjectId("58b4e43ba5915e7eb8346463"), 
+    "subject" : "chdhuydu", 
+    "channel" : "4", 
+    "description" : "rufififiyf", 
+    "priority" : NumberInt(2), 
+    "duration" : NumberInt(0), 
+    "transactions" : [
+
+    ], 
+    "ticketdate" : ISODate("2017-03-24T11:21:00.794+0000"), 
+    "status" : "Open", 
+    "complaintType" : NumberInt(2), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d616109546970e41403f3c"), 
+    "uuId" : NumberInt(28), 
+    "name" : "Prakash", 
+    "subject" : "user feedback", 
+    "priority" : NumberInt(2), 
+    "description" : "Prashanth", 
+    "createdBy" : ObjectId("58c3746ee363354f3bb5a145"), 
+    "channel" : "2", 
+    "duration" : NumberInt(0), 
+    "transactions" : [
+
+    ], 
+    "ticketdate" : ISODate("2017-03-25T07:02:37.492+0000"), 
+    "status" : "Open", 
+    "complaintType" : NumberInt(2), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d627619546970e41404925"), 
+    "uuId" : NumberInt(29), 
+    "name" : "Raghavendra", 
+    "createdBy" : ObjectId("58a17fe536634c580e5ebf48"), 
+    "subject" : "UserFeedBack", 
+    "channel" : NumberInt(5), 
+    "priority" : NumberInt(2), 
+    "description" : "Hello", 
+    "duration" : NumberInt(0), 
+    "transactions" : [
+
+    ], 
+    "ticketdate" : ISODate("2017-03-25T08:16:07.147+0000"), 
+    "status" : "Open", 
+    "complaintType" : NumberInt(2), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d63e759546970e41406979"), 
+    "uuId" : NumberInt(30), 
+    "user" : ObjectId("58d616909546970e4140428a"), 
+    "name" : "shivanand A", 
+    "createdBy" : ObjectId("58b4f476a5915e7eb8346b29"), 
+    "subject" : "About refund", 
+    "channel" : "4", 
+    "description" : "on receipt book we need customers name mandatory", 
+    "priority" : NumberInt(2), 
+    "duration" : NumberInt(0), 
+    "transactions" : [
+
+    ], 
+    "ticketdate" : ISODate("2017-03-25T09:54:58.104+0000"), 
+    "status" : "Open", 
+    "complaintType" : NumberInt(2), 
+    "__v" : NumberInt(0)
+}
