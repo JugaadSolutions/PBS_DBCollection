@@ -10286,3 +10286,67 @@
     "dateAndTime" : ISODate("2017-03-28T04:09:18.113+0000"), 
     "__v" : NumberInt(0)
 }
+{ 
+    "_id" : ObjectId("58d9effe8b35020d3b2fc624"), 
+    "reportId" : NumberInt(938), 
+    "requiredFleetSize" : NumberInt(52), 
+    "emptyPort" : NumberInt(625), 
+    "nonWorkingPort" : NumberInt(0), 
+    "cyclesWithHa" : NumberInt(0), 
+    "cyclesWithMa" : NumberInt(3), 
+    "cyclesWithRv" : NumberInt(3), 
+    "cyclesWithEmployees" : NumberInt(9), 
+    "cyclesWithMembers" : NumberInt(4), 
+    "cyclesWithUsers" : NumberInt(13), 
+    "cyclesInPort" : NumberInt(23), 
+    "dateAndTime" : ISODate("2017-03-28T05:09:18.759+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58d9fe0e8b35020d3b2fd16b"), 
+    "reportId" : NumberInt(939), 
+    "requiredFleetSize" : NumberInt(52), 
+    "emptyPort" : NumberInt(625), 
+    "nonWorkingPort" : NumberInt(0), 
+    "cyclesWithHa" : NumberInt(0), 
+    "cyclesWithMa" : NumberInt(3), 
+    "cyclesWithRv" : NumberInt(3), 
+    "cyclesWithEmployees" : NumberInt(9), 
+    "cyclesWithMembers" : NumberInt(4), 
+    "cyclesWithUsers" : NumberInt(13), 
+    "cyclesInPort" : NumberInt(23), 
+    "dateAndTime" : ISODate("2017-03-28T06:09:18.119+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58da0c1e8b35020d3b2fd563"), 
+    "reportId" : NumberInt(940), 
+    "requiredFleetSize" : NumberInt(52), 
+    "emptyPort" : NumberInt(625), 
+    "nonWorkingPort" : NumberInt(0), 
+    "cyclesWithHa" : NumberInt(0), 
+    "cyclesWithMa" : NumberInt(3), 
+    "cyclesWithRv" : NumberInt(3), 
+    "cyclesWithEmployees" : NumberInt(9), 
+    "cyclesWithMembers" : NumberInt(4), 
+    "cyclesWithUsers" : NumberInt(13), 
+    "cyclesInPort" : NumberInt(23), 
+    "dateAndTime" : ISODate("2017-03-28T07:09:18.171+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("58da1a2e8b35020d3b2fd95a"), 
+    "reportId" : NumberInt(941), 
+    "requiredFleetSize" : NumberInt(52), 
+    "emptyPort" : NumberInt(625), 
+    "nonWorkingPort" : NumberInt(0), 
+    "cyclesWithHa" : NumberInt(0), 
+    "cyclesWithMa" : NumberInt(3), 
+    "cyclesWithRv" : NumberInt(3), 
+    "cyclesWithEmployees" : NumberInt(9), 
+    "cyclesWithMembers" : NumberInt(4), 
+    "cyclesWithUsers" : NumberInt(13), 
+    "cyclesInPort" : NumberInt(23), 
+    "dateAndTime" : ISODate("2017-03-28T08:09:18.963+0000"), 
+    "__v" : NumberInt(0)
+}

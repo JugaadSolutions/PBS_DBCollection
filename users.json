@@ -296,19 +296,23 @@
     "vehicleId" : [
         {
             "_id" : ObjectId("58baa549dfb9756caff88423"), 
-            "vehicleid" : ObjectId("58b64663b7dedf1b72437292")
+            "vehicleid" : ObjectId("58b64663b7dedf1b72437292"), 
+            "vehicleUid" : NumberInt(138)
         }, 
         {
             "_id" : ObjectId("58bcd0efdfb9756caffd7c1d"), 
-            "vehicleid" : ObjectId("58b6465eb7dedf1b72437278")
+            "vehicleid" : ObjectId("58b6465eb7dedf1b72437278"), 
+            "vehicleUid" : NumberInt(136)
         }, 
         {
             "_id" : ObjectId("58bf9ee31fdba71d50bc5aab"), 
-            "vehicleid" : ObjectId("58b64663b7dedf1b724372c6")
+            "vehicleid" : ObjectId("58b64663b7dedf1b724372c6"), 
+            "vehicleUid" : NumberInt(142)
         }, 
         {
             "vehicleid" : ObjectId("58b64663b7dedf1b724372ac"), 
-            "_id" : ObjectId("58c122e8bb81aa11bc886c7b")
+            "_id" : ObjectId("58c122e8bb81aa11bc886c7b"), 
+            "vehicleUid" : NumberInt(140)
         }
     ], 
     "smartCardKey" : "FFFFFFFFFFFF0000", 
@@ -535,14 +539,17 @@
     "vehicleId" : [
         {
             "vehicleid" : ObjectId("58b4fe6496e33160ae2a464b"), 
+            "vehicleUid" : NumberInt(126), 
             "_id" : ObjectId("58d767fa9546970e41421f32")
         }, 
         {
             "vehicleid" : ObjectId("58b3f0966216fa641ae5c80d"), 
+            "vehicleUid" : NumberInt(112), 
             "_id" : ObjectId("58d769c79546970e41421f6f")
         }, 
         {
             "vehicleid" : ObjectId("58ba3d276ba5547484abcb41"), 
+            "vehicleUid" : NumberInt(145), 
             "_id" : ObjectId("58d76e7b9546970e41421faf")
         }
     ], 
@@ -1094,10 +1101,12 @@
     "vehicleId" : [
         {
             "vehicleid" : ObjectId("58ba44796ba5547484abcfad"), 
+            "vehicleUid" : NumberInt(159), 
             "_id" : ObjectId("58d767019546970e41421bd2")
         }, 
         {
             "vehicleid" : ObjectId("58b3f0976216fa641ae5c828"), 
+            "vehicleUid" : NumberInt(114), 
             "_id" : ObjectId("58d768df9546970e41421f66")
         }
     ], 
@@ -1698,18 +1707,22 @@
     "vehicleId" : [
         {
             "vehicleid" : ObjectId("58b3f0986216fa641ae5c85b"), 
+            "vehicleUid" : NumberInt(118), 
             "_id" : ObjectId("58ba4c77dfb9756caff3a906")
         }, 
         {
             "vehicleid" : ObjectId("58b64663b7dedf1b724372ac"), 
+            "vehicleUid" : NumberInt(140), 
             "_id" : ObjectId("58ba5812dfb9756caff3d823")
         }, 
         {
             "vehicleid" : ObjectId("58b64663b7dedf1b72437292"), 
+            "vehicleUid" : NumberInt(138), 
             "_id" : ObjectId("58ba623adfb9756caff3ee36")
         }, 
         {
             "vehicleid" : ObjectId("58b6465eb7dedf1b72437278"), 
+            "vehicleUid" : NumberInt(136), 
             "_id" : ObjectId("58ba6b49dfb9756caff3f81a")
         }
     ], 
@@ -2249,6 +2262,7 @@
     "vehicleId" : [
         {
             "vehicleid" : ObjectId("58b4fea196e33160ae2a47f6"), 
+            "vehicleUid" : NumberInt(127), 
             "_id" : ObjectId("58c615a16026b03f71eb58dd")
         }
     ], 
@@ -2366,6 +2380,7 @@
     "vehicleId" : [
         {
             "vehicleid" : ObjectId("58ba3d286ba5547484abcb4e"), 
+            "vehicleUid" : NumberInt(146), 
             "_id" : ObjectId("58d76ea49546970e41422010")
         }
     ], 
@@ -2600,14 +2615,17 @@
     "vehicleId" : [
         {
             "vehicleid" : ObjectId("58ba3d2a6ba5547484abcbc3"), 
+            "vehicleUid" : NumberInt(155), 
             "_id" : ObjectId("58d766ff9546970e41421bc9")
         }, 
         {
             "vehicleid" : ObjectId("58b3f0986216fa641ae5c882"), 
+            "vehicleUid" : NumberInt(121), 
             "_id" : ObjectId("58d768af9546970e41421f3b")
         }, 
         {
             "vehicleid" : ObjectId("58b500ea96e33160ae2a4fcf"), 
+            "vehicleUid" : NumberInt(132), 
             "_id" : ObjectId("58d76e769546970e41421fa7")
         }
     ], 
@@ -2726,6 +2744,7 @@
     "vehicleId" : [
         {
             "vehicleid" : ObjectId("58ba44796ba5547484abcfad"), 
+            "vehicleUid" : NumberInt(159), 
             "_id" : ObjectId("58d4c449a6a2163acca3a73a")
         }
     ], 
